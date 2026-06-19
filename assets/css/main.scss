@@ -136,6 +136,14 @@ img { max-width: 100%; display: block; }
   color: var(--accent);
   font-style: normal;
 }
+.hero-record-img {
+  display: inline-block;
+  vertical-align: middle;
+  height: 0.85em;
+  width: auto;
+  position: relative;
+  top: -0.05em;
+}
 .hero-body {
   font-family: var(--font-ui);
   font-size: 1rem;
