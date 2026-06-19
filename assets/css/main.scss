@@ -156,8 +156,8 @@ img { max-width: 100%; display: block; }
   margin: 0 auto;
   display: flex;
   gap: 1rem;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  flex-wrap: nowrap;
+  justify-content: space-between;
 }
 .stat {
   align-items: center;
@@ -181,7 +181,7 @@ img { max-width: 100%; display: block; }
   text-align: center;
   text-decoration: none;
   transition: box-shadow .2s, -webkit-box-shadow .2s;
-  white-space: nowrap;
+  white-space: normal;
   border: 0;
   user-select: none;
   -webkit-user-select: none;
