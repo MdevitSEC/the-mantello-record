@@ -5,13 +5,13 @@ subtitle: "Have information about the Mantello administration? We want to hear f
 permalink: /submit-tip/
 ---
 
-If you have a document, source, lead, or eyewitness account related to Mayor Mantello or her administration, use the form below. We review every submission.
+If you have a document, a source, a lead, or an eyewitness account related to Mayor Mantello or her administration, use the form below. We review every submission.
 
-Your name and contact information are for our use only and will never be published without your explicit permission. If you want to remain anonymous, you may leave those fields blank — though a contact method helps us follow up if we need more detail.
+Your name and contact information are for our use only. We will not publish them without your explicit permission. Anonymous submissions are welcome. A contact method helps us follow up, but it is never required.
 
 <div class="tip-form">
   <form action="https://formspree.io/info@themantellorecord.com" method="POST">
-    <input type="hidden" name="_subject" value="New tip — The Mantello Record">
+    <input type="hidden" name="_subject" value="New tip: The Mantello Record">
 
     <div class="form-group">
       <label for="name">Your Name (optional)</label>
@@ -43,5 +43,5 @@ Your name and contact information are for our use only and will never be publish
     <button type="submit" class="form-submit">Submit Tip</button>
   </form>
 
-  <p class="form-note">We do not publish names without permission. We do not share submissions with third parties. If you have sensitive documents, contact us first before uploading anything anywhere.</p>
+  <p class="form-note">We do not publish names without permission. We do not share submissions with third parties. If you have sensitive documents, contact us before uploading anything anywhere.</p>
 </div>

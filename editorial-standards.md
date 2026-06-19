@@ -13,11 +13,11 @@ We are not neutral. We are honest.
 
 ## How We Report
 
-**Every factual claim has a source.** Sources are linked inline. Public meeting transcripts and city clerk's minutes are primary sources and cited by date. Local outlets -- WAMC, CBS6, Spectrum News, News10 -- are used as secondary sources where their reporting is verified.
+**Every factual claim has a source.** Sources are linked inline. Public meeting transcripts and city clerk's minutes are primary sources, cited by date. Local outlets (WAMC, CBS6, Spectrum News, News10) are used as secondary sources where their reporting is verified.
 
 **We do not publish unverified information.** Tips that cannot be independently confirmed do not appear in the record. If you send us a document, we will tell you whether we can use it before publishing anything.
 
-**We name the specific.** Dollar amounts, vote counts, ordinance numbers, street names, and dates -- these are not decoration. They are the difference between a claim and a fact.
+**We name the specific.** Dollar amounts, vote counts, ordinance numbers, street names, and dates are not decoration. They are the difference between a claim and a fact.
 
 ---
 
@@ -33,7 +33,7 @@ The callout is not a rant. It is a short, direct observation grounded in the sam
 
 - Publish unverified information
 - Attack private citizens
-- Describe how readers should feel about a documented fact
+- Tell readers how to feel about a documented fact
 - Soften the record to appear balanced when the record is what it is
 
 ---
