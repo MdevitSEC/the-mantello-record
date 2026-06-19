@@ -10,7 +10,7 @@ If you have a document, source, lead, or eyewitness account related to Mayor Man
 Your name and contact information are for our use only and will never be published without your explicit permission. If you want to remain anonymous, you may leave those fields blank — though a contact method helps us follow up if we need more detail.
 
 <div class="tip-form">
-  <form action="https://formspree.io/f/PLACEHOLDER" method="POST">
+  <form action="https://formspree.io/info@themantellorecord.com" method="POST">
     <input type="hidden" name="_subject" value="New tip — The Mantello Record">
 
     <div class="form-group">
