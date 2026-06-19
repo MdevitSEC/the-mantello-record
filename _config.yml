@@ -1,0 +1,37 @@
+title: "The Mantello Record"
+description: "A public record of Mayor Carmella Mantello's controversies in Troy, NY."
+url: "https://www.themantellorecord.com"
+baseurl: ""
+
+author: "The Mantello Record"
+email: ""
+
+permalink: /:year/:month/:day/:title/
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Categories used across the site
+categories_list:
+  - Legal Disputes
+  - Executive Overreach
+  - Financial Failures
+  - Transparency
+  - Community Impact
+
+markdown: kramdown
+highlighter: rouge
+theme: null
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
