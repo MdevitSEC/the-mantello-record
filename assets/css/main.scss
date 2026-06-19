@@ -231,7 +231,7 @@ img { max-width: 100%; display: block; }
 .post-card {
   border: 1px solid var(--gray-mid);
   padding: 1.5rem;
-  background: var(--white);
+  background: #ffffff;
   position: relative;
   transition: border-color 0.15s, box-shadow 0.15s;
   cursor: pointer;
@@ -536,7 +536,7 @@ img { max-width: 100%; display: block; }
   font-family: var(--font-ui);
   font-size: 0.95rem;
   color: var(--black);
-  background: var(--white);
+  background: #ffffff;
   transition: border-color 0.15s;
 }
 .form-group input:focus,
