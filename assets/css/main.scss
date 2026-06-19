@@ -177,7 +177,7 @@ img { max-width: 100%; display: block; }
   line-height: 1;
   margin: 0;
   outline: none;
-  padding: 0.3rem 2.5rem;
+  padding: 0.85rem 2.5rem;
   text-align: center;
   text-decoration: none;
   transition: box-shadow .2s, -webkit-box-shadow .2s;
@@ -193,7 +193,7 @@ img { max-width: 100%; display: block; }
 .stat-number {
   display: block;
   font-family: var(--font-headline);
-  font-size: 1.25rem;
+  font-size: 2rem;
   font-weight: 900;
   line-height: 1;
   color: var(--red);
@@ -202,10 +202,10 @@ img { max-width: 100%; display: block; }
 .stat-label {
   display: block;
   font-family: var(--font-ui);
-  font-size: 0.6rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.07em;
-  margin-top: 0.2rem;
+  margin-top: 0.35rem;
   color: #555;
 }
 
