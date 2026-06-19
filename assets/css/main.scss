@@ -37,8 +37,8 @@ img { max-width: 100%; display: block; }
 
 /* --- Header --- */
 .site-header {
-  background: var(--black);
-  border-bottom: 4px solid var(--red);
+  background: var(--red-dark);
+  border-bottom: 4px solid var(--accent);
   padding: 0 1.5rem;
 }
 .header-inner {
