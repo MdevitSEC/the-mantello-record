@@ -596,11 +596,11 @@ img { max-width: 100%; display: block; }
 
 /* --- Footer --- */
 .site-footer {
-  background: var(--accent);
-  color: var(--black);
+  background: var(--red-dark);
+  color: var(--white);
   padding: 3rem 1.5rem 1.5rem;
   margin-top: 4rem;
-  border-top: 4px solid var(--black);
+  border-top: 4px solid var(--accent);
 }
 .footer-inner {
   max-width: var(--max-width);
@@ -615,17 +615,17 @@ img { max-width: 100%; display: block; }
   font-family: var(--font-headline);
   font-size: 1.5rem;
   font-weight: 900;
-  color: var(--black);
+  color: var(--white);
   text-transform: uppercase;
   margin-bottom: 0.5rem;
 }
-.footer-left { max-width: 400px; font-family: var(--font-ui); font-size: 0.875rem; line-height: 1.6; color: var(--black); }
+.footer-left { max-width: 400px; font-family: var(--font-ui); font-size: 0.875rem; line-height: 1.6; color: #cccccc; }
 .footer-right ul { list-style: none; }
 .footer-right li { margin-bottom: 0.4rem; }
 .footer-right a {
   font-family: var(--font-ui);
   font-size: 0.85rem;
-  color: var(--black);
+  color: #cccccc;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -634,10 +634,10 @@ img { max-width: 100%; display: block; }
   max-width: var(--max-width);
   margin: 0 auto;
   padding-top: 1.5rem;
-  border-top: 1px solid rgba(40,9,5,0.25);
+  border-top: 1px solid rgba(255,255,255,0.2);
   font-family: var(--font-ui);
   font-size: 0.78rem;
-  color: var(--black);
+  color: #aaaaaa;
 }
 
 /* --- Responsive --- */
