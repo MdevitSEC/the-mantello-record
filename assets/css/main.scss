@@ -31,7 +31,7 @@ body {
   background: #E8E9EB;
   line-height: 1.7;
 }
-a { color: var(--red); text-decoration: none; }
+a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 img { max-width: 100%; display: block; }
 
@@ -117,7 +117,7 @@ img { max-width: 100%; display: block; }
 .hero-label {
   font-family: var(--font-ui);
   font-size: 0.75rem;
-  color: var(--red);
+  color: var(--accent);
   text-transform: uppercase;
   letter-spacing: 0.12em;
   font-weight: 700;
@@ -133,7 +133,7 @@ img { max-width: 100%; display: block; }
   max-width: 800px;
 }
 .hero-heading em {
-  color: var(--red);
+  color: var(--accent);
   font-style: normal;
 }
 .hero-body {
@@ -240,7 +240,7 @@ img { max-width: 100%; display: block; }
   border-color: var(--accent);
   box-shadow: 0 2px 12px rgba(184,28,28,0.08);
 }
-.post-card:hover .post-card-title { color: var(--red); }
+.post-card:hover .post-card-title { color: var(--accent); }
 .post-card-link {
   position: absolute;
   inset: 0;
@@ -282,7 +282,7 @@ img { max-width: 100%; display: block; }
   font-family: var(--font-ui);
   font-size: 0.72rem;
   font-weight: 700;
-  color: var(--red);
+  color: var(--accent);
   letter-spacing: 0.03em;
 }
 .post-card-excerpt {
@@ -365,7 +365,7 @@ img { max-width: 100%; display: block; }
 .post-body p { margin-bottom: 1.25rem; }
 .post-body strong { font-weight: 700; }
 .post-body em { font-style: italic; }
-.post-body a { color: var(--red); }
+.post-body a { color: var(--accent); }
 .post-body blockquote {
   border-left: 4px solid var(--accent);
   padding: 0.75rem 1.25rem;
@@ -414,12 +414,12 @@ img { max-width: 100%; display: block; }
   font-weight: 600;
   color: var(--black);
 }
-.post-nav a:hover { color: var(--red); }
+.post-nav a:hover { color: var(--accent); }
 .back-to-record {
   font-family: var(--font-ui);
   font-size: 0.82rem;
   font-weight: 700;
-  color: var(--red);
+  color: var(--accent);
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -457,12 +457,12 @@ img { max-width: 100%; display: block; }
   font-size: 1.25rem;
   font-weight: 800;
   text-transform: uppercase;
-  color: var(--red);
+  color: var(--accent);
   margin: 2rem 0 0.5rem;
   letter-spacing: 0.02em;
 }
 .page-body p { margin-bottom: 1rem; }
-.page-body a { color: var(--red); }
+.page-body a { color: var(--accent); }
 .page-body strong { font-weight: 700; }
 .page-body em {
   font-family: var(--font-ui);
@@ -546,7 +546,7 @@ img { max-width: 100%; display: block; }
 }
 .form-group textarea { min-height: 150px; resize: vertical; }
 .form-submit {
-  background: var(--red);
+  background: var(--accent);
   color: var(--white);
   border: none;
   padding: 0.8rem 2rem;
