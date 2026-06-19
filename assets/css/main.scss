@@ -31,7 +31,7 @@ body {
   background: #E8E9EB;
   line-height: 1.7;
 }
-a { color: var(--accent); text-decoration: none; }
+a { color: var(--red); text-decoration: none; }
 a:hover { text-decoration: underline; }
 img { max-width: 100%; display: block; }
 
@@ -240,7 +240,7 @@ img { max-width: 100%; display: block; }
   border-color: var(--accent);
   box-shadow: 0 2px 12px rgba(184,28,28,0.08);
 }
-.post-card:hover .post-card-title { color: var(--accent); }
+.post-card:hover .post-card-title { color: var(--red); }
 .post-card-link {
   position: absolute;
   inset: 0;
@@ -365,7 +365,7 @@ img { max-width: 100%; display: block; }
 .post-body p { margin-bottom: 1.25rem; }
 .post-body strong { font-weight: 700; }
 .post-body em { font-style: italic; }
-.post-body a { color: var(--accent); }
+.post-body a { color: var(--red); }
 .post-body blockquote {
   border-left: 4px solid var(--accent);
   padding: 0.75rem 1.25rem;
@@ -414,12 +414,12 @@ img { max-width: 100%; display: block; }
   font-weight: 600;
   color: var(--black);
 }
-.post-nav a:hover { color: var(--accent); }
+.post-nav a:hover { color: var(--red); }
 .back-to-record {
   font-family: var(--font-ui);
   font-size: 0.82rem;
   font-weight: 700;
-  color: var(--accent);
+  color: var(--red);
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -462,7 +462,7 @@ img { max-width: 100%; display: block; }
   letter-spacing: 0.02em;
 }
 .page-body p { margin-bottom: 1rem; }
-.page-body a { color: var(--accent); }
+.page-body a { color: var(--red); }
 .page-body strong { font-weight: 700; }
 .page-body em {
   font-family: var(--font-ui);
