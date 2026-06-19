@@ -8,14 +8,14 @@
 
 /* --- Variables --- */
 :root {
-  --black: #280905;
+  --black: #38023B;
   --white: #ffffff;
-  --red: #c3110c;
-  --red-dark: #740a03;
-  --accent: #e6501b;
-  --gray-light: #f4f4f4;
-  --gray-mid: #e0e0e0;
-  --gray-text: #555555;
+  --red: #740A03;
+  --red-dark: #38023B;
+  --accent: #FFB20F;
+  --gray-light: #E8E9EB;
+  --gray-mid: #d0d2d5;
+  --gray-text: #555B6E;
   --font-headline: 'Barlow Condensed', Impact, sans-serif;
   --font-body: 'Merriweather', Georgia, serif;
   --font-ui: 'Barlow', Arial, sans-serif;
@@ -28,7 +28,7 @@ html { font-size: 16px; scroll-behavior: smooth; }
 body {
   font-family: var(--font-body);
   color: var(--black);
-  background: #A1B0AB;
+  background: #E8E9EB;
   line-height: 1.7;
 }
 a { color: var(--red); text-decoration: none; }
@@ -197,7 +197,7 @@ img { max-width: 100%; display: block; }
   font-size: 2.65rem;
   font-weight: 900;
   line-height: 1;
-  color: var(--red);
+  color: var(--black);
   letter-spacing: -0.02em;
 }
 .stat-label {
