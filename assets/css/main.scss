@@ -87,13 +87,13 @@ img { max-width: 100%; display: block; }
 .site-nav a:hover,
 .site-nav a.active { color: var(--white); text-decoration: none; }
 .site-nav .nav-tip {
-  background: var(--accent);
+  background: var(--black);
   color: var(--white) !important;
   padding: 0.4rem 0.9rem;
   border-radius: 2px;
   font-weight: 700;
 }
-.site-nav .nav-tip:hover { background: var(--red); }
+.site-nav .nav-tip:hover { background: var(--red-dark); }
 
 /* --- Hero (Homepage) --- */
 .site-hero {
