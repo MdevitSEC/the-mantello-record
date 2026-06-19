@@ -8,10 +8,11 @@
 
 /* --- Variables --- */
 :root {
-  --black: #0d0d0d;
+  --black: #280905;
   --white: #ffffff;
-  --red: #b81c1c;
-  --red-dark: #8b0000;
+  --red: #c3110c;
+  --red-dark: #740a03;
+  --accent: #e6501b;
   --gray-light: #f4f4f4;
   --gray-mid: #e0e0e0;
   --gray-text: #555555;
@@ -59,7 +60,7 @@ img { max-width: 100%; display: block; }
   letter-spacing: 0.02em;
   line-height: 1;
 }
-.site-title:hover { text-decoration: none; color: var(--red); }
+.site-title:hover { text-decoration: none; color: var(--accent); }
 .site-tagline {
   font-family: var(--font-ui);
   font-size: 0.75rem;
@@ -86,13 +87,13 @@ img { max-width: 100%; display: block; }
 .site-nav a:hover,
 .site-nav a.active { color: var(--white); text-decoration: none; }
 .site-nav .nav-tip {
-  background: var(--red);
+  background: var(--accent);
   color: var(--white) !important;
   padding: 0.4rem 0.9rem;
   border-radius: 2px;
   font-weight: 700;
 }
-.site-nav .nav-tip:hover { background: var(--red-dark); }
+.site-nav .nav-tip:hover { background: var(--red); }
 
 /* --- Hero (Homepage) --- */
 .site-hero {
@@ -325,7 +326,7 @@ img { max-width: 100%; display: block; }
   border-radius: 2px;
   transition: background 0.15s;
 }
-.btn-primary:hover { background: var(--red); text-decoration: none; color: var(--white); }
+.btn-primary:hover { background: var(--accent); text-decoration: none; color: var(--white); }
 .view-all { text-align: center; margin-top: 2.5rem; }
 
 /* --- Full Post --- */
