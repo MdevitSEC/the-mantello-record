@@ -160,15 +160,17 @@ img { max-width: 100%; display: block; }
   justify-content: space-around;
 }
 .stat {
+  appearance: none;
+  -webkit-appearance: none;
+  background: transparent;
+  border: none;
+  border-right: 1px solid #2a2a2a;
+  color: inherit;
+  font: inherit;
   text-align: center;
   padding: 0.75rem 2rem;
-  border-right: 1px solid #2a2a2a;
   flex: 1;
   min-width: 150px;
-  background: transparent;
-  border-top: none;
-  border-bottom: none;
-  border-left: none;
   cursor: pointer;
   transition: background 0.15s;
 }
