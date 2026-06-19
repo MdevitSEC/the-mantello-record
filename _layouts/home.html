@@ -31,17 +31,17 @@ layout: default
     <div class="post-list">
       {% for post in site.posts limit:6 %}
       <article class="post-card">
-        <div class="post-card-meta">
-          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-          {% if post.categories %}
+        <a class="post-card-link" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}"></a>
+        <h3 class="post-card-title">{{ post.title }}</h3>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        {% if post.categories %}
+          <div class="post-card-tags">
             {% for cat in post.categories %}
-              <span class="category-tag cat-{{ cat | slugify }}">{{ cat }}</span>
+              <span class="hashtag">#{{ cat | remove: " " }}</span>
             {% endfor %}
-          {% endif %}
-        </div>
-        <h3 class="post-card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          </div>
+        {% endif %}
         <p class="post-card-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
-        <a class="read-more" href="{{ post.url | relative_url }}">Read the record &rarr;</a>
       </article>
       {% endfor %}
     </div>
