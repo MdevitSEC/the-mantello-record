@@ -155,45 +155,58 @@ img { max-width: 100%; display: block; }
   max-width: var(--max-width);
   margin: 0 auto;
   display: flex;
-  gap: 0;
+  gap: 1rem;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 .stat {
-  appearance: none;
-  -webkit-appearance: none;
-  background: transparent;
-  border: none;
-  border-right: 1px solid #2a2a2a;
-  color: inherit;
-  font: inherit;
-  text-align: center;
-  padding: 0.75rem 2rem;
-  flex: 1;
-  min-width: 150px;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: transparent 0 0 0 3px, rgba(18, 18, 18, .1) 0 6px 20px;
+  box-sizing: border-box;
+  color: #121212;
   cursor: pointer;
-  transition: background 0.15s;
+  display: inline-flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  font-family: Inter, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 1;
+  margin: 0;
+  outline: none;
+  padding: 1rem 1.2rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s, -webkit-box-shadow .2s;
+  white-space: nowrap;
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
 }
-.stat:last-child { border-right: none; }
-.stat:hover { background: #1a1a1a; }
+.stat:hover {
+  box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
+}
 .stat-number {
   display: block;
   font-family: var(--font-headline);
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 900;
   line-height: 1;
   color: var(--red);
-  text-shadow: 0 0 40px rgba(184,28,28,0.4);
   letter-spacing: -0.02em;
 }
 .stat-label {
   display: block;
   font-family: var(--font-ui);
-  font-size: 0.72rem;
+  font-size: 0.68rem;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.07em;
   margin-top: 0.4rem;
-  color: #aaaaaa;
+  color: #555;
 }
 
 /* --- Posts Section --- */
