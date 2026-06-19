@@ -149,7 +149,7 @@ img { max-width: 100%; display: block; }
   background: var(--black);
   border-top: 4px solid var(--red);
   border-bottom: 4px solid var(--red);
-  padding: 0.75rem 1.5rem;
+  padding: 0.25rem 1.5rem;
 }
 .stats-inner {
   max-width: var(--max-width);
@@ -177,7 +177,7 @@ img { max-width: 100%; display: block; }
   line-height: 1;
   margin: 0;
   outline: none;
-  padding: 0.5rem 1rem;
+  padding: 0.3rem 0.75rem;
   text-align: center;
   text-decoration: none;
   transition: box-shadow .2s, -webkit-box-shadow .2s;
@@ -193,7 +193,7 @@ img { max-width: 100%; display: block; }
 .stat-number {
   display: block;
   font-family: var(--font-headline);
-  font-size: 2rem;
+  font-size: 1.25rem;
   font-weight: 900;
   line-height: 1;
   color: var(--red);
@@ -202,10 +202,10 @@ img { max-width: 100%; display: block; }
 .stat-label {
   display: block;
   font-family: var(--font-ui);
-  font-size: 0.68rem;
+  font-size: 0.6rem;
   text-transform: uppercase;
   letter-spacing: 0.07em;
-  margin-top: 0.4rem;
+  margin-top: 0.2rem;
   color: #555;
 }
 
