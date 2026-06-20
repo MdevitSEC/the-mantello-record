@@ -68,7 +68,7 @@ The LDC approved up to $12.5 million in tax-exempt bonds for the Proctor's Theat
 | Name | Role | Notes |
 |---|---|---|
 | Seamus Donnelly | Executive Director | Also serves as Deputy Mayor. See Administration and Staff section. |
-| *[To be researched]* | Board Member | |
+| Joe Mazzariello | Board Member | Appointed June 17, 2026. Also serves as Commissioner of General Services for the City of Troy. Announcement credited Mantello and Donnelly. Per official city announcement, oversees the Quality-of-Life Action Crew. |
 | *[To be researched]* | Board Member | |
 | *[To be researched]* | Board Member | |
 
