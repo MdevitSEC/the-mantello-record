@@ -51,7 +51,7 @@ The vote was 4-3 along strict party lines. Council President Steele called it a 
 |---|---|---|---|
 | *[To be researched]* | City Attorney | January 2024 | Unnamed in coverage. Cited in multiple FOIL denial complaints from council members and residents. |
 | *[To be researched]* | Communications Director | *[To be researched]* | Referenced in December 2025 Proctor's Theater seat removal story. |
-| *[To be researched]* | Deputy Mayor | *[To be researched]* | Position referenced in 2023 campaign coverage. |
+| Seamus Donnelly | Deputy Mayor | January 2024 | |
 
 ---
 
@@ -85,7 +85,6 @@ The following information requires additional sourcing from city records, Troy C
 - Full Planning Board membership (names, appointment dates, professional backgrounds)
 - Identity of city attorney
 - Identity of communications director
-- Deputy mayor identification
 - LDC board membership
 - Full department head roster (Public Works, Police Chief, Fire Chief, DPW, etc.)
 - Names of outside accounting firms hired during comptroller vacancies
