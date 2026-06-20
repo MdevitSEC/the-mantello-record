@@ -68,11 +68,11 @@ The LDC approved up to $12.5 million in tax-exempt bonds for the Proctor's Theat
 | Name | Role | Notes |
 |---|---|---|
 | Seamus Donnelly | Executive Director | Also serves as Deputy Mayor. See Administration and Staff section. |
-| Joe Mazzariello | Board Member | Appointed June 17, 2026. Also serves as Commissioner of General Services for the City of Troy. Announcement credited Mantello and Donnelly. Per official city announcement, oversees the Quality-of-Life Action Crew. |
+| Joe Mazzariello | Board Member | Appointed June 17, 2026. Also serves as Commissioner of General Services for the City of Troy, a Mantello appointment from January 2024. Background: BS in Criminal Justice and Sociology; 10+ years at Rensselaer County Department of Social Services; former Commissioner/Director of the Rensselaer County One Stop Career Center. Oversees the Quality-of-Life Action Crew. Featured alongside Donnelly in Operation Refresh 2026. LDC appointment announced jointly by Mantello and Donnelly. No controversy in public record. Pattern: Mantello is placing her own department commissioner on the same LDC board that Donnelly controls as Executive Director, tightening the administration's grip on the entity overseeing the Proctor's Theatre city hall deal. |
 | *[To be researched]* | Board Member | |
 | *[To be researched]* | Board Member | |
 
-*Sources: [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/news/2025/11/05/troy-council-pushing-forward-with-vote-on-new-city-hall-lease), [CBS6](https://cbs6albany.com/news/local/troy-city-council-voting-on-ordinance-to-move-city-hall-11-07-2025)*
+*Sources: [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/news/2025/11/05/troy-council-pushing-forward-with-vote-on-new-city-hall-lease), [CBS6](https://cbs6albany.com/news/local/troy-city-council-voting-on-ordinance-to-move-city-hall-11-07-2025), [troyny.gov Staff Directory — Mazzariello](https://www.troyny.gov/directory.aspx?EID=67), [Operation Refresh 2026](https://www.troyny.gov/m/newsflash/home/detail/360)*
 
 ---
 
