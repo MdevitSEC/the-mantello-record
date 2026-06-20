@@ -51,7 +51,9 @@ The vote was 4-3 along strict party lines. Council President Steele called it a 
 |---|---|---|---|
 | *[To be researched]* | City Attorney | January 2024 | Unnamed in coverage. Cited in multiple FOIL denial complaints from council members and residents. |
 | *[To be researched]* | Communications Director | *[To be researched]* | Referenced in December 2025 Proctor's Theater seat removal story. |
-| Seamus Donnelly | Deputy Mayor | January 2024 | |
+| Seamus Donnelly | Deputy Mayor / LDC Executive Director | January 2024 | Lifelong Troy resident. Prior career in auto sales (Cooley Motors) and insurance brokerage (Northeastern Insurance, ~$3M book of business). Named by Mantello as part of her transition team. Also serves as Executive Director of the Troy Local Development Corporation (LDC), the entity that issued $12.5M in bonds for the Proctor's Theatre city hall project and holds the city's 30-year lease. Sat on the RFP screening committee for that same project. Council President Steele raised the conflict publicly. Republican majority leader Tom Casey resigned from the LDC board over it. Donnelly maintains no conflict exists because he is appointed, not elected. Separately: Donnelly is gay. After Trump's 2024 election win, he posted congratulations for the president-elect. Collar City Pride relocated its annual festival out of Troy in response. Donnelly declined to apologize. Mantello backed him publicly. |
+
+*Sources (Donnelly): [WNYT](https://wnyt.com/top-stories/troys-mayor-elect-names-new-deputy-mayor/), [CBS6](https://cbs6albany.com/news/local/troys-mayor-elect-chooses-her-team-carmella-mantello-city-republican-gop-first-woman-collar-seamus-donnelly-deputy-hudson-valley-community-college-phd-president-don-dane-politics-local-government-engineers-), [CBS6 — LDC conflict](https://cbs6albany.com/news/local/troy-council-leader-resigns-from-development-board-amid-city-hall-controversy), [WAMC — city hall details](https://www.wamc.org/news/2025-08-08/troy-residents-still-seek-more-details-regarding-the-proposed-city-hall-relocation), [CBS6 — Pride festival](https://cbs6albany.com/news/local/troy-pride-festival-moves-amid-controversy-over-deputy-mayors-post), [WAMC — Pride tensions](https://www.wamc.org/news/2025-06-06/tensions-over-pride-in-troy-on-display-at-latest-council-meeting)*
 
 ---
 
@@ -61,6 +63,7 @@ The LDC approved up to $12.5 million in tax-exempt bonds for the Proctor's Theat
 
 | Name | Role | Notes |
 |---|---|---|
+| Seamus Donnelly | Executive Director | Also serves as Deputy Mayor. See Administration and Staff section. |
 | *[To be researched]* | Board Member | |
 | *[To be researched]* | Board Member | |
 | *[To be researched]* | Board Member | |
