@@ -35,13 +35,13 @@ The vote was 4-3 along strict party lines. Council President Steele called it a 
 
 | Name | Appointed | Role | Notes |
 |---|---|---|---|
-| *[To be researched]* | July 2024+ | Member | |
-| *[To be researched]* | July 2024+ | Member | |
-| *[To be researched]* | July 2024+ | Member | |
-| *[To be researched]* | July 2024+ | Member | |
-| *[To be researched]* | July 2024+ | Member | |
+| Peter Kehoe | September 2024 | Chair | Lawyer in private practice. Executive Director of the New York State Sheriffs' Association. Past chairman of the Planning Board. |
+| Naomi "Toni" Dickinson | September 2024 | Member | Lifelong Troy resident. Experience in state government. Trustee, Lansingburgh Historical Society. |
+| James Scully | September 2024 | Member | Owner of Bacchus Wood-Fired restaurant in Troy. Member of Mantello's transition team when she took office in January 2024. Brings a developer's perspective to the board per Mantello's announcement. |
+| James Shufelt | September 2024 | Member | Environmental, Health and Safety Manager at CD Perry & Sons, a Troy-based general contractor. Background in construction management. |
+| Jeoffrey York | September 2024 | Member | Information security professional at General Electric. Project and program management background. |
 
-*Sources: [CBS6](https://cbs6albany.com/news/local/opposition-cries-foul-as-troy-replaces-planning-commission-with-mayor-appointed-board-mantello), [WAMC](https://www.wamc.org/news/2024-07-26/troy-planning-commission-abolished), [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/politics/2024/07/26/troy-planning-commission-repeal-planning-board-formation)*
+*Sources: [CBS6 — abolition vote](https://cbs6albany.com/news/local/opposition-cries-foul-as-troy-replaces-planning-commission-with-mayor-appointed-board-mantello), [WAMC — abolition vote](https://www.wamc.org/news/2024-07-26/troy-planning-commission-abolished), [Spectrum News — abolition vote](https://spectrumlocalnews.com/nys/capital-region/politics/2024/07/26/troy-planning-commission-repeal-planning-board-formation), [WAMC — appointments, Sept. 2024](https://www.wamc.org/news/2024-09-12/appointments-to-troys-planning-board-announced-as-council-president-urges-independence), [CBS6 — appointments](https://cbs6albany.com/news/local/city-of-troy-mayor-appoints-new-planning-board-members), [troyny.gov announcement](https://www.troyny.gov/m/newsflash/Home/Detail/248)*
 
 ---
 
@@ -89,7 +89,6 @@ The LDC approved up to $12.5 million in tax-exempt bonds for the Proctor's Theat
 
 The following information requires additional sourcing from city records, Troy City Clerk filings, or local news archives:
 
-- Full Planning Board membership (names, appointment dates, professional backgrounds)
 - Identity of city attorney
 - Identity of communications director
 - LDC board membership (Donnelly confirmed as Executive Director; board members TBD)
