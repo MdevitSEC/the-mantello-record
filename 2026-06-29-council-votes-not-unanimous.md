@@ -1,9 +1,4 @@
----
-layout: post
-title: "Council Votes Not Unanimous: A Complete Record of Divided Votes, 2024-2026"
-date: 2026-06-29
-categories: ["Transparency", "Council Records"]
----
+# Council Votes Not Unanimous: A Complete Record of Divided Votes, 2024-2026
 
 Every city council vote in Troy's 2024 and 2025 sessions where at least one member voted no, or where a measure was defeated or failed a supermajority threshold. Each entry includes the full agenda title, the legislative purpose, and the debate on record. Votes are listed in chronological order by meeting date. Sources are meeting transcripts from the TroyDems City Council Meeting archive.
 
