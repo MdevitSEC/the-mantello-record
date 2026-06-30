@@ -9,4 +9,8 @@ Troy's Joint Task Force on Sustainability and Climate Smart Practices had been t
 
 At the January 8, 2026 public forum, task force acting chair Daniel Morisy told the new council the city had also abandoned a municipal solar farm and eliminated the street tree committee.
 
-*Source: Troy City Council Jan. 8, 2026 meeting transcript (City Clerk's office)*
+**What happened after**
+
+The new council acted at the March 19, 2026 Finance Meeting, passing two resolutions: one formally welcoming and designating appointments to the sustainability task force, and a second establishing a climate smart community task force and appointing a coordinator. The DEC submission deadline for bronze certification was end of May 2026. Task force members were volunteers who had been doing this work without city recognition for over a year.
+
+*Sources: Troy City Council Regular Meeting, January 8, 2026 (transcript); Troy City Council Committee Night and Finance Meeting, March 19, 2026 (transcript)*
