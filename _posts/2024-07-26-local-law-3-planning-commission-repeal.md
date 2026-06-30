@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Planning Commission Mantello Couldn't Control"
-date: 2026-06-30
+date: 2024-07-26
 categories: ["Transparency", "Community Impact"]
 ---
 

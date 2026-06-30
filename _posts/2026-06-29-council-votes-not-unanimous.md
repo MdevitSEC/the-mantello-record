@@ -63,7 +63,7 @@ Local Law 3 dissolved Troy's Planning Commission and replaced it with a five-mem
 
 Before the July 11 meeting where the companion ordinance was introduced, Council Member Keal had told a sitting commissioner in writing that he would support the change because "a new administration wants people who share its vision." The commission had reviewed 118 projects in three years and rejected none. Nearly two dozen speakers came to the July 25 public hearing, all opposed. A joint letter from Riverkeeper, Scenic Hudson, and Hudson River Sloop Clearwater urged a no vote on the principle that planning bodies should operate free from elected officials' influence. Council President Steele moved to table pending legal review of a procedural gap Vera had identified in the companion ordinance. The motion failed 3-4.
 
-For full coverage see [The Planning Commission Mantello Couldn't Control](/2026/06/30/local-law-3-planning-commission-repeal/).
+For full coverage see [The Planning Commission Mantello Couldn't Control](/2024/07/26/local-law-3-planning-commission-repeal/).
 
 *Sources: 2024-07-11_Finance_Regular_Meeting.md; 2024-07-25_PubHearing_Finance_Special_Meeting.md*
 
