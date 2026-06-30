@@ -5,20 +5,11 @@ date: 2026-06-29
 categories: ["Transparency", "Council Records"]
 ---
 
-Every city council vote in Troy's 2024 and 2025 sessions that was not unanimous (7-0), along with abstentions and recusals. New council votes from 2026 are included where they departed from 7-0. Votes are listed in chronological order by meeting date. Sources are meeting transcripts from the TroyDems City Council Meeting archive unless otherwise noted.
+Every city council vote in Troy's 2024 and 2025 sessions where at least one member voted no, or where a measure was defeated or failed a supermajority threshold. Votes are listed in chronological order by meeting date. Sources are meeting transcripts from the TroyDems City Council Meeting archive unless otherwise noted.
 
 ---
 
 ## 2024
-
-**January 18, 2024** — Confirmation, Finance, and Special Meeting
-
-- **Ord. 3** (744 Pawling Ave. surplus sale): **6-0-1.** Sorriento abstained.
-- **Res. 20** (Russ Reeves confirmation as DPU Commissioner): **6-0-1.** Vera abstained, citing a professional relationship with Reeves.
-
-*Source: 2024-01-18_Confirmation_Finance_Special_Meeting.md*
-
----
 
 **February 1, 2024** — Finance and Regular Meeting
 
@@ -36,39 +27,17 @@ Every city council vote in Troy's 2024 and 2025 sessions that was not unanimous 
 
 ---
 
-**May 2, 2024** — Finance and Regular Meeting
-
-- **Ord. 22** (THA Bundle 2 building permit fee waiver): **6-0-1.** Steele abstained as THA board chair.
-- **Res. 66** (Restore NY grant, Penrose project): **6-0-1.** Steele abstained.
-- **Res. 88** (THA Bundle 2 PILOT agreement): **6-0-1.** Steele abstained.
-
-*Source: 2024-05-02_Finance_Regular_Meeting.md*
-
----
-
 **May 23, 2024** — Finance and Special Meeting
 
-- **Res. 95** (IDA/Lansingburgh Building Assessment contract): **5-0-2.** Steele and Brosnan abstained as IDA members.
 - **Res. 96** (SEQR Type II designation, Congress/Ferry corridor): **4-3.** Steele, Vera, and Spain-McLaren voted no.
-- **Ord. 22** (THA Bundle 2 permit fee waiver, Special Meeting stage): **6-0-1.** Steele abstained.
-- **Res. 88** (THA Bundle 2 PILOT, Special Meeting stage): **5-0-2.** Steele and Brosnan abstained.
 
 *Source: 2024-05-23_Finance_Special_Meeting.md*
-
----
-
-**June 6, 2024** — Public Utilities, Finance, and Regular Meeting
-
-- **Res. 95** (IDA/Lansingburgh Building Assessment contract): **4-0-2.** Steele and Brosnan abstained as IDA members.
-
-*Source: 2024-06-06_Public_Utilities_Finance_Regular_Meeting.md*
 
 ---
 
 **August 8, 2024** — Regular Meeting and Public Hearing
 
 - **Ord. 41** (Planning Board ordinance, abolishing the Planning Commission): **4-3.** Vera, Steele, and Spain-McLaren voted no.
-- **Res. 124** (Planning Board training requirements): **6-0-1.** Vera abstained, citing a family member serving on the board.
 
 *Source: 2024-08-08_Regular_PH_Meeting.md*
 
@@ -100,7 +69,6 @@ Every city council vote in Troy's 2024 and 2025 sessions that was not unanimous 
 
 **December 5, 2024** — Finance and Regular Meeting
 
-- **Res. 158** (Restore NY Communities Initiative grant): **6-0-1.** Steele abstained as Housing Authority chair.
 - **Res. 159** (Knickerbacker Ice Arena lease with Troy Albany Youth Hockey Association):
   - Tabling motion: **Failed 3-4.** Vera, Spain-McLaren, and Steele moved to table; Casey, Sorriento, Keal, and Brosnan voted against tabling.
   - Final vote: **4-3.** Vera, Spain-McLaren, and Steele voted no.
@@ -134,7 +102,6 @@ Every city council vote in Troy's 2024 and 2025 sessions that was not unanimous 
 **April 3, 2025** — Finance and Regular Meeting
 
 - **Ord. 17** (Capital Projects Fund, Congress and Ferry Street): **4-3.** Steele, Spain-McLaren, and Vera voted no.
-- **Res. 31** (Taylor 2 PILOT agreement): Amendment passed **4-2-1**; final vote **6-0-1.** Steele abstained on legal counsel's advice.
 - **Res. 32** (Command Officers Association MOA; 3% retro for 2023, 4% retro for 2024): **6-1.** Vera voted no.
 
 *Source: 2025-04-03_Finance_Regular_Meeting.md*
@@ -143,14 +110,8 @@ Every city council vote in Troy's 2024 and 2025 sessions that was not unanimous 
 
 **June 16, 2025** — Finance, Public Hearing, and Special Meeting
 
-- **Ord. 28** (budget amendment for fire overtime and four new firefighter positions): **6-0-1.** Spain-McLaren abstained.
 - **Res. 59** (Medicare, Medicaid, and Social Security support resolution): **Failed 3-4.** Vera, Spain-McLaren, and Steele voted yes; Keal, Brosnan, Sorriento, and Casey voted no.
-- **Res. 62** ($350K ambulance bond): **6-0-1.** Spain-McLaren abstained, citing her son as a fire department candidate.
-- **Res. 64** ($1.9M fire rescue vehicle bond): **Failed 4-0-3.** Steele, Spain-McLaren, and Vera abstained. Bond resolutions require 5 affirmative votes; this fell short.
-- **Res. 66** ($600K fire fighting apparatus bond): **6-0-1.** Spain-McLaren abstained.
-- **Res. 68** ($650K fire station building improvements bond): **6-0-1.** Spain-McLaren abstained.
-- **Res. 74** ($12.5M Lansingburgh firehouse bond): **6-0-1.** Spain-McLaren abstained.
-- **Res. 76** ($100K Station 6 improvements bond): **6-0-1.** Spain-McLaren abstained.
+- **Res. 64** ($1.9M fire rescue vehicle bond): **Failed 4-0-3.** Steele, Spain-McLaren, and Vera abstained. Bond resolutions require 5 affirmative votes; the measure fell short.
 
 *Source: 2025-06-16_Finance_PublicHearing_Special_Meeting.md*
 
@@ -178,7 +139,6 @@ Every city council vote in Troy's 2024 and 2025 sessions that was not unanimous 
 - **Ord. 46** (LDC Development Agreement for Proctors project): **4-3.** Vera, McLaren, and Spain-McLaren voted no.
 - **Res. 95** (video conferencing public hearing): **4-3** in the Regular Meeting.
 - **Res. 99** (LDC as bond issuer for Proctors): **4-3.**
-- **Res. 101** (CSEA MOA ratification): **6-0-1.** Spain-McLaren recused, citing her husband as a CSEA employee.
 
 *Source: 2025-10-02_Finance_Regular_Meeting.md*
 
@@ -210,26 +170,8 @@ Every city council vote in Troy's 2024 and 2025 sessions that was not unanimous 
 
 ---
 
-**December 4, 2025** — Finance and Regular Meeting
-
-- **Res. 117** (Business Improvement District public hearing scheduling): **6-0-1.** Vera abstained as a BID board member.
-
-*Source: 2025-12-04_Finance_Regular_Meeting.md*
-
----
-
-**December 18, 2025** — Public Hearings, Finance, and Special Meeting
-
-- **Local Law 4** (BID plan amendment): **6-0-1.** Vera recused as a BID board member.
-
-*Source: 2025-12-18_Public_Hearings_Finance_Special_Meetings.md*
-
----
-
 **December 30, 2025** — Finance and Special Meetings
 
-- **Res. 120** (Benetech health administration contract, 2026-2028): **5-0-1.** Vera recused; Sorriento absent in the Special Meeting.
-- **Res. 121** (Benetech workers compensation contract, 2026-2028): **5-0-1.** Vera recused; Sorriento absent.
 - **Res. 124** (Frear Park pavilion SEQR negative declaration): **5-2.** Vera and Steele voted no.
 - **Res. 125** ($6M Frear Park pavilion bond): **5-2.** Vera and Steele voted no.
 - **Ord. 86** (capital budget amendment, $5M to $6M for Frear Park): **5-2.** Vera and Steele voted no.
