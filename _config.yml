@@ -11,6 +11,9 @@ permalink: /:year/:month/:day/:title/
 collections:
   posts:
     output: true
+  anointed:
+    output: true
+    permalink: /anointed/:name/
 
 defaults:
   - scope:
@@ -18,6 +21,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "anointed"
+    values:
+      layout: "anointed_profile"
 
 # Categories used across the site
 categories_list:

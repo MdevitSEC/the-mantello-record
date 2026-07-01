@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="profile-full">
+  <div class="profile-full-inner">
+    <header class="profile-header">
+      <div class="profile-header-top">
+        <span class="profile-role-badge">{{ page.role }}</span>
+        <span class="profile-status {% if page.status == 'Current' %}status-current{% else %}status-former{% endif %}">{{ page.status }}</span>
+      </div>
+      <h1 class="profile-name">{{ page.title }}</h1>
+      <p class="profile-appointed">{{ page.appointed }} &middot; {{ page.appointed_by }}</p>
+      {% if page.summary %}
+      <div class="profile-summary">{{ page.summary }}</div>
+      {% endif %}
+    </header>
+
+    <div class="profile-body post-body">
+      {{ content }}
+    </div>
+
+    <footer class="post-footer">
+      <a href="{{ '/anointed/' | relative_url }}" class="back-to-record">&uarr; Back to The Anointed</a>
+    </footer>
+  </div>
+</article>

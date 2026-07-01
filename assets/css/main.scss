@@ -657,16 +657,16 @@ img { max-width: 100%; display: block; }
 }
 
 /* --- The Anointed Section --- */
-.patronage-hero {
+.anointed-hero {
   background: var(--black);
   padding: 3rem 1.5rem;
   border-bottom: 4px solid var(--accent);
 }
-.patronage-hero-inner {
+.anointed-hero-inner {
   max-width: var(--max-width);
   margin: 0 auto;
 }
-.patronage-label {
+.anointed-label {
   font-family: var(--font-ui);
   font-size: 0.75rem;
   color: var(--accent);
@@ -675,7 +675,7 @@ img { max-width: 100%; display: block; }
   font-weight: 700;
   margin-bottom: 0.5rem;
 }
-.patronage-heading {
+.anointed-heading {
   font-family: var(--font-headline);
   font-size: clamp(2.5rem, 6vw, 4rem);
   font-weight: 900;
@@ -684,17 +684,17 @@ img { max-width: 100%; display: block; }
   line-height: 1.05;
   margin-bottom: 0.75rem;
 }
-.patronage-body {
+.anointed-body {
   font-family: var(--font-ui);
   font-size: 1rem;
   color: #bbbbbb;
   max-width: 600px;
   line-height: 1.6;
 }
-.patronage-section {
+.anointed-section {
   padding: 3rem 1.5rem;
 }
-.patronage-inner {
+.anointed-inner {
   max-width: var(--max-width);
   margin: 0 auto;
 }

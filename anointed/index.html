@@ -1,0 +1,31 @@
+---
+layout: default
+title: "The Anointed"
+---
+
+<section class="anointed-hero">
+  <div class="anointed-hero-inner">
+    <p class="anointed-label">The Mantello Administration</p>
+    <h1 class="anointed-heading">The Anointed</h1>
+    <p class="anointed-body">Mayor Mantello promised "competence over cronyism." These are the people she hired.</p>
+  </div>
+</section>
+
+<section class="anointed-section">
+  <div class="anointed-inner">
+    <div class="profile-grid">
+      {% assign profiles = site.anointed | sort: 'title' %}
+      {% for profile in profiles %}
+      <div class="profile-card">
+        <a class="profile-card-link" href="{{ profile.url | relative_url }}"></a>
+        <div class="profile-card-role">{{ profile.role }}</div>
+        <h2 class="profile-card-name">{{ profile.title }}</h2>
+        {% if profile.summary %}
+        <p class="profile-card-summary">{{ profile.summary }}</p>
+        {% endif %}
+        <span class="profile-card-status {% if profile.status == 'Current' %}status-current{% else %}status-former{% endif %}">{{ profile.status }}</span>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
