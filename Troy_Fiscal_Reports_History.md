@@ -20,7 +20,7 @@ Troy City Charter and city code require:
 | Fiscal Year | Deadline     | Filed / Status                                                                                                                                                                                                                                           |
 | ----------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | FY 2023     | ~May 1, 2024 | Filed by prior administration but deemed unreliable by the State Comptroller -- cash was off from Pioneer Bank records by $8--9 million. BST & Co. corrected the books; revised AFR approved by State Comptroller March 2025.                            |
-| FY 2024     | May 1, 2025  | Filed April 28, 2025 -- a few days ahead of deadline. Presented to council April 30, 2025. On time.                                                                                                                                                      |
+| FY 2024     | May 1, 2025  | Filed April 28, 2025 -- a few days ahead of deadline. Presented to council April 30, 2025 by Mayor Mantello and BST. On time. Presentation flagged $11.5 million in unbudgeted revenue variances (federal/state grants miscategorized as state aid) and public safety underbudgeted by $3+ million due to personnel costs. Steele: "Is that a high bar? I don't really think so, but I'm taking it as good news." |
 | FY 2025     | ~May 1, 2026 | Controller presented results to council May 7, 2026 (General Fund $453K surplus; Water $411K; Sewer $187K; Garbage $5K; cash position $72.2M). **Not yet published** on the city's financial statements page as of July 2026 -- past the May 1 deadline. |
 
 ---
@@ -56,7 +56,7 @@ New York State and federal law require an independent annual audit of the city's
 
 | Fiscal Year | Federal Deadline | Presented to Council | Accepted | Status |
 |---|---|---|---|---|
-| FY 2023 | Sept 30, 2024 | March 6, 2025 | Res. 23, March 6, 2025 (7-0) | **Late -- ~5 months past federal deadline.** Delayed by the need to unwind and correct the prior administration's books before the audit could proceed. The 2023 AFR was not approved by the State Comptroller until March 2025. |
+| FY 2023 | Sept 30, 2024 | March 6, 2025 | Res. 23, March 6, 2025 (7-0) | **Late -- ~5 months past federal deadline.** Delayed by the need to unwind and correct the prior administration's books before the audit could proceed. The 2023 AFR was not approved by the State Comptroller until March 2025. Presented by Alan Walther (Bonadio). Adverse opinion on capital assets -- a decision made 20+ years ago not to depreciate; a structural issue predating the Mantello administration. Walther noted material weaknesses are atypical for a city Troy's size. Federal awards had been miscategorized as state aid. |
 | FY 2024 | Sept 30, 2025 | November 20, 2025 | Res. 114, November 20, 2025 (7-0) | **Late -- ~7 weeks past federal deadline.** Audit kickoff with Bonadio began early May 2025 (immediately after the 2024 AFR was filed April 28). BST focused almost entirely on supporting the 2024 audit through September. Audit carried an adverse opinion on capital assets (city has never fully depreciated its capital assets -- "adverse is as bad as it gets") and a qualified opinion on a component unit (LDC, due to the mid-remediation Kane Pew site valuation). Management letter flagged excess cash accounts and federal/state aid misclassification in the general ledger. |
 | FY 2025 | Sept 30, 2026 | Not yet presented. | -- | **Not yet late** as of July 2026. The 2025 AFR was filed ~May 1, 2026; audit work with Bonadio would follow. Given the 2023 and 2024 audits both missed the September 30 deadline, timely completion warrants monitoring. |
 
@@ -89,6 +89,19 @@ Key findings BST documented for the council:
 BST wrapped up its engagement in early 2026 after presenting the Q2 2025 report alongside McNeff (September 4, 2025) and supporting the 2024 audit with Bonadio.
 
 The city is replacing KVS with Tyler Technologies / Munis -- a 12--18 month implementation expected to bring modern financial infrastructure.
+
+---
+
+## Primary Source Documents
+
+Official city documents:
+
+- [Troy Financial Statements page](https://www.troyny.gov/192/Financial-Statements) -- troyny.gov. Landing page for all published AFRs and audit documents.
+- [City of Troy FY 2023 Financial Statements](https://www.troyny.gov/ArchiveCenter/ViewFile/Item/1358) -- troyny.gov. Full Bonadio audit of fiscal year 2023, including the adverse opinion on capital assets and material weakness findings.
+- [City of Troy FY 2024 Financial Statements](https://troyny.gov/Archive/ViewFile/Item/1375) -- troyny.gov. Full Bonadio audit of fiscal year 2024, accepted by council Res. 114, November 20, 2025.
+- [City of Troy Files 2023 AFR with State Comptroller's Office](https://www.troyny.gov/CivicAlerts.aspx?AID=201&ARC=257) -- troyny.gov press release. Administration announcement of the revised 2023 AFR filing after BST remediation.
+- [Mayor Mantello Announces Appointment of Michael McNeff as City Comptroller](https://www.troyny.gov/CivicAlerts.aspx?AID=304) -- troyny.gov press release. Official announcement of McNeff appointment, May 28, 2025.
+- [November 20, 2025 Special Meeting Agenda](https://www.troyny.gov/AgendaCenter/ViewFile/Item/371?fileID=1936) -- troyny.gov. Agenda showing Resolution 114 (accept 2024 Bonadio audit) submitted by Casey at request of administration.
 
 ---
 
