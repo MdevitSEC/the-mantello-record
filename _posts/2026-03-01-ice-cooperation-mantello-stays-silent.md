@@ -37,7 +37,7 @@ The resolution failed. In 2026, Mantello created a new city position for McDermo
 
 ## The County
 
-Rensselaer County was the first county in New York State to sign a 287(g) agreement with ICE, doing so in 2018 under then-Sheriff Patrick Russo. The program authorizes local officers to conduct immigration enforcement on people held at the county jail. By February 2026, the program had expanded statewide: the NYCLU counted 12 to 14 law enforcement agencies across nine New York counties with 287(g) agreements.
+Rensselaer County was the first county in New York State to sign a 287(g) agreement with ICE, doing so in 2018 under then-Sheriff Patrick Russo. The program authorizes local officers to conduct immigration enforcement on people held at the county jail. By February 2026, the program had expanded statewide: the NYCLU counted 12 to 14 law enforcement agencies across nine New York counties with 287(g) agreements. New York State has 528 law enforcement agencies across 62 counties.
 
 Russo is no longer sheriff. Kyle Bourgault, a Republican, was elected as the county's 67th sheriff and has maintained the 287(g) agreement alongside County Executive McLaughlin. McLaughlin has defended the program by saying officials could not explain to constituents why people who were arrested were not checked against federal databases.
 
