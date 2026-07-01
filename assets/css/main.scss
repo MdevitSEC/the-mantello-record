@@ -252,7 +252,7 @@ img { max-width: 100%; display: block; }
 .post-card-link {
   position: absolute;
   inset: 0;
-  z-index: 0;
+  z-index: 2;
 }
 .post-card-title {
   font-family: var(--font-headline);
@@ -646,6 +646,168 @@ img { max-width: 100%; display: block; }
   font-family: var(--font-ui);
   font-size: 0.78rem;
   color: #aaaaaa;
+}
+
+/* --- The Anointed Section --- */
+.patronage-hero {
+  background: var(--black);
+  padding: 3rem 1.5rem;
+  border-bottom: 4px solid var(--accent);
+}
+.patronage-hero-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+.patronage-label {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+.patronage-heading {
+  font-family: var(--font-headline);
+  font-size: clamp(2.5rem, 6vw, 4rem);
+  font-weight: 900;
+  color: var(--white);
+  text-transform: uppercase;
+  line-height: 1.05;
+  margin-bottom: 0.75rem;
+}
+.patronage-body {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  color: #bbbbbb;
+  max-width: 600px;
+  line-height: 1.6;
+}
+.patronage-section {
+  padding: 3rem 1.5rem;
+}
+.patronage-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+/* Profile cards (index) */
+.profile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+.profile-card {
+  background: #ffffff;
+  border: 1px solid var(--gray-mid);
+  padding: 1.5rem;
+  position: relative;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  cursor: pointer;
+}
+.profile-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 2px 12px rgba(184,28,28,0.08);
+}
+.profile-card-link {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+}
+.profile-card-role {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--red);
+  margin-bottom: 0.4rem;
+  position: relative;
+  z-index: 1;
+}
+.profile-card-name {
+  font-family: var(--font-headline);
+  font-size: 1.5rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 1.1;
+  color: var(--black);
+  margin-bottom: 0.6rem;
+  position: relative;
+  z-index: 1;
+}
+.profile-card-summary {
+  font-family: var(--font-ui);
+  font-size: 0.88rem;
+  color: var(--gray-text);
+  line-height: 1.55;
+  margin-bottom: 0.85rem;
+  position: relative;
+  z-index: 1;
+}
+.profile-card-status {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.2rem 0.5rem;
+  border-radius: 2px;
+  position: relative;
+  z-index: 1;
+}
+.status-current { background: #b81c1c; color: var(--white); }
+.status-former { background: var(--gray-text); color: var(--white); }
+
+/* Profile full page */
+.profile-full { padding: 3rem 1.5rem; }
+.profile-full-inner { max-width: 760px; margin: 0 auto; }
+.profile-header {
+  background: var(--black);
+  color: var(--white);
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 4px solid var(--accent);
+}
+.profile-header-top {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+.profile-role-badge {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--accent);
+}
+.profile-name {
+  font-family: var(--font-headline);
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 1.05;
+  color: var(--white);
+  margin-bottom: 0.5rem;
+}
+.profile-appointed {
+  font-family: var(--font-ui);
+  font-size: 0.82rem;
+  color: #aaaaaa;
+  margin-bottom: 1rem;
+}
+.profile-summary {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  color: #cccccc;
+  line-height: 1.6;
+  border-left: 4px solid var(--accent);
+  padding-left: 1rem;
+  margin-top: 1rem;
 }
 
 /* --- Responsive --- */
