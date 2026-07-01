@@ -470,12 +470,11 @@ img { max-width: 100%; display: block; }
   letter-spacing: 0.02em;
 }
 .page-body h3 a {
-  color: inherit;
+  color: var(--red);
   text-decoration: none;
-  transition: opacity 0.15s;
 }
 .page-body h3 a:hover {
-  opacity: 0.75;
+  color: var(--red);
   text-decoration: underline;
 }
 .page-body p { margin-bottom: 1rem; }
