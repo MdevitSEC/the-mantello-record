@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Record"
+title: "Mantello's Record"
 subtitle: "Every documented instance of controversy, failure, and overreach by the Mantello administration — most recent first."
 permalink: /the-record/
 ---
