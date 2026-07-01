@@ -119,18 +119,6 @@ Jessica Bennett told the new council she called the city clerk at 3 PM that day 
 
 ---
 
-### November 20, 2025 -- Bonadio Audit Accepted; Two Years of Financial Failures on Record
-
-The council voted 7-0 to accept the FY 2024 independent audit by the Bonadio Group. The audit carried an adverse opinion on capital assets (a structural issue more than 20 years old, predating Mantello) and flagged two material weaknesses: the general ledger was not reconciled on time, and cash reconciliations were late. The management letter noted excess cash accounts and misclassified federal grants.
-
-The audit acceptance was the formal close on two years of financial failures. Mantello started her term without a comptroller, the first time that had happened in 40 years. ProNexus, the outside firm she used in the absence of a permanent hire, filed the FY 2023 Annual Financial Report with the state, which rejected it as unreliable. The city went 18 months without a quarterly financial report. Three comptrollers cycled through in 18 months. The outside accounting work cost more than $260,000. The first on-time annual filing of Mantello's term came April 28, 2025. The first quarterly report in 18 months came June 16, 2025.
-
-For the full account, see [Eighteen Months Without a Required Financial Report](/2025/11/20/troy-financial-reporting-failures/).
-
-*Sources: Troy City Council Special Meeting, November 20, 2025 (transcript); [WAMC, July 3, 2025](https://www.wamc.org/news/2025-07-03/troys-city-council-receives-its-first-quarterly-financial-report-in-18-months); [WAMC, May 29, 2025](https://www.wamc.org/news/2025-05-29/troy-welcomes-its-newest-comptroller)*
-
----
-
 ### November 7, 2025 -- City Hall Move to Proctor's Approved on 4-3 Party-Line Vote
 
 Four to three, straight down party lines. The Republican-majority council approved the Proctor's Theater lease on November 7, 2025, two months before the new Democratic supermajority would take office. Council President Steele argued the incoming council should make that call. She was outvoted. The Troy Local Development Corporation approved up to $12.5 million in tax-exempt bonds for the project, with the city paying $675,000 a year to the LDC for 30 years.

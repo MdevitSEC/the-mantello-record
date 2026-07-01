@@ -107,6 +107,18 @@ The board's account: the mayor ignored them for five months, so they got a lawye
 
 ---
 
+### November 20, 2025 — Bonadio Audit Accepted; Two Years of Financial Failures on Record
+
+The council voted 7-0 to accept the FY 2024 independent audit by the Bonadio Group. The audit carried an adverse opinion on capital assets (a structural issue more than 20 years old, predating Mantello) and flagged two material weaknesses: the general ledger was not reconciled on time, and cash reconciliations were late. The management letter noted excess cash accounts and misclassified federal grants.
+
+The audit acceptance was the formal close on two years of financial failures. Mantello started her term without a comptroller, the first time that had happened in 40 years. ProNexus, the outside firm she used in the absence of a permanent hire, filed the FY 2023 Annual Financial Report with the state, which rejected it as unreliable. The city went 18 months without a quarterly financial report. Three comptrollers cycled through in 18 months. The outside accounting work cost more than $260,000. The first on-time annual filing of Mantello's term came April 28, 2025. The first quarterly report in 18 months came June 16, 2025.
+
+For the full account, see [Eighteen Months Without a Required Financial Report](/2025/11/20/troy-financial-reporting-failures/).
+
+*Sources: Troy City Council Special Meeting, November 20, 2025 (transcript); [WAMC, July 3, 2025](https://www.wamc.org/news/2025-07-03/troys-city-council-receives-its-first-quarterly-financial-report-in-18-months); [WAMC, May 29, 2025](https://www.wamc.org/news/2025-05-29/troy-welcomes-its-newest-comptroller)*
+
+---
+
 ### November 7, 2025 — City Hall Move to Proctor's Approved on 4-3 Party-Line Vote
 
 Four to three, straight down party lines. The Republican-majority council approved the Proctor's Theater lease on November 7, 2025, two months before the new Democratic supermajority would take office. Council President Steele argued the incoming council should make that call. She was outvoted. The Troy Local Development Corporation approved up to $12.5 million in tax-exempt bonds for the project, with the city paying $675,000 a year to the LDC for 30 years.
@@ -143,6 +155,8 @@ State law requires quarterly financial reports. In June 2025, the Troy City Coun
 
 The report itself was not reassuring. By the end of the first quarter, the city had already burned through more than 40% of its annual staff overtime budget.
 
+[Read more](/2025/07/03/first-quarterly-financial-report-18-months/)
+
 *Sources: [WAMC](https://www.wamc.org/news/2025-07-03/troys-city-council-receives-its-first-quarterly-financial-report-in-18-months), [WAMC May 2024](https://www.wamc.org/news/2024-05-24/troy-city-council-president-concerned-over-late-quarterly-financial-report)*
 
 ---
@@ -158,6 +172,8 @@ Moving city hall to Proctor's created two immediate problems at the old location
 ### May 2025 — Third Comptroller in 18 Months Hired
 
 Michael McNeff was Troy's third comptroller in roughly 18 months. Before him came Jack Krokos, hired in January 2025. Before Krokos came Dylan Spring, hired in February 2024 and gone by July. Before all of them came a vacancy: Mantello started her term in January 2024 without a comptroller at all, the first time that had happened in 40 years. The revolving door cost the city more than $260,000 in outside accounting fees.
+
+[Read more](/2025/05/29/third-comptroller-18-months/)
 
 *Sources: [WAMC](https://www.wamc.org/news/2025-05-29/troy-welcomes-its-newest-comptroller), [WAMC comptroller history](https://www.wamc.org/news/2025-02-07/city-of-troy-once-again-has-a-new-comptroller)*
 
