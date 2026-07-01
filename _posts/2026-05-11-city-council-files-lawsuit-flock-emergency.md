@@ -39,11 +39,11 @@ The April 23 Law Committee meeting fell on day 23 of the state of emergency. Res
 
 ## What Happened in Oshkosh
 
-At the same April 23 meeting, resident Sylva Maynard reported a development from Oshkosh, Wisconsin, that had occurred that same day. The Oshkosh City Council voted unanimously to rescind its Flock contract renewal, reversing a 5-2 approval vote from the night before.
+At the same April 23 meeting, resident Sylva Menard reported a development from Oshkosh, Wisconsin, that had occurred that same day. The Oshkosh City Council voted unanimously to rescind its Flock contract renewal, reversing a 5-2 approval vote from the night before.
 
 The reason: Flock lied to the council. During the Tuesday approval meeting, a council member asked a Flock representative directly: "Does the system create a heat map of a vehicle's movement using multiple aggregated images?" The Flock representative said no. Police Chief Dean Smith had already seen those heat maps. The morning after the vote, Smith told the city manager what he knew. Within one day the council held a special session, rescinded the contract unanimously, and apologized to the community. Smith said all Flock cameras would come down before summer.
 
-Maynard said she had transcripts of both Oshkosh meetings available for the Troy council.
+Menard said she had transcripts of both Oshkosh meetings available for the Troy council.
 
 ---
 
