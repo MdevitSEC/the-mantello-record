@@ -29,7 +29,7 @@ That was September 2025. When the new council passed its resolution in early 202
 
 The new council's action was not the first attempt. On September 18, 2025, the old Republican-majority council voted down Resolution 98, a human rights and due process resolution introduced in response to ICE activity in Troy. It failed 3-4, with the three Democratic members voting yes and the four Republicans voting no.
 
-Among those who came to speak against Resolution 98 was Sara McDermott, then a private citizen. She went through the resolution's numbered findings one by one, called ICE operations "intelligence-driven and focused on criminal aliens and immigration fugitives," and closed: "Let's stop the political fear and get back to focusing on Troy."
+Among those who came to speak against Resolution 98 was Sara McDermott, then serving as Legislative Aide to the Republican-majority council and a county employee. She went through the resolution's numbered findings one by one, called ICE operations "intelligence-driven and focused on criminal aliens and immigration fugitives," and closed: "Let's stop the political fear and get back to focusing on Troy."
 
 The resolution failed. In 2026, Mantello created a new city position for McDermott, Deputy Director of Operations, at $80,000 per year.
 
