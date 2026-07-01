@@ -37,16 +37,18 @@ The resolution failed. In 2026, Mantello created a new city position for McDermo
 
 ## The County
 
-Across the river, Republican Sheriff Patrick Russo's office maintained its 287(g) agreement with ICE, making Rensselaer County the only county in New York State running such a program. The program authorizes local officers to conduct immigration enforcement on people held at the county jail.
+Rensselaer County was the first county in New York State to sign a 287(g) agreement with ICE, doing so in 2018 under then-Sheriff Patrick Russo. The program authorizes local officers to conduct immigration enforcement on people held at the county jail. By February 2026, the program had expanded statewide: the NYCLU counted 12 to 14 law enforcement agencies across nine New York counties with 287(g) agreements.
 
-County Executive Steve McLaughlin defended it. He said officials could not explain to constituents why people who were arrested were not checked against federal databases.
+Russo is no longer sheriff. Kyle Bourgault, a Republican, was elected as the county's 67th sheriff and has maintained the 287(g) agreement alongside County Executive McLaughlin. McLaughlin has defended the program by saying officials could not explain to constituents why people who were arrested were not checked against federal databases.
 
-Mantello said nothing about the county's program. When asked about the Troy Police Department's position, Chief Barker directed inquiries to the mayor's office. Communications Director Alex Horton said TPD "work on criminal matters only, not civil immigration matters."
+Governor Hochul signed the Local Cops, Local Crimes Act to void these agreements across the state. McLaughlin and Bourgault announced they would sue Hochul over it, arguing she was overstepping her authority.
 
----
-
-**Partisan angle:** Mantello's silence in 2026 was a choice, not a default. In September 2025, she made that choice explicitly: full cooperation with federal law enforcement. When the new Democratic council passed a resolution pushing the other direction, she dismissed it as politics. The county sheriff ran the only 287(g) program in New York. She had nothing to say about that either.
+Mantello said nothing about the county's program or the legal fight next door. When asked about the Troy Police Department's position, Chief Barker directed inquiries to the mayor's office. Communications Director Alex Horton said TPD "work on criminal matters only, not civil immigration matters."
 
 ---
 
-*Sources: [CBS6](https://cbs6albany.com/news/local/troy-rejects-ice-cooperation-as-rensselaer-county-reaffirms-287g-enforcement-agreement); [WAMC, September 8, 2025](https://www.wamc.org/news/2025-09-08/residents-and-local-leaders-are-protesting-against-rensselaer-countys-long-time-cooperation-with-ice); [CBS6, September 5, 2025](https://cbs6albany.com/news/local/community-groups-rallying-demanding-action-after-ice-crackdown-in-troy-president-trump-police-federal-); [Spectrum News, September 5, 2025](https://spectrumlocalnews.com/nys/capital-region/news/2025/09/05/demonstrators-protest-ice-actions-at-troy-city-hall-); Troy City Council Finance Meeting, September 18, 2025 (transcript)*
+**Partisan angle:** Mantello's silence in 2026 was a choice, not a default. In September 2025, she made that choice explicitly: full cooperation with federal law enforcement. When the new Democratic council passed a resolution pushing the other direction, she dismissed it as politics. The county she sits next to had been running the first 287(g) program in New York for eight years, was fighting the governor in court to keep it, and she had nothing to say about that either.
+
+---
+
+*Sources: [CBS6, Troy rejects ICE cooperation](https://cbs6albany.com/news/local/troy-rejects-ice-cooperation-as-rensselaer-county-reaffirms-287g-enforcement-agreement); [WAMC, September 8, 2025](https://www.wamc.org/news/2025-09-08/residents-and-local-leaders-are-protesting-against-rensselaer-countys-long-time-cooperation-with-ice); [CBS6, September 5, 2025](https://cbs6albany.com/news/local/community-groups-rallying-demanding-action-after-ice-crackdown-in-troy-president-trump-police-federal-); [Spectrum News, September 5, 2025](https://spectrumlocalnews.com/nys/capital-region/news/2025/09/05/demonstrators-protest-ice-actions-at-troy-city-hall-); [Spectrum News, NY counties 287(g) breakdown, February 2026](https://spectrumlocalnews.com/nys/central-ny/news/2026/02/16/cooperation-with-ice--a-breakdown-of-which-new-york-counties-work-with-federal-immigration-agencies-); [News10, Rensselaer County pushes back on new law](https://www.news10.com/top-stories/rensselaer-county-pushes-back-on-new-law-that-limits-ice-cooperation/); Troy City Council Finance Meeting, September 18, 2025 (transcript)*
