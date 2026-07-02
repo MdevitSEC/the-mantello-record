@@ -219,8 +219,8 @@ img { max-width: 100%; display: block; }
 }
 
 /* --- Posts Section --- */
-.posts-section { padding: 3rem 0; }
-.posts-inner { max-width: var(--max-width); margin: 0 auto; background: #ffffff; padding: 2rem; }
+.posts-section { padding: 3rem 1.5rem; background: var(--white); }
+.posts-inner { max-width: var(--max-width); margin: 0 auto; }
 .section-heading {
   font-family: var(--font-headline);
   font-size: 1.6rem;
