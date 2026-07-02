@@ -43,7 +43,7 @@ The new council reintroduced Good Cause Eviction in early 2026 and passed it una
 
 ## The Veto
 
-Mantello vetoed on March 18. Her stated concern was small landlords. "Many of our rental properties are owned and operated by small, local landlords -- individuals and families who often own just one or two units," she wrote, citing rising costs for taxes, insurance, energy, and construction. She said she could not support the measure "without knowing the impact" and urged a transparent, comprehensive study.
+Mantello vetoed on March 18. Her stated concern was small landlords. "Many of our rental properties are owned and operated by small, local landlords, individuals and families who often own just one or two units," she wrote, citing rising costs for taxes, insurance, energy, and construction. She said she could not support the measure "without knowing the impact" and urged a transparent, comprehensive study.
 
 Her alternative: increase housing supply through construction, redevelopment, and landlord partnerships.
 
