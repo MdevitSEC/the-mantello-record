@@ -9,7 +9,7 @@ Twenty-two people showed up to speak at the new council's first public forum on 
 
 Sean Collins of the Troy Area Labor Council, AFL-CIO, said it plainly: "The mayor's absence at the new council's first public meeting is indicative of what the next two years of your term will be."
 
-Council President Steele closed the meeting by acknowledging the administration's absence and committing to a "more transparent environment" -- adding, pointedly, that the council could not accomplish it alone and would need the administration to cooperate.
+Council President Steele closed the meeting by acknowledging the administration's absence and committing to a "more transparent environment," adding, pointedly, that the council could not accomplish it alone and would need the administration to cooperate.
 
 ---
 
@@ -45,7 +45,7 @@ Jessica Bennett flagged a potential legal problem with the $6 million Frear Park
 
 Downtown resident HG Warner read from a Capital Region Sanctuary Coalition post confirming ICE vehicle sightings in Troy on New Year's Day 2026, one day before the forum: J Street and Fifth, J Street turning north on Sixth Avenue, 106th Street, near 103rd and Fifth, and entering 787 northbound.
 
-Multiple speakers -- including Jessica Ashley of the Rensselaer County Justice Center, Ammani Olubala of Troy for Black Lives, and Jessica Bennett -- called for the city to restrict police data sharing with ICE and prohibit Troy officers from assisting federal enforcement. Collins noted the county sheriff's 287(g) cooperation agreement made Troy's posture a live question.
+Multiple speakers, including Jessica Ashley of the Rensselaer County Justice Center, Ammani Olubala of Troy for Black Lives, and Jessica Bennett, called for the city to restrict police data sharing with ICE and prohibit Troy officers from assisting federal enforcement. Collins noted the county sheriff's 287(g) cooperation agreement made Troy's posture a live question.
 
 ---
 
