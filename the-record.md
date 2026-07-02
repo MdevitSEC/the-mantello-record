@@ -185,11 +185,11 @@ The reallocation moved money from projects that no longer needed it — the Knic
 
 ### [October 10, 2024 — 2025 Budget Submitted Seven Minutes Before Deadline, With Errors](/2024/10/10/budget-submitted-seven-minutes-before-deadline/)
 
-Mantello filed the 2025 budget seven minutes before the legal deadline. Corrected materials arrived almost an hour after it. Council President Steele, along with Council Members Vera and Spain-McLaren, said the timing "falls far short of the level of transparency that taxpayers deserve." The Republican majority passed the budget anyway, 4-3 along party lines.
+Mantello filed the 2025 budget seven minutes before the legal deadline. Corrected materials arrived almost an hour after it. The document arrived electronically near midnight, was not searchable, had no index, and no hard copy appeared until the day of the October 15 budget meeting. Steele: "I know for a fact that if you were sitting in this seat you would be just as frustrated as I am." The Republican majority passed it 4-3 on December 2. Steele and Spain-McLaren voted no.
 
-The city had no permanent comptroller from July 2024 through the entire budget season, leaning on outside firms that had already cost more than $260,000.
+The budget existed at all because BST, a hired accounting firm, had spent months reconstructing the city's books after the prior comptroller left no one who understood the KVS software system behind him. The council had already appropriated ARPA funds for a replacement system. Those funds went unspent. The city's equalization rate had fallen to 65 percent — the last citywide property assessment was 2011 — and a $10,000 request to begin an assessment review was cut from the budget before submission. The garbage fee rose from $162 to $252, a temporary fee from 2018 that the mayor acknowledged was now permanent.
 
-*Sources: [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/politics/2024/10/11/troy-new-york-2025-budget-proposal), [WAMC budget defense](https://www.wamc.org/news/2024-10-20/first-term-troy-mayor-defends-her-2025-budget-proposal), [WAMC Republican passage](https://www.wamc.org/news/2024-12-03/troys-republican-led-city-council-passes-mayors-first-budget)*
+*Sources: [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/politics/2024/10/11/troy-new-york-2025-budget-proposal), [WAMC budget defense](https://www.wamc.org/news/2024-10-20/first-term-troy-mayor-defends-her-2025-budget-proposal), [WAMC Republican passage](https://www.wamc.org/news/2024-12-03/troys-republican-led-city-council-passes-mayors-first-budget), Troy City Council Finance Meetings, October 15 and December 2, 2024 (transcript and clerk's minutes)*
 
 ---
 
