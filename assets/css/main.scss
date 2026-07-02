@@ -28,7 +28,7 @@ html { font-size: 16px; scroll-behavior: smooth; }
 body {
   font-family: var(--font-body);
   color: var(--black);
-  background: #E8E9EB;
+  background: var(--gray-mid);
   line-height: 1.7;
 }
 a { color: var(--red); text-decoration: none; }
@@ -219,8 +219,8 @@ img { max-width: 100%; display: block; }
 }
 
 /* --- Posts Section --- */
-.posts-section { padding: 3rem 1.5rem; }
-.posts-inner { max-width: var(--max-width); margin: 0 auto; }
+.posts-section { padding: 3rem 0; }
+.posts-inner { max-width: var(--max-width); margin: 0 auto; background: #ffffff; padding: 2rem; }
 .section-heading {
   font-family: var(--font-headline);
   font-size: 1.6rem;
@@ -338,8 +338,8 @@ img { max-width: 100%; display: block; }
 .view-all { text-align: center; margin-top: 2.5rem; }
 
 /* --- Full Post --- */
-.post-full { padding: 3rem 1.5rem; }
-.post-full-inner { max-width: 760px; margin: 0 auto; }
+.post-full { padding: 3rem 0; }
+.post-full-inner { max-width: 760px; margin: 0 auto; background: #ffffff; padding: 2rem; }
 .post-header { margin-bottom: 2rem; border-bottom: 3px solid var(--accent); padding-bottom: 1.5rem; }
 .post-header-meta {
   display: flex;
@@ -433,8 +433,8 @@ img { max-width: 100%; display: block; }
 }
 
 /* --- The Record Page (Timeline) --- */
-.page-full { padding: 3rem 1.5rem; }
-.page-full-inner { max-width: var(--max-width); margin: 0 auto; }
+.page-full { padding: 3rem 0; }
+.page-full-inner { max-width: var(--max-width); margin: 0 auto; background: #ffffff; padding: 2rem; }
 .page-header { border-bottom: 3px solid var(--accent); padding-bottom: 1.25rem; margin-bottom: 2.5rem; }
 .page-title {
   font-family: var(--font-headline);
@@ -692,11 +692,13 @@ img { max-width: 100%; display: block; }
   line-height: 1.6;
 }
 .anointed-section {
-  padding: 3rem 1.5rem;
+  padding: 3rem 0;
 }
 .anointed-inner {
   max-width: var(--max-width);
   margin: 0 auto;
+  background: #ffffff;
+  padding: 2rem;
 }
 
 /* Profile cards (index) */
@@ -769,8 +771,8 @@ img { max-width: 100%; display: block; }
 .status-former { background: var(--gray-text); color: var(--white); }
 
 /* Profile full page */
-.profile-full { padding: 3rem 1.5rem; }
-.profile-full-inner { max-width: 760px; margin: 0 auto; }
+.profile-full { padding: 3rem 0; }
+.profile-full-inner { max-width: 760px; margin: 0 auto; background: #ffffff; padding: 2rem; }
 .profile-header {
   background: var(--black);
   color: var(--white);
