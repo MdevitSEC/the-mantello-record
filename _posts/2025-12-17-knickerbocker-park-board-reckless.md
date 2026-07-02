@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Mantello Calls Knickerbacker Park Board 'Reckless' After 5-Month Non-Response"
+title: "Mantello Calls Knickerbocker Park Board 'Reckless' After 5-Month Non-Response"
 date: 2025-12-17
 categories: ["Transparency", "Community Impact"]
 ---
 
-The Knickerbacker Park Board sent the city a proposed updated lease in July 2025 and heard nothing back for nearly five months. When they finally hired legal counsel and set a meeting to sort it out, Mantello went public, accusing them of acting in "bad faith," calling their conduct "reckless," and claiming they tried to "strong-arm" city officials.
+The Knickerbocker Park Board sent the city a proposed updated lease in July 2025 and heard nothing back for nearly five months. When they finally hired legal counsel and set a meeting to sort it out, Mantello went public, accusing them of acting in "bad faith," calling their conduct "reckless," and claiming they tried to "strong-arm" city officials.
 
 The board's account: the mayor ignored them for five months, so they got a lawyer, and then she blamed them for it.
 

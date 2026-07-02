@@ -103,11 +103,9 @@ Photos hit social media on December 17, 2025, showing every orchestra-level seat
 
 ---
 
-### [December 17, 2025 — Mantello Calls Knickerbacker Park Board "Reckless" After 5-Month Non-Response](/2025/12/17/knickerbacker-park-board-reckless/)
+### [December 17, 2025 — Mantello Calls Knickerbocker Park Board "Reckless" After 5-Month Non-Response](/2025/12/17/knickerbocker-park-board-reckless/)
 
-The Knickerbacker Park Board sent the city a proposed updated lease in July 2025 and heard nothing back for nearly five months. When they finally hired legal counsel and set a meeting to sort it out, Mantello went public, accusing them of acting in "bad faith," calling their conduct "reckless," and claiming they tried to "strong-arm" city officials.
-
-The board's account: the mayor ignored them for five months, so they got a lawyer, and then she blamed them for it.
+The Knick Board submitted a proposed updated lease to the city in July 2025 and heard nothing back for nearly five months. When they finally hired legal counsel and set a meeting to sort it out, Mantello went public, accusing them of acting in "bad faith," calling their conduct "reckless," and claiming they tried to "strong-arm" city officials. The board's account: the mayor ignored them for five months, so they got a lawyer, and then she blamed them for it. The dispute carried into 2026. At the April 23 Law Committee meeting, the Knick Board testified that the city was five months in arrears and owed $25,000 in unpaid obligations. A DASNY grant of approximately $6 million is currently funding pool construction at the park while the lease dispute remains unresolved.
 
 *Sources: [WAMC](https://www.wamc.org/news/2025-12-17/troy-mayor-carmella-mantello-says-leaders-on-the-knickerbacker-park-board-are-reckless), [CBS6](https://cbs6albany.com/news/local/city-of-troy-knickerbacker-park-board-at-odds-over-ice-arena-lease-agreement)*
 
