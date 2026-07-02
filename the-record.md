@@ -13,9 +13,7 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. Below
 
 ### [May 11, 2026 — City Council Files Lawsuit Against Mantello Over Flock Emergency](/2026/05/11/city-council-files-lawsuit-flock-emergency/)
 
-Troy's City Council and City Auditor took Mantello to Rensselaer County Supreme Court in May, asking a judge to declare her April 1 emergency order unlawful, nullify it, and throw out the Flock Safety contract renewal. The legal complaint is direct: Mantello used emergency powers to authorize a $78,000 payment without council or auditor approval, cutting them out of the process entirely.
-
-Council President Steele said the declaration "overstepped legislative authority."
+Troy's City Council and City Auditor filed an Article 78 petition in Rensselaer County Supreme Court, asking a judge to declare Mantello's April 1 emergency order unlawful, nullify it, and void the Flock Safety contract renewal. Mantello had authorized a $78,000 payment without council or auditor approval, arguing the contract had already renewed automatically before she declared the emergency. The lawsuit came after the council's own public investigation produced a critical admission: Chief of Police Dean Smith was asked directly whether a Flock demonstration in Oshkosh, Wisconsin had shown the cameras functioning as a heat map tool to track individuals across a city. He answered no. The council voted unanimously to rescind its motion to expand the camera network. The cameras came down before summer.
 
 *Sources: [News10](https://www.news10.com/news/rensselaer-county/troy-city-council-files-suit-against-mayor/), [CBS6](https://cbs6albany.com/news/local/lawsuit-filed-against-mayor-of-troy-over-flock-camera-emergency-declaration), [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/news/2026/05/12/troy-council-files-suit-to-block-mayor-s-order-on-license-plate-readers)*
 
@@ -23,7 +21,7 @@ Council President Steele said the declaration "overstepped legislative authority
 
 ### [April 9, 2026 — Good Cause Eviction Veto Overridden 7-0](/2026/04/09/good-cause-eviction-veto-overridden/)
 
-When Mantello vetoed Good Cause Eviction in March, the vote was 7-0 against her. When the council overrode her in April, it was 7-0 again. Every Republican-aligned council member who had voted against Good Cause was gone, replaced in November 2025 by Democrats who had campaigned on it. The new council wasted little time.
+The council overrode Mantello's veto of Good Cause Eviction on April 9, 2026, by a vote of 7-0 -- the same margin as the original passage in March. District 1 Councilor Phil DiLorenzo framed the vote: "Do we stand with our residents, or do we ignore what they've made abundantly clear?" Mantello responded by calling the council's action "radical agendas over the needs of ordinary residents." Every Republican council member who had blocked the law was gone, replaced by Democrats who had campaigned on it. Troy joined Ithaca, Binghamton, and Albany as New York municipalities that had opted into the state's 2024 Good Cause framework. Two-thirds of Troy residents rent.
 
 *Sources: [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/politics/2026/04/09/troy-city-council-good-cause-eviction-veto-overturn), [WAMC](https://www.wamc.org/news/2026-04-10/troy-council-overrides-good-cause-eviction-veto), [News10](https://www.news10.com/news/rensselaer-county/troy-city-council-overrides-mayors-veto-on-good-cause-eviction/)*
 
@@ -31,11 +29,9 @@ When Mantello vetoed Good Cause Eviction in March, the vote was 7-0 against her.
 
 ### [April 1, 2026 — Emergency Declaration to Pay Flock Camera Contract](/2026/04/01/emergency-declaration-flock-cameras/)
 
-On April Fools' Day, Mantello declared a public safety emergency over license plate reader cameras. The council had let the Flock Safety contract renewal deadline pass while debating privacy protections. Mantello argued the contract had renewed automatically anyway, then declared an emergency to authorize a $78,000 payment without going back to the council or the city auditor.
+On April Fools' Day, Mantello declared a public safety emergency over license plate reader cameras, the same day the council was actively drafting legislation to regulate the technology. The council had let the Flock Safety contract renewal deadline lapse while debating privacy protections. Mantello argued the contract had already renewed automatically, then used the emergency declaration to authorize a $78,000 payment without council or auditor approval. She called the council's proposed regulations "dangerous, misguided and a gift to criminals." One of the cameras in the network had captured data used in a federal drug trafficking prosecution -- Eric Rivera was convicted in part on evidence from a Troy Flock camera. City Auditor Anastasia Robertson joined the council as a co-plaintiff when the lawsuit was filed in May. The council's eventual compromise required annual audits and limits on data sharing with federal agencies.
 
-She called the council's proposed data regulations "dangerous, misguided and a gift to criminals." The council eventually reached a compromise requiring annual audits and limits on data sharing with other agencies. By then, Mantello had already gone to court.
-
-**Partisan angle:** She pulled the emergency trigger precisely when the council was drafting legislation to put guardrails on the technology.
+**Partisan angle:** She pulled the emergency trigger the same day the council was drafting guardrails on the technology, cutting both the auditor and the full council out of a decision both had a legal role in making.
 
 *Sources: [WAMC](https://www.wamc.org/news/2026-04-01/troy-flock-safety-contract-renewal), [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/news/2026/04/02/mantello-declares-public-safety-emergency-in-troy-to-keep-license-plate-readers-operational-), [WAMC compromise](https://www.wamc.org/news/2026/05/20/troy-flock-safety-cameras-compromise)*
 
@@ -43,9 +39,9 @@ She called the council's proposed data regulations "dangerous, misguided and a g
 
 ### [March 18, 2026 — Mantello Vetoes Good Cause Eviction](/2026/03/18/mantello-vetoes-good-cause-eviction/)
 
-The council had passed Good Cause Eviction 7-0. Mantello vetoed it anyway, citing concerns about small landlords and calling for a third-party study before any action. Council members weren't buying the delay. Good Cause was the reason most of them were sitting in those seats. Voters had already cleared out every council member who had voted against it the November before.
+The council passed Good Cause Eviction 7-0 on March 5, 2026. Mantello vetoed it thirteen days later, calling for a third-party study and citing concerns about small landlords. Council President Steele responded from the floor: "We will override her veto. Good Cause Eviction will become law in Troy." The law had already been blocked once. In May 2025, the Republican majority voted 4-3 against even scheduling a public hearing. Their arguments are on the record: Councilor Thomas Casey called it a Fifth Amendment violation; Councilor Bill Keal said renters "took the lowest cost rental unit available." Tenant advocates left the chamber chanting "We'll remember in November." They did. Every council member who voted against the hearing lost in November 2025. Mantello's veto came after all of them were out of office.
 
-**Partisan angle:** Good Cause Eviction flipped the Troy City Council to a Democratic supermajority. Mantello's veto was a direct attempt to block the mandate voters had delivered six months earlier.
+**Partisan angle:** Good Cause Eviction was the defining issue of the 2025 election. The Republican council blocked a public hearing; voters replaced every one of them. Mantello's veto was a direct attempt to nullify the mandate they had just delivered.
 
 *Sources: [CBS6](https://cbs6albany.com/news/local/troy-mayor-carmella-mantello-vetoes-good-cause-eviction-in-her-city-leasing-apartments-troy-city-council-president-sue-steele-housing-law-renters-homelessness-wrgb), [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/news/2026/03/18/troy-mayor-vetoes-good-cause-eviction-legislation-)*
 
@@ -55,9 +51,9 @@ The council had passed Good Cause Eviction 7-0. Mantello vetoed it anyway, citin
 
 When the new council passed a resolution saying Troy would not cooperate with ICE enforcement, Mantello declined to take a position. Her statement: the resolution "does not change or impact any city code, local law, or operational policy. It is solely a statement of the Council's political views." She neither signed it nor vetoed it.
 
-Across the river, Republican Sheriff Patrick Russo's office reaffirmed its 287(g) agreement with ICE, keeping Rensselaer County the only county in New York State running such a program. Mantello said nothing about that either. Residents had already reported ICE vehicles in Troy on New Year's Day 2026.
+Across the river, Rensselaer County's 287(g) agreement with ICE remained in force under new Sheriff Kyle Bourgault, who succeeded Patrick Russo. Rensselaer was the first county in New York State to sign a 287(g) agreement, in 2018, and is now one of nine counties statewide running the program. Mantello said nothing. Residents had already reported ICE vehicles in Troy streets on New Year's Day 2026, and speakers at the January 8 public forum raised questions about whether city camera data was being shared with federal immigration enforcement.
 
-**Partisan angle:** Dismissing the council's resolution as purely political while staying silent on the county's active federal cooperation agreement put Mantello in step with the county Republican machine.
+**Partisan angle:** Dismissing the council's resolution as purely political while saying nothing about the county's active federal enforcement program put Mantello in step with the county Republican machine and left Troy residents without an answer on how their own city was engaging with ICE activity in their neighborhoods.
 
 *Sources: [CBS6 on council vote](https://cbs6albany.com/news/local/troy-rejects-ice-cooperation-as-rensselaer-county-reaffirms-287g-enforcement-agreement), [WAMC](https://wamc.org/post/troy-mayor-opposes-sanctuary-city-proposal)*
 
@@ -65,11 +61,7 @@ Across the river, Republican Sheriff Patrick Russo's office reaffirmed its 287(g
 
 ### [January 8, 2026 — Absent from New Council's First Public Meeting](/2026/01/08/absent-new-council-first-public-meeting/)
 
-Twenty-two people showed up to speak at the new council's first public forum on January 8, 2026. Mantello was not there. Neither was anyone from her administration. Speakers noticed.
-
-Sean Collins of the Troy Area Labor Council, AFL-CIO, said it plainly from the podium: "The mayor's absence at the new council's first public meeting is indicative of what the next two years of your term will be."
-
-Council President Steele acknowledged the absence in her closing remarks.
+Twenty-two people showed up to speak at the new council's first public forum on January 8, 2026. Mantello was not there. Neither was anyone from her administration. Sean Collins of the Troy Area Labor Council opened by naming it: "The mayor's absence at the new council's first public meeting is indicative of what the next two years of your term will be." Speakers covered two years of accumulated grievances: Collins flagged the administration's refusal to sign retroactive labor contracts for CSEA workers and city firefighters; Daniel Morisy of the sustainability task force described $837,000 in NYSERDA clean energy grants going uncollected, an abandoned municipal solar farm, and an eliminated street tree committee; Jessica Bennett raised the SEQR violations in the Frear Park bond vote, presenting a recording of a city clerk confirming no project plans were on file three hours before the vote; and Ria Warner reported ICE enforcement vehicles in Troy streets on New Year's Day. Council President Steele acknowledged the administration's absence in her closing remarks.
 
 *Source: Troy City Council Jan. 8, 2026 meeting transcript (City Clerk's office; no formal minutes filed)*
 
@@ -89,9 +81,7 @@ Mantello called the filing "emblematic of why Troy hasn't had a real city hall i
 
 ### [December 30, 2025 — $6 Million Frear Park Bond Pushed Through Outgoing Republican Council](/2025/12/30/frear-park-bond-outgoing-council/)
 
-The outgoing Republican council's last day in office was December 30, 2025. Before they left, the administration got them to authorize a $6 million bond for a Frear Park pavilion, with no site plan, no community engagement, no construction documents, and a disputed environmental review that a resident would later testify may have violated state law.
-
-Jessica Bennett told the new council she called the city clerk at 3 PM that day and was told no project plans were on file. State law requires SEQR documents to be available 24 hours before a vote. When the new Democratic council tried to rescind the bond, they spent weeks being stonewalled from accessing bond counsel. Council President Steele eventually pulled the rescission, noting that misrepresentations had been made during the rush to get it done.
+The outgoing Republican council's last day in office was December 30, 2025. Before they left, the administration pushed through a $6 million bond for Frear Park improvements with no site plan, no construction documents, and a SEQR filing a resident would later testify violated state law. The vote was 5-2: four Republicans and Democrat Katie Spain McLaren. Council President Steele voted no. "I would like more time," she said. "I don't feel that they have given us enough time to make an informed decision." Resident Jessica Bennett called the city clerk at 3 PM the day of the vote and was told no project plans were on file. State law requires SEQR documents available 24 hours before a vote. She had a recording. Asked how much the city would actually borrow, Mantello said: "I'm not going to take a guess, but less. I'll say less than six mil." Bond anticipation notes were executed January 15, 2026, before the new Democratic council could act.
 
 *Sources: Dec. 30, 2025 and Jan. 8, 22, 2026 meeting transcripts (City Clerk's office); clerk's minutes IDs 1760, 1761*
 
@@ -99,9 +89,7 @@ Jessica Bennett told the new council she called the city clerk at 3 PM that day 
 
 ### [December 17, 2025 — Proctor's Theater Seat Removal Contradicts Preservation Claims](/2025/12/17/proctors-theater-seat-removal/)
 
-Photos hit social media showing every orchestra-level seat pulled out of the former Proctor's Theater, the building Mantello was converting into city hall. The images landed awkwardly against earlier administration assurances about preserving the theater's historic character. A city communications director said the seats would go back in and floated an "adopt a seat" program.
-
-What no one disputed: the project carries no legal obligation to preserve anything, because it does not use historic preservation tax credits.
+Photos hit social media on December 17, 2025, showing every orchestra-level seat pulled from the former Proctor's Theater. Communications Director Alex Horton said the seats would go back in and floated an "adopt a seat" program. The images landed against months of administration assurances about preserving a building that opened in 1914 as the largest theater in New York State, designed for impresario F.F. Proctor with gold leaf arches, a Lafayette mural on the proscenium, ornate plasterwork, and a double-balcony auditorium that seated 2,283. Jack Benny, Bob Hope, Jimmy Durante, and the Astaires all performed there. The construction plan calls for a modern box-in-a-box assembly chamber built inside the auditorium on lightweight steel framing. In 2004, Troy residents organized to stop RPI from gutting the same interior for office space while preserving the facade. They won. What Mantello approved produces the same outcome. No legal obligation to preserve any of it exists because the project uses no historic tax credits.
 
 *Source: [WAMC](https://www.wamc.org/news/2025-12-17/seat-removal-at-troys-proctors-theater-sparks-debate-as-city-works-to-relocate-city-hall)*
 
@@ -129,9 +117,9 @@ The audit acceptance was the formal close on two years of financial failures. Ma
 
 ### [November 7, 2025 — City Hall Move to Proctor's Approved on 4-3 Party-Line Vote](/2025/11/07/city-hall-move-proctors-approved/)
 
-Four to three, straight down party lines. The Republican-majority council approved the Proctor's Theater lease on November 7, 2025, two months before the new Democratic supermajority would take office. Council President Steele argued the incoming council should make that call. She was outvoted. The Troy Local Development Corporation approved up to $12.5 million in tax-exempt bonds for the project, with the city paying $675,000 a year to the LDC for 30 years.
+Four to three, straight down party lines. The Republican-majority council approved the Proctor's Theater lease on November 7, 2025, two days after Democrats swept all seven council seats. Council President Steele argued the incoming council should make that call. The outgoing majority voted anyway, committing Troy to $675,000 a year to the LDC for 30 years. Council Member Vera pointed out on the floor that the savings projection was built against a 3 percent annual escalator Mantello had herself added when she renegotiated the Hedley Park Place lease -- the projected savings were measured against terms her own administration had created. The administration had also already activated the termination clause on the old lease before the council approved a new site, triggering a lawsuit from First Columbia that exposed the city to more than $1.6 million in liability. Corporation Counsel Morrissey acknowledged on the floor that the lease was still a draft when the council voted on it.
 
-**Partisan angle:** The vote happened when it did for a reason. The administration wanted the city hall move locked in before January 2026.
+**Partisan angle:** Four new Democrats were waiting to take office in January. They had no say in a 30-year financial commitment that will define city finances through 2055, locked in by an outgoing majority two days after losing every seat they held.
 
 *Sources: [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/news/2025/11/05/troy-council-pushing-forward-with-vote-on-new-city-hall-lease), [CBS6](https://cbs6albany.com/news/local/troy-city-council-voting-on-ordinance-to-move-city-hall-11-07-2025)*
 
