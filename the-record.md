@@ -11,6 +11,14 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. Below
 
 ## 2026
 
+### [June 25, 2026 — Council Overrides Emergency Powers Veto in 12 Minutes; Mantello at Fundraiser](/2026/06/25/mantello-skips-charter-meeting-fundraiser/)
+
+The Troy City Council called a special meeting on June 25, 2026, to override Mantello's veto of the resolution scheduling a public hearing on Local Law 4, a charter amendment to restrict her emergency declaration powers. The meeting lasted 12 minutes. Mantello was not there. She had a fundraiser. The Troy City Charter requires the mayor to attend all regular and special meetings of the City Council. Local Law 4 would redefine "disaster" to specific catastrophic events -- fire, flood, earthquake, hurricane, and a defined list -- closing the gap Mantello exploited on April 1 when she declared a public safety emergency over a camera contract renewal.
+
+*Sources: [WGNA](https://wgna.com/troy-limiting-emergency-powers/); Troy City Charter, Article VI; Troy City Council Special Meeting Agenda, June 25, 2026*
+
+---
+
 ### [May 11, 2026 — City Council Files Lawsuit Against Mantello Over Flock Emergency](/2026/05/11/city-council-files-lawsuit-flock-emergency/)
 
 Troy's City Council and City Auditor filed an Article 78 petition in Rensselaer County Supreme Court, asking a judge to declare Mantello's April 1 emergency order unlawful, nullify it, and void the Flock Safety contract renewal. Mantello had authorized a $78,000 payment without council or auditor approval, arguing the contract had already renewed automatically before she declared the emergency. The lawsuit came after the council's own public investigation produced a critical admission: Chief of Police Dean Smith was asked directly whether a Flock demonstration in Oshkosh, Wisconsin had shown the cameras functioning as a heat map tool to track individuals across a city. He answered no. The council voted unanimously to rescind its motion to expand the camera network. The cameras came down before summer.
