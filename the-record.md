@@ -249,12 +249,13 @@ The pattern held across two years: residents and council members asked for infor
 | Category | Count |
 |----------|-------|
 | Legal disputes / lawsuits | 3 |
-| Unilateral executive actions contested by council | 3 |
-| Party-line votes in administration's favor | 3+ |
-| Governance / financial failures | 4 |
-| Blocked or ignored community priorities | 3+ |
-| Actions against working residents and tenants | 2 |
-| Misleading or absent communication on project timelines | 1+ |
+| Unilateral executive actions bypassing or vetoing council | 6 |
+| Party-line votes in administration's favor | 5 |
+| Governance / financial failures | 7+ |
+| Blocked or ignored community priorities | 6+ |
+| Actions against working residents and tenants | 4 |
+| Misleading or absent communication | 5+ |
+| Charter violations (required attendance, process) | 1+ |
 
 ---
 
