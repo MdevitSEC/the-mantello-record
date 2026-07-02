@@ -153,9 +153,11 @@ The 2024 Bonadio audit, presented in November 2025, identified two material weak
 
 ### [June–July 2025 — City Hall Lease Dispute: $226K Unpaid, Termination Deadline Missed](/2025/06/13/city-hall-lease-dispute-unpaid-fees/)
 
-Moving city hall to Proctor's created two immediate problems at the old location. The city owed its current landlord, First Columbia, $226,807 in Common Area Maintenance fees from 2024. Mantello disputed the CAM math but acknowledged the bill was unpaid. More seriously, First Columbia's attorneys argued the city had already missed the deadline to exercise its early-exit option, meaning Troy could be trapped in its River Street lease through January 2029, two years past the planned move date.
+Moving city hall to Proctor's created two immediate problems at the old location. The city owed its landlord, First Columbia, $226,807 in Common Area Maintenance fees from 2024 under a July 2024 lease — backdated to January 1 — that raised CAM charges approximately four times. The city paid rent but refused the elevated CAM charges, disputing proper notice. First Columbia filed two notices of claim: one for the disputed CAM charges, one for alleged lease termination. Total exposure: $1.4 million. First Columbia also argued the city had already missed its early-exit deadline, which could have trapped Troy at River Street through January 2029, two years past the planned move.
 
-*Sources: [CBS6](https://cbs6albany.com/news/local/troy-mayor-and-city-council-democrats-clash-over-226k-unpaid-property-dues-city-hall-mantello-steele), [News10](https://www.news10.com/news/legal-battle-brewing-over-troys-city-hall-rent-payments/), [WAMC](https://www.wamc.org/news/2025-06-13/landlord-troy-cant-break-city-hall-lease)*
+At the November 20, 2025 Finance Meeting, Morrissey announced a settlement: the city would pay $134,000 in CAM charges, the full disputed amount, with no interest or penalty, in exchange for supporting First Columbia's IDA PILOT extension application. Council Member Brosnan noted the council had approved the July 2024 lease that caused the dispute. Steele abstained, citing her IDA membership. Vera voted no. Passed 5-1-1.
+
+*Sources: [CBS6](https://cbs6albany.com/news/local/troy-mayor-and-city-council-democrats-clash-over-226k-unpaid-property-dues-city-hall-mantello-steele), [News10](https://www.news10.com/news/legal-battle-brewing-over-troys-city-hall-rent-payments/), [WAMC](https://www.wamc.org/news/2025-06-13/landlord-troy-cant-break-city-hall-lease), Troy City Council Finance Meeting, November 20, 2025 (transcript)*
 
 ---
 
