@@ -11,9 +11,17 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. Below
 
 ## 2026
 
+### [June 20, 2026 — Troy's FOIL Officer Got One Training Session. Appeals Go to the Same Person Who Denied You.](/2026/06/20/troy-foil-transparency/)
+
+Alex Horton, the Mantello administration's designated Records Access Officer, testified at the April 23, 2026 Law Committee meeting that his only FOIL training was a single in-house walkthrough of the GovQA software portal. He could not recall the name of the staffer who conducted it. He had never submitted a FOIL compliance report to the council. Corporation Counsel Morrissey, who said he could not recall the last time he received FOIL training himself, confirmed he is the person who trained Horton on exemptions. When residents appeal a denial, the appeal goes to Morrissey — the same attorney who oversaw the original response. At the January 22, 2026 Public Safety Committee meeting, Morrissey acknowledged he had fallen behind on appeals during an illness; Steele pressed on delays lasting "months and months." The pattern preceded the April testimony: at the May 21, 2025 Finance Meeting, a resident testified that the New York State Committee on Open Government "could not explain" the city's categorical denial of FOIL requests for Flock surveillance camera data. At the April 23 meeting, Deputy Mayor Donnelly explained the city's filing chaos by saying his office still had documents from the Tutunjian administration. Harry Tutunjian left office in 2011. Donnelly acknowledged he then made the mess bigger. The administration has been in office since January 2024.
+
+*Sources: Troy City Council Law Committee and Finance Meeting, April 23, 2026 (transcript); Troy City Council Regular Meeting, January 8, 2026 (transcript); Troy City Council Committee Night and Finance Meeting, May 21, 2025 (transcript); [troyny.gov — Horton hire announcement](https://www.troyny.gov/m/newsflash/Home/Detail/272)*
+
+---
+
 ### [June 25, 2026 — Council Moves to Limit Emergency Powers in 11-Minute Meeting; Mantello at Cookout Fundraiser](/2026/06/25/mantello-skips-charter-meeting-fundraiser/)
 
-The Troy City Council called a special meeting on June 25, 2026, to schedule public hearings on Local Law 4, a charter amendment that would close the gap Mantello used on April 1 to declare a public safety emergency over a camera contract renewal. The meeting lasted 11 minutes. Mantello was not there. She was hosting a cookout fundraiser at the C.R.A.B. Club. Neither the mayor nor the Corporation Counsel attended, despite charter requirements that both be present at all council meetings. Three residents cited the charter violations by name during the meeting. Resolution 72 passed 7-0.
+The Troy City Council called a special meeting on June 25, 2026, to schedule public hearings on Local Law 4, a charter amendment that would close the gap Mantello used on April 1 to declare a public safety emergency over a camera contract renewal. The meeting lasted 11 minutes. Mantello was not there. She was hosting a cookout fundraiser at the C.R.A.B. Club. Neither the mayor nor the Corporation Counsel attended, despite charter requirements that both be present at all regular and special council meetings. Local Law 4 would amend Section C-40 of the Troy City Charter to define "disaster" as a specific list of qualifying events: fire, flood, earthquake, hurricane, tornado, high water, landslide, wind, storm, wave action, epidemic, air contamination, terrorism, cyber event, blight, drought, infestation, explosion, water contamination, and bridge failure or collapse. A camera contract renewal does not appear on that list. As of June 25, Mantello's April 1 emergency declaration was in its 85th day. Steele: "That's why we're amending the charter. It's open-ended with her." Three residents cited the charter violations by name. Resolution 72 passed 7-0. Public hearings were scheduled for July 23 and August 6; committee review set for August 20.
 
 *Sources: [YouTube recording](https://www.youtube.com/watch?v=EQjj0NhjbNU&t=2s); [Meeting minutes](https://www.troyny.gov/AgendaCenter/ViewFile/Minutes/_06252026-1841); [Mayor Mantello Facebook](https://www.facebook.com/CMforTroy/posts/pfbid02cLTzrjcWi34BkBgFiYak9f9TPuTaxMzjYzeL8oseff4fUk11KXUCFNoyg3SFL1XGl)*
 
@@ -241,12 +249,13 @@ Troy's Nighthawks Block Party was canceled in June 2024 after organizers cited d
 
 The pattern held across two years: residents and council members asked for information and did not get it.
 
-- **Late or missing FOIL responses.** Multiple residents and council members reported FOIL requests being denied or ignored by the city attorney.
-- **Last-minute agenda postings.** Speakers at the January 8, 2026 public forum described agendas posted hours before votes and materials reaching the council the same day as consequential decisions.
-- **No redline versions of policy changes.** The December 18, 2025 Finance Meeting revealed the administration had no redline version of a five-year update to the non-represented employee policy.
-- **No response to community proposals.** Resident Drea Leanza described submitting a proposal to build owner-occupied homes on a city-owned South Troy lot, with TAP and Habitat for Humanity involved, nearly two years earlier with no response from the administration.
+- **FOIL.** Alex Horton, the city's Records Access Officer, had one training session — a walkthrough of a software portal. Appeals go to Corporation Counsel Morrissey, who also oversaw the original denials. At the January 22, 2026 Public Safety Committee, Morrissey acknowledged falling behind on appeals during an illness. Steele pressed on delays lasting "months and months." The state Committee on Open Government told a resident it "could not explain" the city's categorical denial of Flock camera FOIL requests.
+- **Labor contract non-response.** CSEA delivered a draft contract to the city in November 2025. The administration did not respond despite multiple follow-up emails through February 2026, triggering a Taylor Law information request and an improper practice charge. Approximately three to four improper practice charges were pending against the city as of April 2026.
+- **Knick Board arrears.** The city owed the Knickerbacker Park Board approximately $25,000 in unpaid obligations as of April 2026, five months in arrears, while the lease dispute remained unresolved.
+- **Last-minute information.** The December 30 Frear Park bond vote: no project plans on file as of 3 PM, confirmed by recording. The November 7 city hall lease vote: the contract was still a draft when the council voted. Steele wrote monthly for six months requesting basic city hall project documents. No reply.
+- **No response to community proposals.** Drea Leanza's South Troy housing proposal with TAP and Habitat: two years, no response. Natalie Jabau's rezoning correction letter: no response. A resident's two emails to Horton about removed park benches: no response. His FOIL request came back with nothing on record.
 
-*Source: Troy City Council Jan. 8, 2026 meeting transcript; Dec. 18, 2025 meeting transcript (City Clerk's office)*
+*Sources: Troy City Council Law Committee and Finance Meeting, April 23, 2026 (transcript); Troy City Council Regular Meeting, January 8, 2026 (transcript); Troy City Council Committee Night and Finance Meeting, January 22, 2026 (transcript); Troy City Council Finance and Special Meeting, December 18, 2025 (transcript)*
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Troy's FOIL Officer Got One Training Session. Appeals Go to the Same Person Who Denied You."
 date: 2026-06-20
-categories: [Transparency, Executive Overreach]
+categories: ["Transparency", "Executive Overreach"]
 excerpt: "The city's records access officer testified in April that his only FOIL training was an in-house walkthrough of a software portal. Denials and appeals both run through the same attorney."
 ---
 
