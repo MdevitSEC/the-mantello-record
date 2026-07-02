@@ -75,6 +75,16 @@ Council President Steele acknowledged the absence in her closing remarks.
 
 ---
 
+### [February 14, 2026 — Troy Proctor's Foundation Sues to Halt City Hall Conversion](/2026/02/14/proctors-foundation-sues-environmental-review/)
+
+The Troy Proctor's Foundation, joined by two plaintiffs, filed a 91-page Article 78 lawsuit against the LDC on Valentine's Day 2026, seeking to halt all construction inside the former theater until a proper environmental review was completed. The complaint alleged SEQRA violations, wrongful classification of the project as an unlisted action, and irreversible damage to the building's historic character. The suit also flagged undisclosed material risks: asbestos, lead paint, and 1914-era steel beams.
+
+Mantello called the filing "emblematic of why Troy hasn't had a real city hall in 15 years." The Foundation had formed in 2009 to save Proctor's as a performing arts venue. It raised more than $6,000 on GoFundMe to fund the lawsuit.
+
+*Sources: [CBS6](https://cbs6albany.com/news/local/lawsuit-filed-over-plan-to-turn-proctors-theatre-into-troy-city-hall), [WAMC](https://www.wamc.org/2025-12-18/troy-based-nonprofit-says-it-plans-to-sue-troy-over-city-hall-relocation)*
+
+---
+
 ## 2025
 
 ### [December 30, 2025 — $6 Million Frear Park Bond Pushed Through Outgoing Republican Council](/2025/12/30/frear-park-bond-outgoing-council/)
@@ -124,16 +134,6 @@ Four to three, straight down party lines. The Republican-majority council approv
 **Partisan angle:** The vote happened when it did for a reason. The administration wanted the city hall move locked in before January 2026.
 
 *Sources: [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/news/2025/11/05/troy-council-pushing-forward-with-vote-on-new-city-hall-lease), [CBS6](https://cbs6albany.com/news/local/troy-city-council-voting-on-ordinance-to-move-city-hall-11-07-2025)*
-
----
-
-### [October 2025 — Proctor's Foundation Sues Over Inadequate Environmental Review](/2025/10/01/proctors-foundation-sues-environmental-review/)
-
-The Troy Proctor's Foundation, along with John Delconte and J. Brant Caird, sued to block the city hall project, arguing the LDC approval was improper and that the city had not adequately assessed the risk of permanent damage to historic features inside the theater. They asked a judge to throw out the approval and require a full Environmental Impact Statement.
-
-Mantello's response: "Filings like this are emblematic of why Troy hasn't had a real city hall in 15 years."
-
-*Source: [CBS6](https://cbs6albany.com/news/local/lawsuit-filed-over-plan-to-turn-proctors-theatre-into-troy-city-hall)*
 
 ---
 
