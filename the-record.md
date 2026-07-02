@@ -213,7 +213,7 @@ WAMC obtained a recording of Mantello in a profanity-laced argument with Anthony
 
 Campbell Avenue closed to through traffic around June 10, 2024. Businesses were not told it would run two months. On July 25, six weeks into the closure, Mantello told DeMeo the project would finish in "potentially three weeks or less." It did not. The street reopened August 9, nearly two months after it closed. Eleven businesses on the corridor absorbed the full duration without ever being given an accurate timeline.
 
-The business survived. As of May 2026, Bob DeMeo's is still operating. Then, at the end of May 2026, the city went back — a DEC-mandated sewer rehabilitation project on the same corridor, because no one had coordinated the two projects before the first one started.
+The business survived. As of May 2026, Bob DeMeo's is still operating. Then, at the end of May 2026, the city went back. A DEC-mandated sewer rehabilitation project returned to the same corridor because no one had coordinated the two projects before the first one started.
 
 *Sources: [WAMC](https://www.wamc.org/news/2024-07-25/troy-mayor-captured-in-disagreement-with-businessman-in-expletive-laced-audio), [News10](https://www.news10.com/news/businesses-fear-campbell-avenue-closure-will-shut-them-down/), [CBS6](https://cbs6albany.com/news/local/business-struggling-with-ongoing-troy-construction-zone)*
 
@@ -221,9 +221,11 @@ The business survived. As of May 2026, Bob DeMeo's is still operating. Then, at 
 
 ### [July 2024 — Comptroller Dylan Spring Resigns Under Pressure](/2024/07/01/comptroller-dylan-spring-resigns/)
 
-Dylan Spring lasted five months. Hired in February 2024, he resigned in July under pressure from the city council to deliver overdue quarterly reports and close the books on 2023. State law required those reports. The administration had not filed them since before Mantello took office. His departure left the seat open for months, with outside accounting firms picking up the work at a cost that eventually topped $260,000.
+Dylan Spring lasted five months. On June 20, he walked out of a Finance Committee meeting mid-presentation and did not return to work. He submitted his notice June 25; effective July 9. Mantello had started her term without a comptroller in place, the first time in 40 years. Spring inherited books that no one outside the prior administration knew how to reconcile. The Q1 2024 report arrived five minutes before the June 20 meeting with no advance notice; Steele said it was the first time in five years the Q1 report had not been available for advance review. Q2 2024 was never presented. Residents asked at three consecutive meetings and got no answer.
 
-*Sources: [WAMC](https://www.wamc.org/news/2025-05-29/troy-welcomes-its-newest-comptroller), [WAMC without comptroller](https://www.wamc.org/news/2024-11-22/city-of-troy-without-comptroller-still)*
+The seat stayed empty heading into budget season. Roughly 20 candidates were interviewed; multiple withdrew after watching council meetings. The council raised the salary from $103,966 to $125,000-$150,000 to aid recruitment. Outside firms cost the city more than $260,000. Troy received no formal quarterly financial report for the entirety of 2024. Steele, by late September: "We have not received any quarterly reports. We don't have a comptroller. It's like we know nothing about the finances."
+
+*Sources: [WAMC — May 2024](https://www.wamc.org/news/2024-05-24/troy-city-council-president-concerned-over-late-quarterly-financial-report), [News10 — Spring resigns](https://www.news10.com/news/troy-comptroller-resigns-ahead-of-budget-season/), [WAMC — September 2024](https://www.wamc.org/news/2024-09-27/city-of-troy-still-without-a-comptroller-as-budget-deadline-approaches), [WAMC — November 2024](https://www.wamc.org/news/2024-11-22/city-of-troy-without-comptroller-still)*
 
 ---
 
