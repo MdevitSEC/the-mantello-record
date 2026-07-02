@@ -143,11 +143,11 @@ At the January 8, 2026 public forum, acting chair Daniel Morisy told the new cou
 
 ### [July 2025 — First Quarterly Financial Report in 18 Months](/2025/07/03/first-quarterly-financial-report-18-months/)
 
-State law requires quarterly financial reports. In June 2025, the Troy City Council got one for the first time in 18 months. The report covered Q1 2025. The gap ran from early 2024 through mid-2025, during which the city spent more than $260,000 on outside accounting firms to keep the books.
+State law requires quarterly financial reports. In June 2025, the Troy City Council got one for the first time in 18 months. The report covered Q1 2025. The gap ran from early 2024 through mid-2025, a period during which the city had no permanent comptroller and spent more than $260,000 on outside firms to keep the books. The Q1 report was not reassuring: by the end of March, the city had already burned through more than 40 percent of its annual staff overtime budget.
 
-The report itself was not reassuring. By the end of the first quarter, the city had already burned through more than 40% of its annual staff overtime budget.
+The 2024 Bonadio audit, presented in November 2025, identified two material weaknesses: the general ledger was not reconciled on time, and cash reconciliations were late. The city was running more than 50 separate cash accounts. Third comptroller Michael McNeff, who joined in July 2025, began closing accounts immediately and had closed roughly a dozen by November. A deputy controller and new financial software were both planned for 2026. By November 2025, the Q3 report showed the first signs of stabilization: general fund expenditures at 70 to 75 percent of budget through September, exactly where they should be, with sales tax running 4.5 percent above the same period in 2024.
 
-*Sources: [WAMC](https://www.wamc.org/news/2025-07-03/troys-city-council-receives-its-first-quarterly-financial-report-in-18-months), [WAMC May 2024](https://www.wamc.org/news/2024-05-24/troy-city-council-president-concerned-over-late-quarterly-financial-report)*
+*Sources: [WAMC](https://www.wamc.org/news/2025-07-03/troys-city-council-receives-its-first-quarterly-financial-report-in-18-months), [WAMC May 2024](https://www.wamc.org/news/2024-05-24/troy-city-council-president-concerned-over-late-quarterly-financial-report), Troy City Council Finance Meeting, November 20, 2025 (transcript)*
 
 ---
 
