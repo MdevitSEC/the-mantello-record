@@ -49,6 +49,7 @@ This publication has a voice. Use it.
 | **Full articles** | Precise, Editorial | Reported voice with clear authorial perspective. Not a press release, not a rant. |
 | **About / mission pages** | Direct, Editorial | Declare the publication's purpose plainly. |
 | **Tip submission page** | Direct, Warm | The one place warmth is appropriate — people sending tips need to feel safe. |
+| **Facebook posts** | Direct, Community | See Facebook section below. |
 
 ---
 
@@ -176,8 +177,33 @@ Every entry in The Mantello Record should read the way a sharp city hall beat re
 
 ---
 
+## Facebook Posts
+
+Facebook copy is shorter and more direct than site copy. The goal is to stop the scroll, deliver the point, and send people to the article.
+
+**Structure:**
+1. Setup paragraph: the facts, with political stakes where relevant ("for re-election next year," "on its 85th day")
+2. One-line editorial verdict
+3. URL, no label
+
+**Voice rules specific to Facebook:**
+- Use "Our Mayor" over "the Mayor" or "Mantello" — it's community voice, slightly sardonic, and more engaging
+- ALL CAPS sparingly on key terms for emphasis ("PUBLIC HEARING," "CAMPAIGN FUNDRAISER")
+- Add political context when it exists — "for re-election next year" raises the stakes
+- Close with a direct judgment. One sentence. Make it count.
+- No hashtags. No emoji. No "Link in bio."
+
+**Example:**
+> Troy City Council held a special meeting to schedule PUBLIC HEARINGS limiting the Mayor's emergency powers. It lasted 11 minutes. Our Mayor and her Corporation Counsel skipped it to attend her Campaign Fundraiser for re-election next year.
+>
+> The charter requires her to attend all special meetings. She chose her campaign over her duties to the city.
+>
+> https://themantellorecord.com/...
+
+---
+
 ## The One-Sentence Test
 
 Before publishing anything, ask: Does this read like a reporter who knows Troy deeply, has the receipts, and is not afraid to say what they mean?
 
-If yes -- publish. If not -- revise.
+If yes, publish. If not, revise.
