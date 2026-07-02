@@ -133,11 +133,11 @@ Four to three, straight down party lines. The Republican-majority council approv
 
 ### [Summer–Fall 2025 — NYSERDA Clean Energy Grants Blocked by Administration Non-Response](/2025/09/01/nyserda-grants-blocked-non-response/)
 
-Troy's Joint Task Force on Sustainability and Climate Smart Practices had been trying for more than a year to get officially appointed by the Mantello administration. The response was silence. In the meantime, the task force had accumulated enough qualifying points for $837,000 in match-free NYSERDA clean energy grants and was also in line for a DEC Climate Smart Communities bronze certification and an EV charging grant worth up to $500,000. None of it moved without administration sign-off.
+Troy's Joint Task Force on Sustainability and Climate Smart Practices spent more than a year trying to get officially recognized by the Mantello administration. The administration never responded. The task force had accumulated enough qualifying points for $837,000 in match-free NYSERDA clean energy grants and was also pursuing a DEC Climate Smart Communities bronze certification and an EV charging grant worth up to $500,000, also match-free. Match-free meant no city money required, only sign-off. The administration also abandoned a municipal solar farm and eliminated the street tree committee.
 
-At the January 8, 2026 public forum, task force acting chair Daniel Morisy told the new council the city had also abandoned a municipal solar farm and eliminated the street tree committee.
+At the January 8, 2026 public forum, acting chair Daniel Morisy told the new council the grants had been sitting there the whole time, waiting for someone to return their calls. The new council acted at the March 19, 2026 Finance Meeting, passing two resolutions 7-0: one formally recognizing the sustainability task force and a second establishing a Climate Smart Community Task Force and appointing a coordinator. Council Member Favreau thanked the volunteers for more than a year of unpaid work done without city recognition. The DEC bronze certification deadline was end of May 2026.
 
-*Source: Troy City Council Jan. 8, 2026 meeting transcript (City Clerk's office)*
+*Sources: Troy City Council Regular Meeting, January 8, 2026 (transcript); Troy City Council Committee Night and Finance Meeting, March 19, 2026 (transcript)*
 
 ---
 
