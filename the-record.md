@@ -175,9 +175,11 @@ During the vacuum, city finances ran through Gabrielle Mahoney, a Chief Account 
 
 ### [December 30, 2024 — Last-Minute ARPA Funds Reallocation at Year-End Special Meeting](/2024/12/30/arpa-funds-reallocation/)
 
-The federal deadline to obligate Troy's $42 million in ARPA funds was December 31, 2024. On December 30, the administration called a special meeting to redirect roughly $5 million across Frear Park improvements, lead pipe replacement, and an ambulance. Council Democrats raised concerns about process and transparency. With one day left on the clock, there was little room for anything else.
+The federal deadline to obligate Troy's $42 million in ARPA funds was December 31, 2024. With one day left, the administration called a special meeting to redirect roughly $5 million. Because the legislation arrived so late, it required five affirmative votes, making bipartisan agreement a legal requirement. Council President Steele put it on the record: "I have to in good conscience chastise the administration for the handling of this. We've known about that deadline for years."
 
-*Sources: [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/news/2024/12/30/troy-mayor-seeks-to-redirect--5-million-in-arpa-funds-), [WAMC](https://www.wamc.org/news/2024-12-31/troy-races-to-allocate-arpa-funding)*
+The reallocation moved money from projects that no longer needed it — the Knickerbocker Pool (covered by a $6M New York Swims grant), a community center placeholder that never produced a contractor, and leftover study funds — into Frear Park improvements ($3.62M), lead service line replacement ($1M), hazardous structure demolitions ($247K), the pool's remaining city share ($560K), and peak ambulance staffing. Council Member Vera amended the Frear Park allocation to guarantee a minimum of $1.5 million for park improvements and ADA accessibility, with the balance available for the Park Pub building. The amendment passed 7-0 and the full package followed. The 1 Monument Square project, in discussion for 14 years after six failed RFPs, was restructured around a $19 million state appropriation with a shift away from housing toward public uses.
+
+*Sources: [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/news/2024/12/30/troy-mayor-seeks-to-redirect--5-million-in-arpa-funds-), [WAMC](https://www.wamc.org/news/2024-12-31/troy-races-to-allocate-arpa-funding), Troy City Council Finance and Special Meeting, December 30, 2024 (transcript)*
 
 ---
 

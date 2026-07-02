@@ -5,11 +5,13 @@ date: 2024-12-30
 categories: ["Financial Failures", "Transparency"]
 ---
 
-The federal deadline to obligate Troy's $42 million in ARPA funds was December 31, 2024. On December 30, the administration called a special meeting to redirect roughly $5 million in funds. Because the legislation arrived so late in the process, it required five affirmative votes rather than a simple majority, making bipartisan agreement a structural requirement, not a preference.
+The federal deadline to obligate Troy's $42 million in ARPA funds was December 31, 2024. On December 30, the administration called a special meeting to redirect roughly $5 million in funds. Because the legislation arrived so late, it required five affirmative votes rather than a simple majority, making bipartisan agreement a structural requirement, not a preference.
+
+Two residents spoke before the agenda. Jona Favreau had two items the package did not address: the Troy Public Library's children's room had flooded and still hadn't been rebuilt, with an ARPA application for roughly $350,000 that was not in this package, and Kinlock Park's playground equipment had been removed two years earlier with nothing to replace it. She said she was glad to see lead service line money included and urged the city to get the RFP out quickly.
 
 **What moved and where it went**
 
-Deputy Mayor Donnelly walked the council through the reallocation. Money came from projects that no longer needed it: the Knickerbocker Pool, which had secured a $6 million New York Swims grant covering most of construction; the 1 Monument Square allocation, reduced to $2 million with a $19 million state appropriation filling the gap; city hall feasibility studies; the Lansingburg Firehouse, which had $448,000 left over from a phase already underway; the Alamo site, which had roughly $100,000 remaining, too little for anything meaningful; and a community center placeholder that had never produced a contractor.
+Deputy Mayor Donnelly walked the council through the reallocation. Money came from projects that no longer needed it: the Knickerbocker Pool, which had secured a $6 million New York Swims grant covering most of construction; the 1 Monument Square allocation, reduced to $2 million with a $19 million state appropriation filling the gap; city hall feasibility studies; the Lansingburg Firehouse, which had $448,000 left over from a phase already underway; the Alamo site, which had roughly $100,000 remaining, too little for anything meaningful; and a community center placeholder that had never produced a contractor. Of the community center allocation, $350,000 had already been directed to Team Hero, which now has a building and programming.
 
 The money went to: $3.62 million for Frear Park improvements including renovation of the Park Pub restaurant; $247,000 for hazardous structure demolitions formally obligated through General Services; $1 million for lead service line replacement through Public Utilities; $560,000 for the Knickerbocker Pool's final city share; and additional funding to extend a 10-hour, seven-day peak ambulance shift through 2025.
 
@@ -25,11 +27,17 @@ After a 10-minute recess, Council Member Vera moved to amend the ordinance: earm
 
 Council Member Casey described where the negotiation started ("worlds apart") and where it landed. "We thought it was best to come up with a plan that we could all vote for, so we could do something in a bipartisan fashion." Council President Steele said she was proud of the outcome while also making her frustration plain: "I have to in good conscience chastise the administration for the handling of this. We've known about that deadline for years."
 
+**1 Monument Square**
+
+The project had been in discussion for roughly 14 years. Six prior RFPs had failed, largely because of on-site housing requirements that could not attract viable proposals. The new approach dropped the housing component and shifted toward primarily public uses: a permanent farmers market home, waterfront amenities connecting to the Riverfront Trail, and possibly a small private restaurant. Donnelly and Mantello had met with Assemblyman McDonald two days before the meeting; the $19 million state appropriation was described as secure in the state budget. No formal design or engineering plan existed yet.
+
 **Lead pipes and the ambulance**
 
 The $1 million for lead service line replacement serves a specific cash-flow purpose. Grants from the federal bipartisan infrastructure law are reimbursement-based: the city does the work, submits documentation, and waits 90 to 120 days for payment. ARPA funds are already in the city's account. With an RFP scheduled to go out within three to four weeks and a goal of starting work as early as March, the $1 million allows the city to pay contractors immediately while waiting for federal reimbursements.
 
 The peak ambulance funding illustrated the pressure the service was under. Council Member Casey said the night before the meeting, one ambulance was held at a hospital for four and a half hours. A second was held for three and a half. "If we didn't have this extra ambulance service there would be no ambulances available to transport somebody that had to desperately get to the hospital."
+
+Donnelly also flagged a water infrastructure problem not in this package: Eddy's Pump Lane, a facility that had already consumed roughly $300,000 in repairs, with a single-point failure that could affect 110,000 residents. A bypass valve was being considered. A fuller plan and budget request would come to the council later.
 
 All items passed 7-0 in both the Finance Committee and the Special Meeting.
 
