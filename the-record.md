@@ -231,11 +231,9 @@ The seat stayed empty heading into budget season. Roughly 20 candidates were int
 
 ### [Summer 2024 — Sound Ordinance Enforcement Imposed Without Council Vote](/2024/06/01/sound-ordinance-enforcement-without-council-vote/)
 
-In summer 2024, the mayor's office started enforcing a 9 PM cutoff for outdoor music at downtown bars and restaurants, with no council vote. The administration called it an application of "existing guidelines," but outdoor music had never been enforced under the existing code, and business owners said the 9 PM cutoff was a new restriction in everything but name.
+Troy's Nighthawks Block Party was canceled in June 2024 after organizers cited disputes with the mayor's office. It was the first public signal that the Mantello administration was applying a new standard to outdoor music, one the council had never voted on. By summer 2024, a 9 PM cutoff was in effect for downtown outdoor music. The administration called it "existing guidelines." Business owners said it was a new restriction in everything but name, covering 180 to 237 establishments and cutting into roughly half of bar income that falls after 9 PM. Musicians moved bookings to Albany. By January 2026, Gigi Sweets documented the damage at the new council's first public forum. The cutoff had been walked back to 10 PM under pressure, but the harm was done. No ordinance was amended. No public hearing was held. No council member voted yes or no.
 
-Troy's Nighthawks Block Party, a charity fundraiser, was canceled in June 2024 after organizers cited disputes with the mayor's office. Business owners reported that 11 to 13 percent of restaurant revenue and roughly half of bar income comes after 9 PM, hitting 180 to 237 downtown establishments. By the time speakers raised it at the January 8, 2026 public forum, the cutoff had been walked back to 10 PM, but musicians had already started heading to Albany.
-
-*Sources: [CBS6](https://cbs6albany.com/news/local/troys-outdoor-music-crackdown-amid-complaints-hits-a-sour-note-with-some-mayor-office-loud-music-city-code), [NYSMusic](https://nysmusic.com/2024/08/09/what-happened-to-troys-nighthawks-block-party/), [News10](https://www.news10.com/news/confusion-grows-over-outdoor-music-permits-in-troy/)*
+*Sources: [CBS6](https://cbs6albany.com/news/local/troys-outdoor-music-crackdown-amid-complaints-hits-a-sour-note-with-some-mayor-office-loud-music-city-code), [NYSMusic](https://nysmusic.com/2024/08/09/what-happened-to-troys-nighthawks-block-party/), [News10](https://www.news10.com/news/confusion-grows-over-outdoor-music-permits-in-troy/), Troy City Council Public Forum, January 8, 2026 (transcript)*
 
 ---
 
