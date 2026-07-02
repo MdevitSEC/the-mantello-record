@@ -3,6 +3,7 @@ layout: page
 title: "Mantello's Record"
 subtitle: "Every documented instance of controversy, failure, and overreach by the Mantello administration — most recent first."
 permalink: /the-record/
+description: "Every documented controversy, governance failure, and act of overreach by Troy, NY Mayor Carmella Mantello — sourced from council transcripts, local news, and official city records. Most recent first."
 ---
 
 Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. Below is the complete record of documented controversies, sourced from local news, public meeting transcripts, and official city records.

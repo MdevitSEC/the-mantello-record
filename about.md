@@ -3,6 +3,7 @@ layout: page
 title: "About"
 subtitle: "Why this record exists."
 permalink: /about/
+description: "The Mantello Record is an independent publication documenting Troy, NY Mayor Carmella Mantello's administration — measuring her record against her own promises of competence, transparency, and accountability."
 ---
 
 The Mantello Record is an independent editorial publication based in Troy, New York.

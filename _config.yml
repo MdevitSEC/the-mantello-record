@@ -1,9 +1,21 @@
 title: "The Mantello Record"
-description: "A public record of Mayor Carmella Mantello's controversies in Troy, NY."
+description: "The documented record of Mayor Carmella Mantello's controversies, failures, and overreach in Troy, NY — sourced from council meeting transcripts, local news, and official city documents."
+tagline: "Accountability journalism on Troy, NY Mayor Carmella Mantello."
 url: "https://www.themantellorecord.com"
 baseurl: ""
 
-author: "The Mantello Record"
+author:
+  name: "The Mantello Record"
+
+twitter:
+  card: summary
+
+social:
+  name: The Mantello Record
+  links: []
+
+logo: "/assets/images/record.png"
+
 email: ""
 
 permalink: /:year/:month/:day/:title/
