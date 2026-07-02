@@ -7,7 +7,7 @@ categories: ["Legal Disputes", "Executive Overreach"]
 
 Troy's City Council filed an Article 78 proceeding in Rensselaer County Supreme Court on May 11, asking a judge to declare Mantello's April 1 emergency order unlawful, nullify it, and throw out the Flock Safety contract renewal. The legal complaint is direct: Mantello used emergency powers to authorize a $78,000 payment without council or auditor approval, cutting them out of the process entirely.
 
-"Because we live in a democracy," the council stated, "policy disputes are resolved through the democratic lawmaking process — not at the whims of a single chief executive."
+"Because we live in a democracy," the council stated, "policy disputes are resolved through the democratic lawmaking process, not at the whims of a single chief executive."
 
 Mantello called it "frivolous litigation instead of collaboration."
 
