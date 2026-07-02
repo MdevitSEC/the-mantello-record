@@ -11,11 +11,11 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. Below
 
 ## 2026
 
-### [June 25, 2026 — Council Overrides Emergency Powers Veto in 12 Minutes; Mantello at Fundraiser](/2026/06/25/mantello-skips-charter-meeting-fundraiser/)
+### [June 25, 2026 — Council Moves to Limit Emergency Powers in 11-Minute Meeting; Mantello at Cookout Fundraiser](/2026/06/25/mantello-skips-charter-meeting-fundraiser/)
 
-The Troy City Council called a special meeting on June 25, 2026, to override Mantello's veto of the resolution scheduling a public hearing on Local Law 4, a charter amendment to restrict her emergency declaration powers. The meeting lasted 12 minutes. Mantello was not there. She had a fundraiser. The Troy City Charter requires the mayor to attend all regular and special meetings of the City Council. Local Law 4 would redefine "disaster" to specific catastrophic events -- fire, flood, earthquake, hurricane, and a defined list -- closing the gap Mantello exploited on April 1 when she declared a public safety emergency over a camera contract renewal.
+The Troy City Council called a special meeting on June 25, 2026, to schedule public hearings on Local Law 4, a charter amendment that would close the gap Mantello used on April 1 to declare a public safety emergency over a camera contract renewal. The meeting lasted 11 minutes. Mantello was not there. She was hosting a cookout fundraiser at the C.R.A.B. Club. Neither the mayor nor the Corporation Counsel attended, despite charter requirements that both be present at all council meetings. Three residents cited the charter violations by name during the meeting. Resolution 72 passed 7-0.
 
-*Sources: [WGNA](https://wgna.com/troy-limiting-emergency-powers/); Troy City Charter, Article VI; Troy City Council Special Meeting Agenda, June 25, 2026*
+*Sources: [YouTube recording](https://www.youtube.com/watch?v=EQjj0NhjbNU&t=2s); [Meeting minutes](https://www.troyny.gov/AgendaCenter/ViewFile/Minutes/_06252026-1841); [Mayor Mantello Facebook](https://www.facebook.com/CMforTroy/posts/pfbid02cLTzrjcWi34BkBgFiYak9f9TPuTaxMzjYzeL8oseff4fUk11KXUCFNoyg3SFL1XGl)*
 
 ---
 
