@@ -5,7 +5,7 @@ date: 2026-04-09
 categories: ["Executive Overreach", "Community Impact"]
 ---
 
-The Troy City Council overrode Mantello's veto of Good Cause Eviction on April 9, 2026, by a vote of 7-0. It was the same margin as the original passage in March. Every Republican-aligned council member who had blocked the law -- first by refusing a public hearing in May 2025, then by losing in November -- was gone. The council that replaced them did not waver.
+The Troy City Council overrode Mantello's veto of Good Cause Eviction on April 9, 2026, by a vote of 7-0. It was the same margin as the original passage in March. Every Republican-aligned council member who had blocked the law was gone, first having refused a public hearing in May 2025, then having lost in November. The council that replaced them did not waver.
 
 District 1 Councilor Phil DiLorenzo framed it directly: "Do we stand with our residents, or do we ignore what they've made abundantly clear?"
 
