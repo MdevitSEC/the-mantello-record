@@ -163,9 +163,11 @@ At the November 20, 2025 Finance Meeting, Morrissey announced a settlement: the 
 
 ### [May 2025 — Third Comptroller in 18 Months Hired](/2025/05/29/third-comptroller-18-months/)
 
-Michael McNeff was Troy's third comptroller in roughly 18 months. Before him came Jack Krokos, hired in January 2025. Before Krokos came Dylan Spring, hired in February 2024 and gone by July. Before all of them came a vacancy: Mantello started her term in January 2024 without a comptroller at all, the first time that had happened in 40 years. The revolving door cost the city more than $260,000 in outside accounting fees.
+Michael McNeff was Troy's third comptroller in roughly 18 months. Before him came Jack Krokos, publicly welcomed at the January 23 Finance Meeting. Before Krokos came Dylan Spring, hired in February 2024 and gone by July. Before all of them, Mantello started her term without a comptroller at all, the first time that had happened in 40 years. The revolving door cost the city more than $260,000 in outside accounting fees. The comptroller's office was not the only gap: by May 2025, the city also had no permanent DPU commissioner and no director of operations at the water plant.
 
-*Sources: [WAMC](https://www.wamc.org/news/2025-05-29/troy-welcomes-its-newest-comptroller), [WAMC comptroller history](https://www.wamc.org/news/2025-02-07/city-of-troy-once-again-has-a-new-comptroller)*
+During the vacuum, city finances ran through Gabrielle Mahoney, a Chief Account Clerk with roughly a dozen years at the city, who was confirmed as temporary treasurer three times. The third confirmation came not for charter compliance but because the Environmental Facilities Corporation was withholding grant funds, including lead waterline replacement money, until the city produced documentation that its chief fiscal officer was formally authorized. When Council Member Vera asked for Mahoney's resume before the vote, Corporation Counsel Morrissey said he didn't have one: "I don't know if there is a resume at the present time." Mahoney was in the hallway. The council was told she could not come in. They confirmed her 7-0.
+
+*Sources: [WAMC](https://www.wamc.org/news/2025-05-29/troy-welcomes-its-newest-comptroller), [WAMC comptroller history](https://www.wamc.org/news/2025-02-07/city-of-troy-once-again-has-a-new-comptroller), Troy City Council Finance Meetings, January 23 and May 1, 2025 (transcripts)*
 
 ---
 
