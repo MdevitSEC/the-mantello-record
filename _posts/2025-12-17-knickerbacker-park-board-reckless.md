@@ -11,7 +11,7 @@ The board's account: the mayor ignored them for five months, so they got a lawye
 
 **The dispute continued into 2026**
 
-At the April 23, 2026 law committee meeting, the Nick Board, the private nonprofit trust that has owned Knickerbocker Park since 1936, testified that the city was approximately five months in arrears and owed $25,000 in unpaid obligations as of that date. The dispute had not resolved.
+At the April 23, 2026 law committee meeting, the Knick Board, the private nonprofit trust that has owned Knickerbocker Park since 1936, testified that the city was approximately five months in arrears and owed $25,000 in unpaid obligations as of that date. The dispute had not resolved.
 
 The underlying conflict was a document mismatch. A 2020 term offer sheet set payments at $5,000 per month. The underlying 2007 lease, which runs through 2037, set the rate at $1 per year. The city's position: the 2020 document had expired, and it was only obligated under the $1-per-year lease. The city had rejected the board's 2025 lease renewal proposal as a "non-starter" in December 2025.
 

@@ -27,13 +27,13 @@ The failure to respond to good-faith communication was not limited to FOIL. It r
 
 - **CSEA labor contract.** CSEA delivered a draft integrated contract to the city in November 2025. The administration failed to respond despite multiple follow-up emails from November 2025 through February 2026. When CSEA filed a Taylor Law information request in February with a March 9 deadline, Corporation Counsel Morrissey responded that day with a proposal for a word-for-word, line-by-line review process the union described as "laborious." CSEA subsequently filed an improper practice charge. Approximately three to four total improper practice charges were pending against the city as of April 2026.
 
-- **Nick Board / Knickerbocker Park.** The Nick Board submitted a 2025 lease renewal proposal. The city rejected it as a "non-starter" in December 2025. As of April 2026, the city had been in arrears on approximately $25,000 in obligations for five months, and the administration's position had shifted to claiming the lease runs at $1 per year under a 2007 document, rather than the $5,000 per month established in a 2020 term offer sheet.
+- **Knick Board / Knickerbocker Park.** The Nick Board submitted a 2025 lease renewal proposal. The city rejected it as a "non-starter" in December 2025. As of April 2026, the city had been in arrears on approximately $25,000 in obligations for five months, and the administration's position had shifted to claiming the lease runs at $1 per year under a 2007 document, rather than the $5,000 per month established in a 2020 term offer sheet.
 
 - **Community proposals.** Resident Drea Leanza described submitting a proposal nearly two years earlier to build owner-occupied homes on a city-owned South Troy lot, with TAP and Habitat for Humanity involved. No response. Resident Natalie Jabau described a rezoning correction letter sent in October 2025 to the council and mayor. No response. A resident named Noah emailed Communications Director Horton twice about removed street benches with no reply, then filed a FOIL request. The city said it had nothing on the record. Noah's assessment: "Either they lied to me or they have really bad records."
 
 - **The council itself.** Council President Steele wrote to the administration in June 2025 and every month after, requesting basic documents on the Proctor's Theater city hall project. She never received a reply.
 
-At the April 23, 2026 Law Committee meeting, David Banks of the Troy Area Labor Council drew the connection directly: the administration had failed to respond to good-faith outreach from counterparties over extended periods in both the CSEA contract dispute and the Nick Board situation. It was the same pattern, applied to different organizations.
+At the April 23, 2026 Law Committee meeting, David Banks of the Troy Area Labor Council drew the connection directly: the administration had failed to respond to good-faith outreach from counterparties over extended periods in both the CSEA contract dispute and the Knick Board situation. It was the same pattern, applied to different organizations.
 
 ---
 
