@@ -195,13 +195,15 @@ The city had no permanent comptroller from July 2024 through the entire budget s
 
 ### [July 26, 2024 — Planning Commission Abolished, Replaced With Mayor-Appointed Board](/2024/07/26/local-law-3-planning-commission-repeal/)
 
-Council President Steele called it a "power grab." On July 26, 2024, the Republican council voted 4-3 to abolish Troy's independent Planning Commission and replace it with a five-member Planning Board appointed entirely by the mayor. The old commission had seven members and operated independently. The new board has five members and answers only to Mantello.
+Council President Steele called it a "power grab." On July 26, 2024, the Republican council voted 4-3 to abolish Troy's independent Planning Commission and replace it with a five-member Planning Board appointed entirely by the mayor. Council Member Keal had already tipped his hand in writing: he told a sitting commissioner he would support abolishing the commission because "a new administration wants people who share its vision." Commissioner James Rath read that email aloud at the July 11 hearing while Keal sat at the dais.
 
-Mantello said the commission moved too slowly. Critics said it was the only independent check on development decisions the city had.
+The commission had reviewed 118 projects in three years and rejected none, including 20 of the most demanding environmental reviews the process requires. Its members were an architectural historian, a transportation planner, a registered architect, and a career planning professional. None of them answered to Mantello, and none of them were going to. Riverkeeper, Scenic Hudson, and Hudson River Sloop Clearwater submitted a joint statement urging a no vote. Every speaker at both public hearings opposed the change. The council's majority voted yes anyway.
 
-**Partisan angle:** Strict party-line vote. The result was an unelected body with land use authority that reports solely to the mayor.
+The companion ordinance creating the new board (Ord. 39) had passed on July 11 with only four votes, when the charter required five to adopt legislation at the same meeting it was introduced. Council Member Vera raised the procedural gap before the final vote. No written legal analysis was ever produced. Mantello filled all five new board seats herself after Labor Day 2024.
 
-*Sources: [CBS6](https://cbs6albany.com/news/local/opposition-cries-foul-as-troy-replaces-planning-commission-with-mayor-appointed-board-mantello), [WAMC](https://www.wamc.org/news/2024-07-26/troy-planning-commission-abolished), [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/politics/2024/07/26/troy-planning-commission-repeal-planning-board-formation)*
+At the January 8, 2026 public forum, Mark DeVit of South Troy asked the new council to reinstate the commission and dissolve the replacement board.
+
+*Sources: [CBS6](https://cbs6albany.com/news/local/opposition-cries-foul-as-troy-replaces-planning-commission-with-mayor-appointed-board-mantello), [WAMC](https://www.wamc.org/news/2024-07-26/troy-planning-commission-abolished), [Spectrum News](https://spectrumlocalnews.com/nys/capital-region/politics/2024/07/26/troy-planning-commission-repeal-planning-board-formation), Troy City Council meetings July 11 and July 25, 2024 (transcripts); January 8, 2026 (transcript)*
 
 ---
 

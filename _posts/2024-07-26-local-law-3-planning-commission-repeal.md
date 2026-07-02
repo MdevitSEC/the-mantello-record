@@ -109,4 +109,10 @@ The council's majority voted yes.
 
 ---
 
+## Two Years Later
+
+At the new council's first public forum on January 8, 2026, Mark DeVit of South Troy put the result on the record: "Troy's planning commission was dissolved two years ago and replaced with a planning board lacking substantive expertise in buildings and development." He asked the new council to reinstate the commission and dissolve the replacement board.
+
+---
+
 *Sources: Troy City Council meetings, July 11, 2024 and July 25, 2024 (transcripts and clerk's minutes); [WAMC, "Troy's Planning Commission in Limbo After Mayor's Move," July 12, 2024](https://www.wamc.org/news/2024-07-12/troys-planning-commission-in-limbo-after-mayors-move); [WAMC, "Troy Planning Commission Abolished," July 26, 2024](https://www.wamc.org/news/2024-07-26/troy-planning-commission-abolished); [CBS6 Albany, "Opposition Cries Foul as Troy Replaces Planning Commission with Mayor-Appointed Board," July 26, 2024](https://cbs6albany.com/news/local/opposition-cries-foul-as-troy-replaces-planning-commission-with-mayor-appointed-board-mantello); [Spectrum News, "Troy City Council Repeals Planning Commission," July 26, 2024](https://spectrumlocalnews.com/nys/rochester/politics/2024/07/26/troy-planning-commission-repeal-planning-board-formation)*
