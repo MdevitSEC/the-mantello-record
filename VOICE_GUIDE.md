@@ -69,6 +69,13 @@ This publication has a voice. Use it.
 - "No ordinance change had been passed; no public input was sought; Carmella just did."
 - "Musicians called Albany and people followed."
 - "She said it existed in guidelines. Troy Businesses called it a new restriction."
+- "Eighteen months of no Quarterly Financial Reports. Reports required by the City Charter."
+- "The Republican-led City Council made budget decisions based solely on assurances."
+- "had left city finances a mystery."
+- "Then Spring left. He walked out mid-presentation."
+- "Two comptrollers. Eighteen months. No quarterly reports."
+- "Carmella ran on competence, yet took 18 months to secure a competent comptroller."
+- "Trojans deserved better."
 - "November 4th, Trojans voted out every Republican on the City Council. November 7th, Tom Casey called it nothing more than a national wave."
 - "A lease Carmella negotiated."
 - "The Administration projects savings built on a lease escalator Carmella negotiated herself."
@@ -115,6 +122,17 @@ This publication has a voice. Use it.
 - **"us" mid-callout.** Don't save the community pronoun for the close. Use it where the violation happened. "They chose to ignore us."
 - **Deadpan close.** No exclamation, no adjective. "Our Mayor thinks this is what responsible governance looks like." "thinks" implies delusion. More damning than outrage.
 - **Present tense for ongoing consequences.** "Trojans are now committed to Proctor's Theater until 2055." Not "were committed." The decision is still landing.
+- **"The State" capitalized.** Same actor treatment as "The Administration" and "The Council."
+- **Abstract noun as kicker.** "had left city finances a mystery." No adjective. The noun does the work.
+- **"yet" as a pivot.** More pointed than "but." "Carmella ran on competence, yet took 18 months to secure a competent comptroller."
+- **Dollar amount at sentence end.** Place the financial consequence where it lands hardest — at the close, not the middle.
+- **Wrap accountability into one clause.** Failure + taxpayer money + the number, all in one sentence. No separate sentence for the cost.
+- **"Then" as a narrative pivot for sudden turns.** "Then Spring left." One word signals the floor falling out.
+- **Colon for a final fact.** "Last day: July 9, 2024." The colon delivers the consequence clean.
+- **Fragment counter.** "Two comptrollers. Eighteen months. No quarterly reports." Three fragments in sequence build to a verdict without a verb.
+- **Quote-collection section.** Let the subject's own words form the through-line. Minimal prose. Close with a two-word community verdict. "She was right each time. Trojans deserved better."
+- **"Trojans deserved better."** — the shortest possible community verdict. Use as a final close when the record has already made the case.
+- **Section transitions end on consequence.** Each section closes on the human or financial cost before the next section opens on a new actor or event.
 
 ---
 
