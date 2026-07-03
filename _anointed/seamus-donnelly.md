@@ -5,14 +5,16 @@ role: "Deputy Mayor / LDC Executive Director"
 appointed: "January 2024"
 appointed_by: "Mayor Mantello"
 status: "Current"
-summary: "Spent eight years selling insurance. Now second-in-command of a city with hundreds of employees, the subject of improper labor practice charges, and executive director of the entity that issued $12.5 million in bonds for Carmella's signature project."
+summary: "Was Carmella's Legislative Aide when she ran City Council. Now her Deputy Mayor, the subject of improper labor practice charges, and executive director of the entity that issued $12.5 million in bonds for her signature project."
 ---
 
 ## Background
 
-Seamus Donnelly's professional background before government was eight years as a lead broker at Northeastern Insurance, managing roughly $3 million in accounts. Before insurance, he worked at Cojie Motors overseeing digital and customer retention programs. He attended Hudson Valley Community College for political science and did not complete a degree. No public record documents prior experience in municipal government, public administration, finance, or real estate development.
+Seamus Donnelly's professional background before government was eight years as a lead broker at Northeastern Insurance, managing roughly $3 million in accounts. Before insurance, he worked at Cojie Motors overseeing digital and customer retention programs. He attended Hudson Valley Community College for political science and did not complete a degree.
 
-His civic involvement before taking the role included serving on the Downtown Troy Business Improvement District board, the Little Italy Quality of Life Committee, and helping organize events including South Troy National Night Out, Pride Night Out, and the Stonewall 50th Anniversary Sidewalk Art Project. He described his insurance work as preparation for public service: "People put their trust in me to protect their families and businesses from the unforeseen."
+Before Carmella became mayor, she was City Council President. Donnelly served as Legislative Aide to the City Council during her tenure there. When she won the mayor's race, she brought him with her.
+
+His civic involvement included serving on the Downtown Troy Business Improvement District board, the Little Italy Quality of Life Committee, and helping organize events including South Troy National Night Out, Pride Night Out, and the Stonewall 50th Anniversary Sidewalk Art Project. He described his insurance work as preparation for public service: "People put their trust in me to protect their families and businesses from the unforeseen."
 
 Carmella named him to her transition team before taking office and installed him as Deputy Mayor on her first day in January 2024. She simultaneously appointed him Executive Director of the Troy Local Development Corporation, the quasi-public entity the city uses to issue bonds and manage development projects.
 
