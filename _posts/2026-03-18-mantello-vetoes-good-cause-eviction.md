@@ -5,9 +5,9 @@ date: 2026-03-18
 categories: ["Executive Overreach", "Community Impact"]
 ---
 
-The Troy City Council passed Good Cause Eviction 7-0 on March 5, 2026. Mantello vetoed it thirteen days later, calling for a third-party study before any action. Council President Steele's response from the floor on the night of the vote: "We will override her veto. Good Cause Eviction will become law in Troy."
+In May of 2025, a Republican-majority City Council voted against even scheduling a public hearing on Good Cause Eviction. Tenant Advocates who had been asking to be heard were silenced; undeterred, they left the chamber chanting, "We'll remember in November." Troy did remember. Every Republican who voted against the public hearing lost their seat. A fully Democratic council adopted it unanimously. Our Mayor's response? Veto!
 
-Two-thirds of Troy residents rent.
+In Troy, two-thirds of residents rent.
 
 ---
 
@@ -25,7 +25,7 @@ New York adopted Good Cause statewide in 2024, but required municipalities to op
 
 The council had been here before. On May 22, 2025, the Republican majority voted 4-3 against even scheduling a public hearing on Good Cause Eviction.
 
-Their arguments are on the record. Councilor Thomas Casey called the legislation a Fifth Amendment violation, saying landlords "have a chance of losing everything" while "renters get a U haul and move on." Councilor Bill Keal said renters "took the lowest cost rental unit available." Councilor Ryan Brosnan proposed Residential Occupancy Permits as an alternative, arguing they would "generate revenue for the city."
+Their arguments are on the record. Bill Keal said renters "took the lowest cost rental unit available." Tom Casey said nothing on the record that night worth preserving. Ryan Brosnan proposed Residential Occupancy Permits as an alternative.
 
 Tenant advocates left the chamber chanting "We'll remember in November." The coalition later held a candidate forum on tenant rights issues. No Republican candidates attended.
 
@@ -43,7 +43,7 @@ The new council reintroduced Good Cause Eviction in early 2026 and passed it una
 
 ## The Veto
 
-Mantello vetoed on March 18. Her stated concern was small landlords. "Many of our rental properties are owned and operated by small, local landlords, individuals and families who often own just one or two units," she wrote, citing rising costs for taxes, insurance, energy, and construction. She said she could not support the measure "without knowing the impact" and urged a transparent, comprehensive study.
+Carmella vetoed on March 18. Her stated concern was small landlords. "Many of our rental properties are owned and operated by small, local landlords, individuals and families who often own just one or two units," she wrote, citing rising costs for taxes, insurance, energy, and construction. She said she could not support the measure "without knowing the impact" and urged a transparent, comprehensive study.
 
 Her alternative: increase housing supply through construction, redevelopment, and landlord partnerships.
 
@@ -55,7 +55,7 @@ Mark Speedy of the Capital Region DSA, who had been organizing for the law for t
 
 ---
 
-**Partisan angle:** The Republican council voted in May 2025 against holding a public hearing. Voters replaced every one of them. The new council passed the law unanimously in March. Mantello vetoed it anyway and called for a study. The voters had already conducted the study.
+**Partisan angle:** Carmella campaigned on people over politics. And the People dismantled her council majority over being silenced on tenants' rights. The people have spoken, and the fully Democratic City Council delivered. She heard them and denied them anyway. She knows the number of renters in Troy, and we defied her partisanship.
 
 ---
 
