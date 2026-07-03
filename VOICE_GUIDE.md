@@ -60,6 +60,11 @@ This publication has a voice. Use it.
 - "Troy's comptroller position was vacant when Mantello took office. It was the first time that had happened in 40 years."
 - "She declared a public safety emergency on April Fools' Day to pay a contract her council had blocked."
 - "The board heard nothing back for five months. When they hired a lawyer, she called them reckless."
+- "Troy did remember. Every Republican who voted against the public hearing lost their seat."
+- "Our Mayor's response? Veto!"
+- "She heard the people and denied them anyway."
+- "There is an entity for this purpose, but the Administration chooses not to use it."
+- "In Troy, two-thirds of residents rent."
 
 ### Not this...
 - "In a shocking display of incompetence, the mayor once again failed Troy residents." (tell us what happened, not how to feel about it)
@@ -81,6 +86,15 @@ This publication has a voice. Use it.
 - **Attribution.** Quotes get a full name on first reference, last name after. Council President Steele, then Steele.
 - **Contractions are fine.** This is a publication with a voice, not a legal brief.
 - **Sentence fragments are not.** Unless used deliberately for punch. Sparingly.
+- **"the Administration"** — capitalize when referring to the Mantello administration as a body. Same for "the Council," "the Committee," "the People" when acting as a collective political force.
+- **"even" as an intensifier.** "Voted against even scheduling" raises the absurdity without an adjective.
+- **Ironic brevity framing.** "The meeting lasted all but 11 minutes." More pointed than stating the duration straight.
+- **"instead" and "undeterred" as pivot words.** Drop them after a contrast. No wind-up needed.
+- **Deliberate passive for obstruction.** "The veto is being used to delay the process" keeps focus on the mechanism, not the actor. Use it when describing delay tactics.
+- **Kicker structure.** Save the most damning structural fact for the final sentence. Deliver it plain. No follow-up needed. "There is an entity for this purpose, but the Administration chooses not to use it."
+- **Appositive introduction.** "Alex Horton, the Mayor's Records Access Officer, testified..." — name, then title, then action. No separate sentence for setup.
+- **Explain circular processes in one sentence.** Lay out structural problems bare. Let the structure indict itself.
+- **Connect procedural dots.** Don't just report what happened. Explain why the procedural move matters. "The veto is being used to delay the process of legislation, thereby keeping her Emergency Declaration in effect."
 
 ---
 
@@ -105,9 +119,20 @@ The "Partisan angle" callout is a tool unique to this publication. Use it carefu
 
 **The test:** Could this observation be supported in court? If the answer is yes, it belongs. If it is speculation dressed as analysis, cut it.
 
+**Voice rules for partisan callouts:**
+
+- Use **"Carmella"** — first name only, no title. The register drop is deliberate and pointed.
+- Use **"the People"** capitalized when the electorate is acting as a collective political force. Lowercase on second reference.
+- Use **"we"** when speaking as a Troy resident inside the fight, not above it. "We defied her partisanship." This is the sharpest gear available. Use it sparingly.
+- **Hearing vs. listening:** "She heard the people and denied them anyway" implies deliberate choice. "She listened" implies she considered it. Never give her the latter.
+- **Close on community action, not her failure.** End on what Troy did, not what Mantello did wrong. "We defied her partisanship" is stronger than ending on the veto.
+- **Connect the electoral dots.** If voters already answered the question she claims to be asking, say so. "The voters had already conducted that study."
+
 **Examples:**
 
-Good: "The vote happened when it did for a reason. The administration wanted the city hall move locked in before January 2026."
+Good: "Carmella campaigned on people over politics. And the People dismantled her council majority over being silenced on tenants' rights. The people have spoken, and the fully Democratic City Council delivered. She heard them and denied them anyway. She knows the number of renters in Troy, and we defied her partisanship."
+
+Good: "The vote happened when it did for a reason. The Administration wanted the city hall move locked in before January 2026."
 
 Not good: "This is just another example of Mantello putting party before people and proving she was never fit to lead Troy."
 
@@ -149,6 +174,32 @@ These patterns mimic insight without providing any. They are filler dressed up a
 - "No X. No Y. Just Z."
 
 **Why:** These constructions sound like they are building to something but deliver nothing. Troy residents do not need a wind-up. Say the thing.
+
+---
+
+## Article Ledes
+
+The lede is the most important sentence in the piece. If it does not stop the reader, nothing else matters.
+
+**Structure:** Setup the injustice, show the response, deliver the electoral or institutional consequence, land the gut punch, drop the stat alone.
+
+**"even" as an intensifier:** "voted against even scheduling a public hearing" — one word raises the absurdity without editorializing.
+
+**Semicolon + pivot word:** "were silenced; undeterred, they left the chamber chanting" — the semicolon creates the pause before the turn. "Undeterred" does the same work as "instead" with more weight.
+
+**City as subject:** "Troy did remember." Not "they remembered." The whole city owns the action.
+
+**Rhetorical question + one-word answer:** "Our Mayor's response? Veto!" — the question sets the pivot, the answer lands the punch. The exclamation point is doing real work, not decoration.
+
+**Stat as its own paragraph, localized:** "In Troy, two-thirds of residents rent." Move the location to the front. Give the stat its own line. It reads as a verdict, not a footnote.
+
+**"fully"** as a quantifier: "a fully Democratic City Council" — one word conveys the scale of the electoral rebuke without a separate sentence.
+
+**Example:**
+
+> In May of 2025, a Republican-majority City Council voted against even scheduling a public hearing on Good Cause Eviction. Tenant Advocates who had been asking to be heard were silenced; undeterred, they left the chamber chanting, "We'll remember in November." Troy did remember. Every Republican who voted against the public hearing lost their seat. A fully Democratic council adopted it unanimously. Our Mayor's response? Veto!
+>
+> In Troy, two-thirds of residents rent.
 
 ---
 
