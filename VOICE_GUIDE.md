@@ -69,6 +69,11 @@ This publication has a voice. Use it.
 - "No ordinance change had been passed; no public input was sought; Carmella just did."
 - "Musicians called Albany and people followed."
 - "She said it existed in guidelines. Troy Businesses called it a new restriction."
+- "November 4th, Trojans voted out every Republican on the City Council. November 7th, Tom Casey called it nothing more than a national wave."
+- "A lease Carmella negotiated."
+- "The Administration projects savings built on a lease escalator Carmella negotiated herself."
+- "They chose to ignore us and vote on a draft contract, stealing that decision from the newly elected council."
+- "Our Mayor thinks this is what responsible governance looks like."
 
 ### Not this...
 - "In a shocking display of incompetence, the mayor once again failed Troy residents." (tell us what happened, not how to feel about it)
@@ -99,6 +104,17 @@ This publication has a voice. Use it.
 - **Appositive introduction.** "Alex Horton, the Mayor's Records Access Officer, testified..." — name, then title, then action. No separate sentence for setup.
 - **Explain circular processes in one sentence.** Lay out structural problems bare. Let the structure indict itself.
 - **Connect procedural dots.** Don't just report what happened. Explain why the procedural move matters. "The veto is being used to delay the process of legislation, thereby keeping her Emergency Declaration in effect."
+- **"Trojans"** — community identity word for Troy residents acting as one. More rooted than "Troy residents" or "Troy voters."
+- **First names for Republican council members.** "Tom Casey," not "Council Member Casey." Same register as "Carmella."
+- **Date-date structure.** "November 4th... November 7th..." — juxtaposition does the editorial work. No connective tissue needed.
+- **Fragment as verdict.** No subject, just the action. "Dismissing the will of the people of Troy to be represented by a responsible government." More damning than a full sentence.
+- **"claims" over "says."** Implies skepticism without an adjective.
+- **"saddled"** and **"stealing"** — physical verbs implying burden placed or something taken without consent. Use when describing decisions made over the community's objection.
+- **Modifier as indictment.** "projects savings built on a lease escalator Carmella negotiated herself" — subordinate clause does the work. No second sentence needed.
+- **"herself" / "himself" for self-dealing.** Adds contempt without an adjective. She built the trap and called it savings.
+- **"us" mid-callout.** Don't save the community pronoun for the close. Use it where the violation happened. "They chose to ignore us."
+- **Deadpan close.** No exclamation, no adjective. "Our Mayor thinks this is what responsible governance looks like." "thinks" implies delusion. More damning than outrage.
+- **Present tense for ongoing consequences.** "Trojans are now committed to Proctor's Theater until 2055." Not "were committed." The decision is still landing.
 
 ---
 
@@ -137,6 +153,8 @@ The "Partisan angle" callout is a tool unique to this publication. Use it carefu
 Good: "Carmella campaigned on people over politics. And the People dismantled her council majority over being silenced on tenants' rights. The people have spoken, and the fully Democratic City Council delivered. She heard them and denied them anyway. She knows the number of renters in Troy, and we defied her partisanship."
 
 Good: "The vote happened when it did for a reason. The Administration wanted the city hall move locked in before January 2026."
+
+Good: "Trojans are now committed to Proctor's Theater until 2055. Why did an outgoing council vote on the decision? They were voted out; they chose to ignore us and vote on a draft contract, stealing that decision from the newly elected council. Our Mayor thinks this is what responsible governance looks like."
 
 Good: "In the summer of 2024, Carmella chose to change enforcement for downtown businesses. She imposed a 9 PM cutoff on outdoor music. The damage has been significant, loss of Block Parties and events that brought people out of all ages. She said it existed in guidelines. Troy Businesses called it a new restriction. Musicians called Albany and people followed."
 
