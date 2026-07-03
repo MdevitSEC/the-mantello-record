@@ -65,6 +65,10 @@ This publication has a voice. Use it.
 - "She heard the people and denied them anyway."
 - "There is an entity for this purpose, but the Administration chooses not to use it."
 - "In Troy, two-thirds of residents rent."
+- "But in June of 2024, it was canceled. Why?"
+- "No ordinance change had been passed; no public input was sought; Carmella just did."
+- "Musicians called Albany and people followed."
+- "She said it existed in guidelines. Troy Businesses called it a new restriction."
 
 ### Not this...
 - "In a shocking display of incompetence, the mayor once again failed Troy residents." (tell us what happened, not how to feel about it)
@@ -134,6 +138,8 @@ Good: "Carmella campaigned on people over politics. And the People dismantled he
 
 Good: "The vote happened when it did for a reason. The Administration wanted the city hall move locked in before January 2026."
 
+Good: "In the summer of 2024, Carmella chose to change enforcement for downtown businesses. She imposed a 9 PM cutoff on outdoor music. The damage has been significant, loss of Block Parties and events that brought people out of all ages. She said it existed in guidelines. Troy Businesses called it a new restriction. Musicians called Albany and people followed."
+
 Not good: "This is just another example of Mantello putting party before people and proving she was never fit to lead Troy."
 
 ---
@@ -195,11 +201,37 @@ The lede is the most important sentence in the piece. If it does not stop the re
 
 **"fully"** as a quantifier: "a fully Democratic City Council" — one word conveys the scale of the electoral rebuke without a separate sentence.
 
-**Example:**
+**"But" as a paragraph pivot:** Open the turn with "But" rather than "However" or a transition phrase. "But in June of 2024, it was canceled." One word, no wind-up.
+
+**One-word question as its own sentence:** "Why?" — creates a beat before the answer. The pause does the work.
+
+**Deliberate comma splice for gut punch:** "imposed a new standard, no music outside after 9 PM" — the comma makes the restriction feel like a quiet afterthought. More contemptuous than a colon or dash.
+
+**Quote pulled forward as paragraph opener:** Drop the isolated quote first, then identify the speaker. The reader enters the testimony before knowing who is speaking.
+
+**Present tense for past events:** "Gigi Sweets is speaking at the new council's first public forum." Vivid present. Puts the reader in the room.
+
+**Triple semicolon building to a register drop:** "No ordinance change had been passed; no public input was sought; Carmella just did." Formal, formal, then the floor falls out. The informality of the kicker lands harder after the structure.
+
+**Three-way claim structure:** Administration says X. Businesses say Y. Community pays the consequence. No editorial commentary needed between them.
+
+**Collective nouns as actors:** "Troy Businesses called it a new restriction." Capitalize when treating a group as a unified actor, same as "the People" and "the Administration."
+
+**Present perfect for ongoing damage:** "The damage has been significant" — not "was." Use when the harm is still running.
+
+**Community exodus as the kicker:** "Musicians called Albany and people followed." Lands harder than a revenue number. Shows the audience left, not just the performers. Human consequence over legal or financial technicality.
+
+**Human consequence over legal technicality:** When choosing between ending on a code violation and ending on community impact, choose the community. "Musicians called Albany and people followed" is stronger than "City Code says 11 PM."
+
+**Examples:**
 
 > In May of 2025, a Republican-majority City Council voted against even scheduling a public hearing on Good Cause Eviction. Tenant Advocates who had been asking to be heard were silenced; undeterred, they left the chamber chanting, "We'll remember in November." Troy did remember. Every Republican who voted against the public hearing lost their seat. A fully Democratic council adopted it unanimously. Our Mayor's response? Veto!
 >
 > In Troy, two-thirds of residents rent.
+
+> Nighthawks has been hosting a Block Party for years in downtown Troy, a charity fundraiser. But in June of 2024, it was canceled. Why? The Mayor's office had imposed a new standard, no music outside after 9 PM.
+>
+> "Without a council vote." Gigi Sweets is speaking at the new council's first public forum in January 2026. No ordinance change had been passed; no public input was sought; Carmella just did.
 
 ---
 
