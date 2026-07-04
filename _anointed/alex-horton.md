@@ -5,6 +5,7 @@ role: "Communications Director / Records Access Officer"
 appointed: "January 14, 2025"
 appointed_by: "Mayor Mantello"
 status: "Current"
+order: 4
 summary: "Came directly from a Republican congressional office when the congressman lost. Carmella made him the city's spokesman and its Records Access Officer under state law."
 ---
 

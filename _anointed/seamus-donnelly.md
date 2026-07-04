@@ -5,6 +5,7 @@ role: "Deputy Mayor / LDC Executive Director"
 appointed: "January 2024"
 appointed_by: "Mayor Mantello"
 status: "Current"
+order: 1
 summary: "Was Carmella's Legislative Aide when she ran City Council. Now her Deputy Mayor, the subject of improper labor practice charges, and executive director of the entity that issued $12.5 million in bonds for her signature project."
 ---
 

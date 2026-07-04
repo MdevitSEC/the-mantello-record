@@ -5,6 +5,7 @@ role: "Director of Finance and Human Resources / City Treasurer"
 appointed: "2024"
 appointed_by: "Mayor Mantello"
 status: "Current"
+order: 3
 summary: "A city employee with a planning background who was appointed temporary treasurer three times under a 90-day charter limit. When the council requested her resume at her May 2025 confirmation, The Administration said one might not exist."
 ---
 

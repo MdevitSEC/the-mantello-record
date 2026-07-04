@@ -5,6 +5,7 @@ role: "Commissioner of General Services / LDC Board Member"
 appointed: "January 2024 (General Services); June 17, 2026 (LDC)"
 appointed_by: "Mayor Mantello"
 status: "Current"
+order: 5
 summary: "Built a career in social services and workforce development. Now the sole staff member overseeing the city's physical infrastructure and a board member of the entity managing a $12.5 million bond deal for a project he helped plan."
 ---
 

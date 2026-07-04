@@ -14,7 +14,7 @@ title: "The Anointed"
 <section class="anointed-section">
   <div class="anointed-inner">
     <div class="profile-grid">
-      {% assign profiles = site.anointed | sort: 'title' %}
+      {% assign profiles = site.anointed | sort: 'order' %}
       {% for profile in profiles %}
       <div class="profile-card">
         <a class="profile-card-link" href="{{ profile.url | relative_url }}"></a>

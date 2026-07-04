@@ -5,6 +5,7 @@ role: "Deputy Director of Operations"
 appointed: "2026"
 appointed_by: "Mayor Mantello"
 status: "Current"
+order: 6
 summary: "Holds a city job created specifically for her at $80,000 a year. No job description. No open application. No council confirmation. Her prior employment included gig work and delivery service."
 ---
 
