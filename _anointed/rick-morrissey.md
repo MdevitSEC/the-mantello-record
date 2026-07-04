@@ -5,7 +5,7 @@ role: "Acting Corporation Counsel (City Attorney)"
 appointed: "January 2024 (initial); December 2024 (Acting)"
 appointed_by: "Mayor Mantello"
 status: "Current"
-order: 2
+order: 3
 summary: "The city's chief legal officer is operating in a role the city charter prohibits him from holding in a temporary capacity past 90 days. He has held it for at least 18 months. No one has formally raised it."
 ---
 
