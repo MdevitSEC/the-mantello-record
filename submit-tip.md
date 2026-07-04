@@ -10,8 +10,7 @@ If you have a document, a source, a lead, or an eyewitness account related to Ma
 Your name and contact information are for our use only. We will not publish them without your explicit permission. Anonymous submissions are welcome. A contact method helps us follow up, but it is never required.
 
 <div class="tip-form">
-  <form action="https://formspree.io/info@themantellorecord.com" method="POST">
-    <input type="hidden" name="_subject" value="New tip: The Mantello Record">
+  <form action="https://formspree.io/f/xaqgpzjb" method="POST">
 
     <div class="form-group">
       <label for="name">Your Name (optional)</label>
