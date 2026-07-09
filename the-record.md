@@ -12,6 +12,12 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. Below
 
 ## 2026
 
+### [July 9, 2026 — Carmella Is Pushing Back Against a Survey](/2026/07/09/mckee-street-cleaning-survey/)
+
+Noreen McKee sent a survey to residents and businesses asking whether five-day-a-week street sweeping is necessary. Carmella called it an overreach. The parking restrictions have been in place since the 1990s. She did not create them.
+
+---
+
 ### [June 25, 2026 — Council Moves to Limit Emergency Powers in 11-Minute Meeting; Mantello at Cookout Fundraiser](/2026/06/25/mantello-skips-charter-meeting-fundraiser/)
 
 The council called a special meeting to limit Carmella's emergency powers. It lasted 11 minutes. She was at a cookout fundraiser. The charter requires her to attend all special meetings.
