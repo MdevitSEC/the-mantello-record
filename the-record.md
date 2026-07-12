@@ -12,6 +12,12 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. Below
 
 ## 2026
 
+### [July 11, 2026 — Council Overrides Veto on Charter Change Hearing](/2026/07/11/charter-change-hearing-veto-override/)
+
+Carmella vetoed a resolution to schedule public hearings on a proposed charter change that would bring Troy's emergency declaration powers in line with state law. She did not veto the charter change. She vetoed the hearing. The council overrode her unanimously. Her Communications Director said the Administration cannot support a public hearing on legislation it opposes.
+
+---
+
 ### [July 9, 2026 — Carmella Is Pushing Back Against a Survey](/2026/07/09/mckee-street-cleaning-survey/)
 
 Noreen McKee sent a survey to residents and businesses asking whether five-day-a-week street sweeping is necessary. Carmella called it an overreach. The parking restrictions have been in place since the 1990s. She did not create them.
