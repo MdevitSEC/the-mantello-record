@@ -5,7 +5,7 @@ date: 2026-07-11
 categories: ["Executive Overreach", "Community Impact"]
 ---
 
-The Troy City Council voted unanimously to override Carmella's veto of a resolution scheduling public hearings on a proposed change to §C-40. The change would redefine the mayor's power to declare a state of emergency, bringing Troy's charter in line with Article 2-B, Section 24 of New York State Executive Law.
+The Troy City Council voted 7-0 to override Carmella's veto of Resolution 72, which scheduled public hearings on proposed Local Law No. 4 of 2026. The proposed law would repeal and replace §C-40, redefining the mayor's power to declare a state of emergency and bringing Troy's charter in line with Article 2-B, Section 24 of New York State Executive Law.
 
 Carmella did not veto the charter change. She vetoed the hearing.
 
@@ -33,9 +33,9 @@ Communications Director Alex Horton explained the Administration's reasoning.
 
 ## The Override
 
-Council President Sue Steele called the veto "not a good look."
+Council President Sue Steele did not mince words on the floor.
 
-"I totally cannot fathom how anyone would veto a public hearing that would allow the public to have had their say," Steele said during the meeting. "It doesn't matter the subject matter. You may disagree with the subject matter, but we're following the law, and we are having a public hearing."
+"Totally cannot fathom how anyone would veto a public hearing that would allow the public to have their say," she said. "You may disagree with the subject matter, but we're following the law and we are having a public hearing. To silence the public is not a good look."
 
 Steele added in a Facebook post after the vote: "I'm proud of the council voting to schedule the hearings and hear from the public."
 
@@ -57,4 +57,4 @@ Resident Frances Sweet agreed.
 
 ---
 
-*Sources: [Troy Record, July 11, 2026](https://www.troyrecord.com/2026/07/11/troy-city-council-overrides-mayors-veto-concerning-charter-change-hearing/)*
+*Sources: [Troy Record, July 11, 2026](https://www.troyrecord.com/2026/07/11/troy-city-council-overrides-mayors-veto-concerning-charter-change-hearing/); Troy City Council Finance and Regular Meeting, July 9, 2026 ([YouTube](https://www.youtube.com/watch?v=IDX792xQF78), [Finance Agenda](https://www.troyny.gov/AgendaCenter/ViewFile/Agenda/_07092026-1843), [Regular Agenda](https://www.troyny.gov/AgendaCenter/ViewFile/Agenda/_07092026-1844), [Finance Minutes](https://www.troyny.gov/AgendaCenter/ViewFile/Minutes/_07092026-1843), [Regular Minutes](https://www.troyny.gov/AgendaCenter/ViewFile/Minutes/_07092026-1844))*
