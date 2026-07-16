@@ -189,7 +189,7 @@ The pattern across two years: ask, and receive nothing back.
 | Category | Count |
 |----------|-------|
 | Legal disputes / lawsuits | 3 |
-| Unilateral executive actions bypassing or vetoing council | 6 |
+| Unilateral executive actions bypassing or vetoing council | 7 |
 | Party-line votes in administration's favor | 5 |
 | Governance / financial failures | 7+ |
 | Blocked or ignored community priorities | 6+ |
