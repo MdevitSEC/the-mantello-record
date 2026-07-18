@@ -3,5 +3,5 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 Gemfile.lock
-foil_tracker.csv
-foil_drafts.md
+FOIL/
+FOIL Submissions Report.pdf
