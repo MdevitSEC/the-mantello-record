@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 foil_tracker.csv
+foil_drafts.md
