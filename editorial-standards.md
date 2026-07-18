@@ -5,42 +5,41 @@ subtitle: "How we report. What we will and will not do."
 permalink: /editorial-standards/
 ---
 
-The Mantello Record is an accountability publication with a declared point of view. We document what Mayor Carmella Mantello and her administration have done, say clearly what it means, and let Troy residents decide what to do with that information.
+The Mantello Record is an accountability publication with a declared point of view. It documents what the Mantello administration has done and says plainly what it means. Troy residents decide what to do with that information.
 
-We are not neutral. We are honest.
+This publication is not neutral. It does not pretend to be. The record of this administration speaks for itself, and The Mantello Record presents it without softening.
 
 ---
 
-## How We Report
+## Sources
 
-**Every factual claim has a source.** Sources are linked inline. Public meeting transcripts and city clerk's minutes are primary sources, cited by date. Local outlets (WAMC, CBS6, Spectrum News, News10) are used as secondary sources where their reporting is verified.
+Every factual claim is linked to its source at the point it appears. Public meeting transcripts and city clerk's minutes are primary sources, cited by date. Local news coverage from WAMC, CBS6, Spectrum News, and News10 is used where their reporting is verified and consistent with the public record.
 
-**We do not publish unverified information.** Tips that cannot be independently confirmed do not appear in the record. If you send us a document, we will tell you whether we can use it before publishing anything.
+Tips and documents that cannot be independently verified do not appear here. If you submit a document, you will be told whether it can be used before anything is published.
 
-**We name the specific.** Dollar amounts, vote counts, ordinance numbers, street names, and dates are not decoration. They are the difference between a claim and a fact.
+---
+
+## Specificity
+
+Dollar amounts, vote counts, ordinance numbers, dates, and names appear in full. Vagueness is not a neutral choice. The difference between "city funds were spent" and "$78,000 in city funds were spent over the council's objection" is the difference between an assertion and a record.
 
 ---
 
 ## The Partisan Angle
 
-Some entries carry a "Partisan angle" callout. This is where The Mantello Record speaks editorially about the political meaning of a documented action.
-
-The callout is not a rant. It is a short, direct observation grounded in the same facts as the entry it accompanies. If the observation could not be defended with documentation, it does not appear.
+Some entries carry a Partisan Angle callout. This is where The Mantello Record states its editorial conclusion about a documented event. The callout is short, direct, and grounded in the same facts as the entry. If the conclusion cannot be defended with documentation, it does not appear.
 
 ---
 
-## What We Will Not Do
+## What This Publication Will Not Do
 
-- Publish unverified information
-- Attack private citizens
-- Tell readers how to feel about a documented fact
-- Soften the record to appear balanced when the record is what it is
+Publish unverified information. Quote private citizens without permission. Tell readers how to interpret documented facts. Present a sanitized version of the record in the name of balance.
 
 ---
 
-## Sourcing and Tips
+## Tips and Submissions
 
-If you have a document, a lead, or firsthand knowledge of something that belongs in this record, [submit it here](/submit-tip/). We review every submission. We do not publish names without permission. We do not share submissions with third parties.
+If you have a document, a lead, or firsthand knowledge of something that belongs in this record, [submit it here](/submit-tip/). Every submission is reviewed. Names are not published without permission. Submissions are not shared with third parties.
 
 ---
 
