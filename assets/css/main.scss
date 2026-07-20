@@ -15,7 +15,7 @@
   --accent: #FFB20F;
   --gray-light: #E8E9EB;
   --gray-mid: #d0d2d5;
-  --gray-text: #555B6E;
+  --gray-text: #4a5060;
   --font-headline: 'Barlow Condensed', Impact, sans-serif;
   --font-body: 'Merriweather', Georgia, serif;
   --font-ui: 'Barlow', Arial, sans-serif;
@@ -230,7 +230,7 @@ img { max-width: 100%; display: block; }
   font-size: 2.65rem;
   font-weight: 900;
   line-height: 1;
-  color: var(--accent);
+  color: var(--red);
   letter-spacing: -0.02em;
 }
 .stat-label {
@@ -364,7 +364,7 @@ img { max-width: 100%; display: block; }
   border-radius: 2px;
   transition: background 0.15s;
 }
-.btn-primary:hover { background: var(--accent); text-decoration: none; color: var(--white); }
+.btn-primary:hover { background: var(--accent); text-decoration: none; color: var(--black); }
 .view-all { text-align: center; margin-top: 2.5rem; }
 
 /* --- Full Post --- */
@@ -593,7 +593,7 @@ img { max-width: 100%; display: block; }
 .form-group textarea { min-height: 150px; resize: vertical; }
 .form-submit {
   background: var(--accent);
-  color: var(--white);
+  color: var(--black);
   border: none;
   padding: 0.8rem 2rem;
   font-family: var(--font-ui);
