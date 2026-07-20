@@ -31,8 +31,7 @@ layout: default
     <div class="post-list">
       {% for post in site.posts limit:6 %}
       <article class="post-card">
-        <a class="post-card-link" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}"></a>
-        <h3 class="post-card-title">{{ post.title }}</h3>
+        <h3 class="post-card-title"><a class="post-card-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
         {% if post.categories %}
           <div class="post-card-tags">

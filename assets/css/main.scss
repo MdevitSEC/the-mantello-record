@@ -275,6 +275,11 @@ img { max-width: 100%; display: block; }
 }
 .post-card:hover .post-card-title { color: var(--red); }
 .post-card-link {
+  color: inherit;
+  text-decoration: none;
+}
+.post-card-link::after {
+  content: '';
   position: absolute;
   inset: 0;
   z-index: 2;
