@@ -47,6 +47,21 @@
 }
 .skip-link:focus { top: 0; }
 
+/* --- Global focus style --- */
+/* Black ring passes on all light/colored backgrounds including red-dark (13.86:1 min) */
+:focus-visible {
+  outline: 3px solid var(--black);
+  outline-offset: 3px;
+}
+/* Accent ring on dark/black backgrounds where black outline is invisible */
+.site-header :focus-visible,
+.site-footer :focus-visible,
+.site-hero :focus-visible,
+.anointed-hero :focus-visible,
+.stats-bar :focus-visible {
+  outline-color: var(--accent);
+}
+
 /* --- Reset --- */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { font-size: 16px; scroll-behavior: smooth; }
@@ -585,9 +600,11 @@ img { max-width: 100%; display: block; }
   background: #ffffff;
   transition: border-color 0.15s;
 }
-.form-group input:focus,
-.form-group textarea:focus {
-  outline: none;
+.form-group input:focus-visible,
+.form-group textarea:focus-visible,
+.form-group select:focus-visible {
+  outline: 3px solid var(--black);
+  outline-offset: 2px;
   border-color: var(--accent);
 }
 .form-group textarea { min-height: 150px; resize: vertical; }
