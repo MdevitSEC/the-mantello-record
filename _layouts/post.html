@@ -23,7 +23,7 @@ layout: default
     {% if page.survey_url %}
     <div class="survey-cta">
       <p class="survey-cta-text">{{ page.survey_cta }}</p>
-      <a href="{{ page.survey_url }}" class="survey-cta-link" target="_blank" rel="noopener">Fill Out the Survey &rarr;</a>
+      <a href="{{ page.survey_url }}" class="survey-cta-link" target="_blank" rel="noopener" aria-label="Fill Out the Survey (opens in a new tab)">Fill Out the Survey <span aria-hidden="true">&rarr;</span></a>
     </div>
     {% endif %}
 
