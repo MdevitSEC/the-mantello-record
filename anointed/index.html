@@ -17,9 +17,8 @@ title: "The Anointed"
       {% assign profiles = site.anointed | sort: 'order' %}
       {% for profile in profiles %}
       <div class="profile-card">
-        <a class="profile-card-link" href="{{ profile.url | relative_url }}"></a>
         <div class="profile-card-role">{{ profile.role }}</div>
-        <h2 class="profile-card-name">{{ profile.title }}</h2>
+        <h2 class="profile-card-name"><a class="profile-card-link" href="{{ profile.url | relative_url }}">{{ profile.title }}</a></h2>
         {% if profile.summary %}
         <p class="profile-card-summary">{{ profile.summary }}</p>
         {% endif %}
