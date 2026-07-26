@@ -9,7 +9,7 @@ Three Flock Safety license plate readers were [destroyed overnight in Troy](http
 
 The statement is not wrong as a description of events. It is a gift.
 
-Three days earlier, on July 23, DeWolf released the results of a [60-day internal audit](https://www.wamc.org/news/2026-07-23/flock-cameras-troy-police-audit-results-dan-dewolf) of the Flock cameras. His finding: the cameras are "very useful." He presented no case counts, no arrest rates, no crimes solved, and no measurable outcomes of any kind. Asked to characterize what the cameras provide to investigators, the police chief offered this: "You're able to use those clues to maybe come up with a suspect, maybe not come up with a suspect. But without it, we'd have nothing."
+Three days earlier, on July 23, DeWolf publicly described [the findings of an internal review](https://www.wamc.org/news/2026-07-23/flock-cameras-troy-police-audit-results-dan-dewolf) of the Flock cameras. The [May 19 agreement](https://www.troyny.gov/m/newsflash/home/detail/367) between the Administration and the Council required annual audits and established a 60-day collaborative period. That period expired July 18. No formal audit document was released. DeWolf's public accounting, five days past the deadline: the cameras are "very useful." He presented no case counts, no arrest rates, no crimes solved, and no measurable outcomes of any kind. Asked to characterize what the cameras provide to investigators, the police chief offered this: "You're able to use those clues to maybe come up with a suspect, maybe not come up with a suspect. But without it, we'd have nothing."
 
 Troy pays [$78,000 per year](https://wnyt.com/top-stories/troy-city-council-halts-decision-on-78k-flock-camera-contract/) for 26 Flock cameras. That is $3,000 per camera, annually, with no documented return on record. When the audit dropped publicly, [Council President Sue Steele told WAMC](https://www.wamc.org/news/2026-07-24/troy-flock-camera-vandalism) she and other Council members had not yet seen its results.
 
@@ -23,4 +23,4 @@ What changed is the story. Mantello now holds a joint statement with her police 
 
 This publication does not support the destruction of city property. It does not believe property destruction advances the goal of placing the Flock contract under democratic accountability. The Council was the mechanism for that accountability. It was using it.
 
-The sixty-day pause on the McKee legislation expires July 26, 2026. The cameras were cut down three nights earlier. The police chief's public defense of a $78,000 annual surveillance contract: "maybe come up with a suspect, maybe not."
+The sixty-day collaborative period, established by the May 19 agreement, expired July 18, 2026. The cameras were cut five days later. The police chief's public defense of a $78,000 annual surveillance contract: "maybe come up with a suspect, maybe not."
