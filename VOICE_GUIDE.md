@@ -311,6 +311,9 @@ Facebook copy is shorter and more direct than site copy. The goal is to stop the
 - Add political context when it exists — "for re-election next year" raises the stakes
 - Close with a direct judgment. One sentence. Make it count.
 - No hashtags. No emoji. No "Link in bio."
+- **Lead with the accountability action, not the news event**, when the Administration is benefiting from something it did not cause. Build the contrast first so the news event lands harder. "The Council spent six months fighting this the right way. Someone cut the poles down instead." hits harder than opening on the vandalism.
+- **Cut hedge words from the verdict.** "She is just lucky" not "She is also very lucky." Drop "also," "perhaps," "arguably." The verdict is the verdict.
+- **Cut aggressively.** Facebook posts should be shorter than feels comfortable. Every sentence that does not earn its place comes out.
 
 **Example:**
 > Troy City Council held a special meeting to schedule PUBLIC HEARINGS limiting the Mayor's emergency powers. It lasted 11 minutes. Our Mayor and her Corporation Counsel skipped it to attend her Campaign Fundraiser for re-election next year.
