@@ -5,11 +5,9 @@ date: 2026-07-26
 categories: [ARPA, Accountability]
 ---
 
-On May 19, 2026, at the ribbon cutting for the new Capital Region Music Hub at the Troy Savings Bank Music Hall, Troy City Hall's official [Instagram account posted](https://www.instagram.com/p/DYh_fKXmfgb/) that "The Mantello Administration is proud to have allocated $1 million in ARPA funding toward complete HVAC upgrades that coincide with this project."
+Troy City Hall's [Instagram account](https://www.instagram.com/p/DYh_fKXmfgb/) credited "The Mantello Administration" with allocating $1 million in ARPA funding to the Troy Savings Bank Music Hall. The money was allocated in October 2022. Carmella Mantello became Mayor in January 2024.
 
-The $1 million was recommended by Mayor Patrick Madden's bipartisan ARPA steering committee in October 2022. Carmella Mantello became Mayor in January 2024. In October 2022, she was City Council President and a member of that steering committee.
-
-The Times Union [quoted her by name](https://www.timesunion.com/news/article/Troy-has-allocated-nearly-90-percent-of-its-17525005.php) in its October 23, 2022 coverage of the committee's recommendations. The article states she "discussed in detail all of the allocations."
+She was in the room when the decision was made, as City Council President, not Mayor. Mayor Patrick Madden's bipartisan ARPA steering committee recommended the allocation in October 2022, and the Times Union [quoted her by name](https://www.timesunion.com/news/article/Troy-has-allocated-nearly-90-percent-of-its-17525005.php) in its coverage of the announcement: she "discussed in detail all of the allocations."
 
 She was not the only person at the ribbon cutting who knew this. Council President Sue Steele stood at the ceremony with her. In 2022, Steele was the Democratic council leader on the same steering committee. The Times Union quoted her too: "We spent a lot of time going through the applications. It was a tough decision."
 
