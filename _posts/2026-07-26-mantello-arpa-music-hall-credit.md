@@ -7,6 +7,8 @@ categories: [ARPA, Accountability]
 
 Troy City Hall's [Instagram account](https://www.instagram.com/p/DYh_fKXmfgb/) credited "The Mantello Administration" with allocating $1 million in ARPA funding to the Troy Savings Bank Music Hall. The money was allocated in October 2022. Carmella Mantello became Mayor in January 2024.
 
+That post does two things. It inflates her role from committee member to decision-maker. And it erases Mayor Patrick Madden, whose administration built Troy NOW, ran the allocation process, and announced every award.
+
 She was in the room when the decision was made, as City Council President, not Mayor. Mayor Patrick Madden's bipartisan ARPA steering committee recommended the allocation in October 2022, and the Times Union [quoted her by name](https://www.timesunion.com/news/article/Troy-has-allocated-nearly-90-percent-of-its-17525005.php) in its coverage of the announcement: she "discussed in detail all of the allocations."
 
 She was not the only person at the ribbon cutting who knew this. Council President Sue Steele stood at the ceremony with her. In 2022, Steele was the Democratic council leader on the same steering committee. The Times Union quoted her too: "We spent a lot of time going through the applications. It was a tough decision."
@@ -17,7 +19,7 @@ The Mantello Administration did not allocate these funds. Council President Mant
 
 ---
 
-Troy NOW was quietly renamed "Troy Gets It Done: ARPA in Action" in June 2024. Both the [Facebook account](https://www.facebook.com/TroyGetsItDone/) and [Instagram account](https://www.instagram.com/troygetsitdone/) went silent by early 2025. The [Wayback Machine preserves the original projects page](https://web.archive.org/web/20240420004706/https://www.troynow.org/projects/), which documents the music hall allocation alongside every other Troy NOW award.
+Troy NOW was quietly renamed "Troy Gets It Done: ARPA in Action" in June 2024, stripping Madden's branding from his own program. Both the [Facebook account](https://www.facebook.com/TroyGetsItDone/) and [Instagram account](https://www.instagram.com/troygetsitdone/) went silent by early 2025. The [Wayback Machine preserves the original projects page](https://web.archive.org/web/20240420004706/https://www.troynow.org/projects/), which documents the music hall allocation alongside every other Troy NOW award.
 
 The original troynow.org redirects, as of this writing, to a UK website advertising an anime-themed online gambling app.
 
