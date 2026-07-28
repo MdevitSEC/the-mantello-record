@@ -30,6 +30,7 @@ layout: default
     <h2 class="section-heading">Latest Entries</h2>
     <div class="post-list">
       {% for post in site.posts limit:6 %}
+      {% if post.unlisted %}{% continue %}{% endif %}
       <article class="post-card">
         <h3 class="post-card-title"><a class="post-card-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
