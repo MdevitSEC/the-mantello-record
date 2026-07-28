@@ -96,15 +96,15 @@ You do not notice it happening. That is the point.
 
 Every story that centers one person requires erasing others. This one requires specific erasures.
 
-Troy's credit rating went up under Mantello. That is true. Here is what her press release did not say: that rating was built on seven consecutive years of balanced budgets under Mayor Madden, years when the city spent only what it brought in. Her release described it as "a significant achievement for our administration." ([#229](https://www.troyny.gov/m/newsflash/Home/Detail/229)) The Comptroller who managed those finances is not named. The seven years that earned the rating are not mentioned. The achievement belongs to the administration. She is the administration.
+Troy's credit rating went up under Mantello. That is true. Here is what her press release did not say: that rating was built on eight consecutive years of balanced budgets under Mayor Madden, years when the city spent only what it brought in. Her release described it as "a significant achievement for our administration." ([#229](https://www.troyny.gov/m/newsflash/Home/Detail/229)) The Comptroller who managed those finances is not named. The seven years that earned the rating are not mentioned. The achievement belongs to the administration. She is the administration.
 
 Troy's east side parks were improved under Mantello. That is true. Here is what her press releases did not say: the $2.235 million that paid for those improvements was budgeted by Madden before he left office. He titled his own announcement "Madden-Era ARPA Investments to Improve Parks in 2024." ([#149](https://www.troyny.gov/m/newsflash/Home/Detail/149)) Her releases announced the completed work. His name does not appear.
 
 Troy received $4.3 million in state funding for neighborhood revitalization. That is true. Here is what her press release did not say: someone on city staff wrote the application, managed the relationship with Albany, and tracked the reporting requirements. That person does not exist in the announcement. The governor who sent the money is mentioned once in passing. The mayor who announced it is the headline. ([#351](https://www.troyny.gov/m/newsflash/Home/Detail/351))
 
-Patrick Madden governed this city for seven years. He built the fiscal record she inherited. He allocated the federal money she is spending. He is named zero times across her 226 press releases, including releases that announce his programs, spend his money, and take credit for his work.
+Patrick Madden governed this city for eight years. He built the fiscal record she inherited. He allocated the federal money she is spending. He is named zero times across her 226 press releases, including releases that announce his programs, spend his money, and take credit for his work.
 
-The story cannot include him. If he exists, it is not her achievement. If the prior seven years exist, she did not start from zero. The story requires his absence.
+The story cannot include him. If he exists, it is not her achievement. If the prior eight years exist, she did not start from zero. The story requires his absence.
 
 ---
 
@@ -116,7 +116,7 @@ The street was paved. The grant came through. The credit rating went up. These a
 
 That is exactly what makes this work. You cannot fact-check a framing. "Mayor Mantello announced the park improvements" is a true sentence. The parks were improved. She announced them. Both facts are accurate.
 
-What is missing is not a lie. It is a selection: who funded the work, who planned it, who built it, whose seven years made it possible, and who did it before she arrived and got none of the credit. That selection, made 226 times, across every category of city business, by a mayor running for re-election, using a press office funded by your tax dollars, is propaganda.
+What is missing is not a lie. It is a selection: who funded the work, who planned it, who built it, whose eight years made it possible, and who did it before she arrived and got none of the credit. That selection, made 226 times, across every category of city business, by a mayor running for re-election, using a press office funded by your tax dollars, is propaganda.
 
 Not loud propaganda. Not crude propaganda. The kind that works precisely because it sounds like a city government doing its job.
 
