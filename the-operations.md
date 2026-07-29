@@ -5,9 +5,9 @@ permalink: /the-operations/
 description: "A series on how Carmella Mantello constructs her public image — and what that construction erases."
 ---
 
-Carmella Mantello names everything an operation. Operation Pothole. Operation Refresh. Project Sentinel. The military framing is not accidental. Operations have commanders. Commanders take credit. The troops disappear into the victory.
+Mayor Mantello promises "ideas over ideology." This series documents how her ideology works.
 
-This series documents how that works.
+Carmella names everything an operation. Operation Pothole. Operation Refresh. Project Sentinel. The military framing is not accidental. Operations have commanders. Commanders take credit. The troops disappear into the victory.
 
 ---
 
