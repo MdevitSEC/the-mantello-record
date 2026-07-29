@@ -2,8 +2,9 @@
 layout: post
 title: "The Mayor Announces"
 date: 2026-07-28
-categories: [press-office, accountability]
-unlisted: true
+categories: [press-office, accountability, the-operations]
+series: "The Operations"
+series_part: 1
 ---
 
 "Mayor Carmella R. Mantello today announced..."
