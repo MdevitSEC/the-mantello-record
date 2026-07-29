@@ -12,6 +12,18 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. Below
 
 ## 2026
 
+### [July 26, 2026 — Three Flock Cameras Destroyed. The Council Was Winning Without This.](/2026/07/26/flock-cameras-destroyed-troy/)
+
+Three Flock Safety license plate readers were destroyed overnight, poles cut in half. The Administration issued a joint statement calling it a pattern of vandalism. The 60-day collaborative audit period established by the May 19 agreement expired July 18 with no formal audit released. The police chief's public defense of a $78,000 annual surveillance contract: "maybe come up with a suspect, maybe not." The Council was using democratic accountability to challenge the contract. The vandalism changed the story.
+
+---
+
+### [July 15, 2026 — The City Moved the Sign Twenty Feet](/2026/07/15/panhandling-signs-moved-twenty-feet/)
+
+Twelve anti-panhandling signs went up across Troy without a council vote and without DOT clearance. A state safety engineer found one violated federal traffic control standards and ordered its removal. The Administration called the order a recommendation, moved the sign 20 feet, and declared compliance. The nonprofits named on the signs reported no measurable increase in donations or referrals. The Administration plans to install more.
+
+---
+
 ### [July 11, 2026 — Council Overrides Veto on Charter Change Hearing](/2026/07/11/charter-change-hearing-veto-override/)
 
 Carmella vetoed a resolution to schedule public hearings on a proposed charter change that would bring Troy's emergency declaration powers in line with state law. She did not veto the charter change. She vetoed the hearing. The council overrode her unanimously. Her Communications Director said the Administration cannot support a public hearing on legislation it opposes.
@@ -196,6 +208,18 @@ The pattern across two years: ask, and receive nothing back.
 | Actions against working residents and tenants | 4 |
 | Misleading or absent communication | 5+ |
 | Charter violations (required attendance, process) | 1+ |
+
+---
+
+---
+
+## The Operations
+
+A series on how Carmella Mantello constructs her public image and what that construction erases.
+
+### [The Mayor Announces](/2026/07/28/the-mayor-announces/)
+
+"Mayor Carmella R. Mantello today announced..." leads every official City of Troy press release. Before you read it again, you should know what it is doing. Three moves, repeated across every category of city business, until the description of who governs Troy feels like the only description that has ever existed.
 
 ---
 
