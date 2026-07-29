@@ -5,6 +5,7 @@ date: 2026-07-28
 categories: [press-office, accountability, the-operations]
 series: "The Operations"
 series_part: 2
+unlisted: true
 ---
 
 Generals do not fill potholes. They name the operation, attend the press conference, and accept the credit. The troops do the work. The commander takes the victory.
