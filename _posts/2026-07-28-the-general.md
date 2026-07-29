@@ -77,4 +77,4 @@ When you read "Mayor Mantello today announced..." ask one question: who did the 
 
 The answer is almost never in the release. That absence is the myth. The myth is the point.
 
-*Part 2 of The Operations. [Part 1: The Mayor Announces]({% post_url 2026-07-28-the-mayor-announces %})*
+*Part of [The Operations](/the-operations/) — a reference guide to how Carmella Mantello's messaging works.*

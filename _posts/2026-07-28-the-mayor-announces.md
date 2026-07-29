@@ -142,3 +142,5 @@ When she announces a crime statistic: ask what the number was before she arrived
 The phrase "The Mayor Announces" is not a neutral description of city government. It is a claim, repeated 226 times with your tax dollars, about who is responsible for what happens in Troy.
 
 Mayor Madden credited Carmella Mantello by name in his press releases when she was Council President. She has never named him in hers.
+
+*Part of [The Operations](/the-operations/) — a reference guide to how Carmella Mantello's messaging works.*
