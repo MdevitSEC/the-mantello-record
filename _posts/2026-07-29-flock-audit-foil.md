@@ -71,6 +71,10 @@ The May 19 agreement required the Administration to provide data to the Council 
 
 Troy pays [$78,000 per year](https://wnyt.com/top-stories/troy-city-council-halts-decision-on-78k-flock-camera-contract/) for 26 Flock cameras. The Council's oversight role over that contract is the reason the May 19 agreement existed. The agreement required delivery by July 18. The Council received the audit eleven days later.
 
+At the very least, the audit provides no evidence for a retention window longer than 48 hours.
+
+More than 80 municipalities across 28 states have cut ties with Flock since 2025. The data from Troy explains why.
+
 ---
 
 *Source documents: [60-Day Narrative (PDF)](/Research/Flock/60_Day_Narrative.pdf). Search logs on file.*
