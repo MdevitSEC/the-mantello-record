@@ -19,7 +19,7 @@ The broader audit, a one-page narrative and two spreadsheets covering May 23 thr
 
 The TPD's one-page summary describes the cameras as a "controlled, high-yield asset" that provides "exceptional return on investment." It reports 826 searches executed across 81 unique queries over the 60-day period, with 42.6% of authorized personnel conducting searches. Of 30 tracked cases: 7 arrests, 2 warrants, 9 active investigations, and 12 cases categorized as "operational resolution," a category that includes cleared unfounded reports, inter-agency intelligence sharing, and cases where victims declined prosecution. The narrative does not break down how many cases fall into each sub-category.
 
-The narrative's final paragraph argues against the Council's proposed 30-day data deletion window. It cites a July 4 hit-and-run investigation that required data three to four weeks old, then cautions that the 60-day sample window is too short to draw conclusions about typical data retention needs. The document uses its showcase case to argue for longer data retention, then argues the same case is too exceptional to draw conclusions from.
+The narrative's final paragraph argues against the Council's proposed 48-hour data deletion window. It cites a July 4 hit-and-run investigation that required data three to four weeks old, then cautions that the 60-day sample window is too short to draw conclusions about typical data retention needs. The document uses its showcase case to argue for longer data retention, then argues the same case is too exceptional to draw conclusions from.
 
 ---
 
@@ -61,7 +61,7 @@ The Los Angeles Police Department's Office of the Inspector General released a 9
 
 In Fargo, North Dakota, the police department launched a public Flock transparency portal in July 2026. Audit logs are accessible online, showing the time, date, purpose, and officer identifier for each search. In Binghamton, New York, under the same state law as Troy, the City Council is currently reviewing its Flock contracts. The proposed retention policy is 30 days. More than 80 localities across 28 states have terminated or deactivated Flock contracts since 2025, citing data-sharing violations, unauthorized federal access, and governance failures.
 
-Troy's proposed 30-day deletion window is not an outlier. It is the direction other jurisdictions are moving.
+The Council's proposed 48-hour deletion window is stricter than the 30-day standard being debated in other jurisdictions. The audit data supports it.
 
 ---
 
