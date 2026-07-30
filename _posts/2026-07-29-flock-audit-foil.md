@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Troy Filed a Flock Audit. The Council Received It Eleven Days Late."
+title: "Troy's Flock Audit Makes the Council's Case"
 date: 2026-07-29
 categories: [Flock, FOIL, accountability, surveillance]
 ---
 
-The Troy Police Department produced a 60-day audit of its Flock license plate reader system. The City Council received it eleven days after the deadline set by agreement.
+The Troy Police Department produced a case-by-case tracking log to argue against the City Council's proposed 48-hour data deletion window for Flock cameras. Every closed arrest in that document came from a search conducted within 48 hours of the plate being read.
 
-The [May 19 agreement](https://www.troyny.gov/m/newsflash/home/detail/367) between the Mantello Administration and the City Council required annual audits and established a 60-day collaborative period during which the police department would provide data to the Council. That window expired July 18. On July 24, Council President Sue Steele told WAMC she had not yet seen the audit results. A FOIL request was filed directly with the Troy Police Department on July 27. The Council and the FOIL requestor both received the audit on July 29.
+The log lists 30 cases with case numbers, investigation types, and outcome notes. Eleven of those 30 cases, 37 percent, required data older than 48 hours. Not one produced a closed arrest. The cases requiring older data are open investigations, cases where victims declined to continue, searches that could not identify a suspect, and searches run on behalf of other agencies. The Administration's argument for longer retention rests entirely on cases that did not result in arrests.
 
-The audit consists of a one-page narrative and two spreadsheets covering May 23 through July 23, 2026.
+That document was provided directly to Council Member Noreen McKee. It was not included in the FOIL response filed July 27, which asked for all reports prepared for or delivered to the Mayor or City Council.
+
+The broader audit, a one-page narrative and two spreadsheets covering May 23 through July 23, 2026, was produced under the [May 19 agreement](https://www.troyny.gov/m/newsflash/home/detail/367) between the Mantello Administration and the City Council. That agreement required annual audits and established a 60-day collaborative period during which the police department would provide data to the Council. The window expired July 18. On July 24, Council President Sue Steele told WAMC she had not yet seen the results. The Council and the FOIL requestor both received the audit on July 29, eleven days after the deadline.
 
 ---
 
@@ -37,17 +39,9 @@ The raw search logs tell a different story than the narrative summary. The two s
 
 ---
 
-**A fourth document**
+**One entry without a case number**
 
-A case-by-case ALPR tracking log covering the same May 23 through July 23 period was provided directly to Council Member Noreen McKee. It was not included in the FOIL response, which asked for all reports prepared for or delivered to the Mayor or City Council. The log lists 30 cases with case numbers, investigation types, and outcome notes. It was produced to argue against McKee's proposed 48-hour data retention window.
-
-The relevant measure for that argument is the gap between the date a plate was captured by a camera and the date a detective ran a system search. Any gap longer than 48 hours is a search a 48-hour deletion window would have blocked.
-
-Eleven of 30 cases, 37 percent, required data older than 48 hours. Not one of those eleven cases produced a closed arrest. The cases requiring older data are investigations still open, cases where victims declined to continue, searches that could not identify a suspect, and searches conducted on behalf of other agencies.
-
-Every closed arrest in the document came from a search conducted within 48 hours of the plate being read.
-
-One entry carries no case number and no incident date. An individual described as "known to Police" was searched using 30 days of ALPR history based on an anonymous web tip. The reason code is "Narcotics/Firearm Possession." No formal investigation was attached to the search. No arrest resulted. It is the entry with the longest data window and the least documentation.
+One entry in the tracking log carries no case number and no incident date. An individual described as "known to Police" was searched using 30 days of ALPR history based on an anonymous web tip. The reason code is "Narcotics/Firearm Possession." No formal investigation was attached to the search. No arrest resulted. It is the entry with the longest data window and the least documentation.
 
 ---
 
