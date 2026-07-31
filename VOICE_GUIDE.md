@@ -118,6 +118,7 @@ This publication has a voice. Use it.
 - **"claims" over "says."** Implies skepticism without an adjective.
 - **"saddled"** and **"stealing"** — physical verbs implying burden placed or something taken without consent. Use when describing decisions made over the community's objection.
 - **Modifier as indictment.** "projects savings built on a lease escalator Carmella negotiated herself" — subordinate clause does the work. No second sentence needed.
+- **Credentials as indictment.** Use the subject's own background to establish she knew better. Don't just document the failure — establish that her experience removed any defense of ignorance. "She served eight years as council president. She knew exactly how this was supposed to work." The technique forecloses the excuse before she can make it. Most effective when the failure is precisely in the area of her stated expertise.
 - **"herself" / "himself" for self-dealing.** Adds contempt without an adjective. She built the trap and called it savings.
 - **"us" mid-callout.** Don't save the community pronoun for the close. Use it where the violation happened. "They chose to ignore us."
 - **Deadpan close.** No exclamation, no adjective. "Our Mayor thinks this is what responsible governance looks like." "thinks" implies delusion. More damning than outrage.
