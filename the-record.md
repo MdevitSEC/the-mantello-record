@@ -12,6 +12,12 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. She p
 
 ## 2026
 
+### [July 29, 2026 — Troy's Flock Audit Makes the Council's Case](/2026/07/29/flock-audit-foil/)
+
+The Troy Police Department produced a 60-day audit of its Flock license plate reader system to argue against the Council's proposed 48-hour data deletion window. Every closed arrest in the audit came from a search conducted within 48 hours of the plate being read. The audit was delivered eleven days after the deadline set by the May 19 agreement. It has no officer names, no case numbers, and no auditor signature. Troy ran at least 25 searches on behalf of six other agencies. The audit cannot tell you who ran a single search or what case authorized it.
+
+---
+
 ### [July 26, 2026 — Three Flock Cameras Destroyed. The Council Was Winning Without This.](/2026/07/26/flock-cameras-destroyed-troy/)
 
 Three Flock Safety license plate readers were destroyed overnight, poles cut in half. The Administration issued a joint statement calling it a pattern of vandalism. The 60-day collaborative audit period established by the May 19 agreement expired July 18 with no formal audit released. The police chief's public defense of a $78,000 annual surveillance contract: "maybe come up with a suspect, maybe not." The Council was using democratic accountability to challenge the contract. The vandalism changed the story.
