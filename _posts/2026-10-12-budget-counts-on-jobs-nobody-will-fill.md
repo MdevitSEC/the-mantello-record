@@ -78,6 +78,8 @@ That is Carmella's budget message. It is the first time the pause appears anywhe
 
 Case by case means Carmella decides, one vacancy at a time, which city services get thinner. The parks crew, the water plant, the planning office: none of it shows up as a cut in the budget. It shows up as slower service: parks kept by half a crew, development reviews with no commissioner, and water crews working short.
 
+Police and fire are exempt from the pause. So who's mowing the parks? Unless the cops are cutting the grass at Frear Park and fixing water mains, that work waits.
+
 ---
 
 ## What an Honest Budget Would Show
