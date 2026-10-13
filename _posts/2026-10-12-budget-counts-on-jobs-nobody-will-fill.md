@@ -74,7 +74,7 @@ The budget balances because the empty jobs pay for the overtime. It only works a
 
 "I have directed City departments and staff to pause hiring for positions outside of police officers and firefighters, while evaluating any potential new hires on a case-by-case basis."
 
-That is Carmella's budget message. It is the first time the pause appears anywhere. It never came before the Council. No list says which jobs it holds open.
+That is Carmella's budget message. The Council never voted on the pause, and it doesn't appear in any Council meeting record this year. No list says which jobs it holds open.
 
 Case by case means Carmella decides, one vacancy at a time, which city services get thinner. The parks crew, the water plant, the planning office: none of it shows up as a cut in the budget. It shows up as slower service: parks kept by half a crew, development reviews with no commissioner, and water crews working short.
 
