@@ -12,6 +12,12 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. She p
 
 ## 2026
 
+### [October 12, 2026 — Carmella's Budget Counts on Jobs Nobody Will Fill](/2026/10/12/budget-counts-on-jobs-nobody-will-fill/)
+
+Carmella's 2027 budget assumes $2.53 million in city salaries will never be paid, about 40 workers' pay, budgeted as jobs that sit empty all year. It is 6.2 percent of payroll, the largest one-year jump since at least 2016. The empty jobs land in Parks, Planning, and the water and sewer crews, while about $2.1 million in overtime and other known costs is budgeted below what it cost in 2025. Her hiring pause decides which jobs stay open, case by case. The Council never voted on it.
+
+---
+
 ### [September 29, 2026 — Carmella Vetoed State Law. The Council Overrode Her.](/2026/09/29/local-law-4-veto-overridden/)
 
 Local Law 4 copies New York State's definition of an emergency into the Troy charter, caps declarations at 30 days, and lets the Council end one. Carmella called it a "shameless, ill-considered political maneuver" and vetoed it. The Council overrode her 6-0 on September 17. It was her third veto this year, after Good Cause Eviction and the public hearings on this same law. Twenty votes to override. Zero to sustain.
