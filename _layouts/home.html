@@ -29,8 +29,8 @@ layout: default
   <div class="posts-inner">
     <h2 class="section-heading">Latest Entries</h2>
     <div class="post-list">
-      {% for post in site.posts limit:6 %}
-      {% if post.unlisted %}{% continue %}{% endif %}
+      {% assign listed_posts = site.posts | where_exp: "p", "p.unlisted != true" %}
+      {% for post in listed_posts limit:6 %}
       <article class="post-card">
         <h3 class="post-card-title"><a class="post-card-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
