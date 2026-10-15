@@ -12,6 +12,12 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. She p
 
 ## 2026
 
+### [October 14, 2026 — Troy Isn't Schenectady. Not Yet.](/2026/10/14/troy-isnt-schenectady-yet/)
+
+Schenectady proposes a 42.8 percent levy increase, Saratoga Springs 18 percent, Albany 15. Each spent years propping up its budget with savings, pandemic money, a grant, or estimates the State Comptroller called unreasonable, until those ran out. Carmella's budget uses its own versions: $3.1 million in revenue above what the city collected in 2025, $2.1 million in costs budgeted below what they cost, $2.53 million in salary savings, a debt reserve about $104,000 short, and a firefighter grant scheduled to end. Troy still has time to fix it.
+
+---
+
 ### [October 12, 2026 — Carmella's Budget Counts on Jobs Nobody Will Fill](/2026/10/12/budget-counts-on-jobs-nobody-will-fill/)
 
 Carmella's 2027 budget assumes $2.53 million in city salaries will never be paid, about 40 workers' pay, budgeted as jobs that sit empty all year. It is 6.2 percent of payroll, the largest one-year jump since at least 2016. The empty jobs land in Parks, Planning, and the water and sewer crews, while about $2.1 million in overtime and other known costs is budgeted below what it cost in 2025. Her hiring pause decides which jobs stay open, case by case. The Council never voted on it.
