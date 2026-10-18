@@ -299,24 +299,42 @@ Every entry in The Mantello Record should read the way a sharp city hall beat re
 
 ## Facebook Posts
 
-Facebook copy is shorter and more direct than site copy. The goal is to stop the scroll, deliver the point, and send people to the article.
+Facebook copy is shorter and more direct than site copy. The goal is to stop the scroll and send people to the article. The post is the hook. The article is the content.
+
+**Every post gets an image.** Images get better engagement than text alone.
 
 **Structure:**
-1. Setup paragraph: the facts, with political stakes where relevant ("for re-election next year," "on its 85th day")
-2. One-line editorial verdict
-3. URL, no label
+1. The hook: three or four sentences, one paragraph. Open with a question or contrast that makes the reader need the answer, then give just enough to make them click. Don't summarize the article.
+2. URL, no label
+
+**Hook patterns that work:**
+- **Question and answer.** Ask the question her own words raise, then answer it in a few words. "How does Our Mayor keep her tax increase at 'a modest 3.4%'? Leave $2.1 MILLION of the bills out."
+- **Build on the answer.** Follow with a short second move in the same rhythm. "Then count 40 empty city jobs as savings."
+- **End on the reaction.** Close with how the Administration responded when someone asked, in their own words. It gives the reader a reason to click.
+
+**The image:**
+- Leads with the article's title as the big gold headline, directly under the logo.
+- Below it, two to four key figures as label-and-number rows, with a small source line ("Carmella's 2027 budget").
+- themantellorecord.com at the bottom.
+- Same look every time: newspaper background, gold logo, Libre Baskerville. The script and font are in `_drafts/social/tools/`.
+- Every label must be as precise as the article. "$150K assessment," not "$150K home."
 
 **Voice rules specific to Facebook:**
 - Use "Our Mayor" over "the Mayor" or "Mantello" — it's community voice, slightly sardonic, and more engaging
 - ALL CAPS sparingly on key terms for emphasis ("PUBLIC HEARING," "CAMPAIGN FUNDRAISER")
 - Add political context when it exists — "for re-election next year" raises the stakes
-- Close with a direct judgment. One sentence. Make it count.
+- Close on the line that makes them click: a direct judgment or the Administration's own reaction. One sentence. Make it count.
 - No hashtags. No emoji. No "Link in bio."
 - **Lead with the accountability action, not the news event**, when the Administration is benefiting from something it did not cause. Build the contrast first so the news event lands harder. "The Council spent six months fighting this the right way. Someone cut the poles down instead." hits harder than opening on the vandalism.
 - **Cut hedge words from the verdict.** "She is just lucky" not "She is also very lucky." Drop "also," "perhaps," "arguably." The verdict is the verdict.
 - **Cut aggressively.** Facebook posts should be shorter than feels comfortable. Every sentence that does not earn its place comes out.
 
 **Example:**
+> How does Our Mayor keep her tax increase at "a modest 3.4%"? Leave $2.1 MILLION of the bills out. Then count 40 empty city jobs as savings. When the City Auditor asked about the city's reserves, the Deputy Mayor called it "a political charade."
+>
+> https://themantellorecord.com/2026/10/18/what-an-honest-budget-would-cost/
+
+**Earlier example** (setup and verdict style, still fine for news that needs context):
 > Troy City Council held a special meeting to schedule PUBLIC HEARINGS limiting the Mayor's emergency powers. It lasted 11 minutes. Our Mayor and her Corporation Counsel skipped it to attend her Campaign Fundraiser for re-election next year.
 >
 > The charter requires her to attend all special meetings. She chose her campaign over her duties to the city.
