@@ -12,6 +12,12 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. She p
 
 ## 2026
 
+### [October 18, 2026 — What an Honest Budget Would Cost](/2026/10/18/what-an-honest-budget-would-cost/)
+
+Carmella's 2027 budget raises the city tax bill on a home assessed at $150,000 by $85, a 3.42% rate increase she calls modest. It stays modest because it sets aside about $2.1 million less than overtime, lawsuits, workers' compensation, and other known costs ran in 2025, and counts $2.53 million in empty jobs as savings. Paying the known costs would add about 7% to the levy. Her message says Troy's rate is below its neighbors'; on the State Comptroller's market-value comparison it is higher. The surplus she cites, $1.2 million, matches neither of the city's own figures. At the October 15 hearing, Deputy Mayor Seamus Donnelly called the City Auditor's questions about reserves "a political charade."
+
+---
+
 ### [October 14, 2026 — Troy Isn't Schenectady. Not Yet.](/2026/10/14/troy-isnt-schenectady-yet/)
 
 Schenectady proposes a 42.8 percent levy increase, Saratoga Springs 18 percent, Albany 15. Each spent years propping up its budget with savings, pandemic money, a grant, or estimates the State Comptroller called unreasonable, until those ran out. Carmella's budget uses its own versions: $3.1 million in revenue above what the city collected in 2025, $2.1 million in costs budgeted below what they cost, $2.53 million in salary savings, a debt reserve about $104,000 short, and a firefighter grant scheduled to end. Troy still has time to fix it.
