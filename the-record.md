@@ -12,6 +12,12 @@ Mayor Carmella Mantello (R) has served as Troy's mayor since January 2024. She p
 
 ## 2026
 
+### [October 30, 2026 — The Savings Ran Out. The Bill Didn't.](/2026/10/30/savings-ran-out/)
+
+Carmella held down the 2026 tax rate by paying $2 million of Troy's debt bill out of the city's debt reserve. Her 2027 budget plans to take another $947,883 from a reserve that will have about $844,000 left. After that, the full debt payment falls on property taxes. Since the 2026 budget was adopted, the city has drawn $2.15 million from General Fund savings, and the 2027 sales tax estimate sits 6.2% above what Troy collected in 2025. When the City Auditor asked how much of the city's savings can be spent, the Administration wouldn't say. The outside auditors did: $10.1 million.
+
+---
+
 ### [October 18, 2026 — What an Honest Budget Would Cost](/2026/10/18/what-an-honest-budget-would-cost/)
 
 Carmella's 2027 budget raises the city tax bill on a home assessed at $150,000 by $85, a 3.42% rate increase she calls modest. It stays modest because it sets aside about $2.1 million less than overtime, lawsuits, workers' compensation, and other known costs ran in 2025, and counts $2.53 million in empty jobs as savings. Paying the known costs would add about 7% to the levy. Her message says Troy's rate is below its neighbors'; on the State Comptroller's market-value comparison it is higher. The surplus she cites, $1.2 million, matches neither of the city's own figures. At the October 15 hearing, Deputy Mayor Seamus Donnelly called the City Auditor's questions about reserves "a political charade."
